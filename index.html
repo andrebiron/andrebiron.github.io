@@ -335,14 +335,16 @@ h1,h2,h3,h4,.display{
   background:linear-gradient(90deg, var(--orange), var(--amber));border-radius:2px;
   transform:translateY(-2px);
 }
-.profile-stats{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:28px;position:relative}
+.profile-stats{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:28px;position:relative}
+.profile-stats > div{min-width:0}
 .profile-stat-num{
   font-family:'Plus Jakarta Sans';
-  font-size:42px;font-weight:800;line-height:1;letter-spacing:-.035em;
+  font-size:clamp(22px,3.6vw,34px);font-weight:800;line-height:1;letter-spacing:-.03em;
   background:linear-gradient(135deg, var(--orange-deep), var(--amber));
   -webkit-background-clip:text;background-clip:text;color:transparent;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
-.profile-stat-label{font-size:12.5px;color:var(--ink-soft);margin-top:8px;line-height:1.4;font-weight:500}
+.profile-stat-label{font-size:12px;color:var(--ink-soft);margin-top:6px;line-height:1.35;font-weight:500;word-break:break-word}
 
 /* Trajetória */
 .trajectory-title{
@@ -1305,8 +1307,8 @@ footer{
       <span class="section-tag-num">01</span>
       <span>Apresentação pessoal</span>
     </div>
-    <h2>Quem está <span class="accent">à frente</span><br><span class="light">da gestão.</span></h2>
-    <p class="section-lead">Quinze anos transformando organizações por meio de governança, eficiência operacional e comunicação integrada.</p>
+    <h2>Quem estará <span class="accent">liderando</span><br><span class="light">a gestão.</span></h2>
+
   </div>
 
   <div class="profile-grid">
@@ -1315,12 +1317,12 @@ footer{
       <div class="profile-name">André Biron</div>
       <div class="profile-role">Gestor de Negócios · Especialista em Comunicação Integrada</div>
       <p class="profile-quote">
-        Quinze anos transformando organizações por meio de governança, eficiência operacional e comunicação integrada.
+        Há 15 anos ajudo organizações a melhorarem seus processos e resultados através de inovação, eficiência operacional e redução de custos.
       </p>
       <div class="profile-stats">
         <div>
           <div class="profile-stat-num">R$60M</div>
-          <div class="profile-stat-label">em negociações</div>
+          <div class="profile-stat-label">em negociações de patrocínios</div>
         </div>
         <div>
           <div class="profile-stat-num">3.000+</div>
@@ -1384,7 +1386,7 @@ footer{
       <div class="arg-item">
         <div class="arg-num">3</div>
         <h4 class="arg-title">Comunicação integrada e engajamento</h4>
-        <p class="arg-text">Comunicação 360° para garantir o engajamento e que a estratégia da gestão seja compreendida por todos os públicos — moradores, funcionários, fornecedores e poder público.</p>
+        <p class="arg-text">Experiência em integrar Comunicação à gestão, engajando públicos de interesse e otimizando processos organizacionais.</p>
       </div>
     </div>
   </div>
@@ -1438,16 +1440,16 @@ footer{
     <div class="bignum-grid">
       <div class="bignum-card danger reveal">
         <div class="bignum-eyebrow">Inconsistência de registro</div>
-        <div class="bignum danger">R$ 303.887</div>
+        <div class="bignum danger">R$ 326.418</div>
         <p class="bignum-detail">
-          Diferença sem comprovação por extrato entre o que os balancetes apresentam — <strong>R$ 310 mil</strong> entre Fundo de Reserva e Fundo de Obras — e o saldo verificado em conta-corrente em 31 de março de 2026: <strong>R$ 6 mil</strong>.
+          Diferença sem comprovação por extrato entre o que os balancetes apresentam.
         </p>
       </div>
       <div class="bignum-card reveal">
         <div class="bignum-eyebrow">Vulnerabilidade financeira</div>
         <div class="bignum">R$ 248 mil</div>
         <p class="bignum-detail">
-          CDB consumido em 16 meses sem obras extraordinárias correspondentes.
+          CDB consumido em 16 meses para pagamento de despesas ordinárias correspondentes.
         </p>
       </div>
     </div>
