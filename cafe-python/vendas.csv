@@ -1,0 +1,3901 @@
+pedido;data;produto;quantidade;preco_unitario;status
+1001;2026-10-04;pao de queijo;1;6.50;pago
+1002;2026-10-08;pao de queijo;2;6.50;pago
+1003;2026-10-02;torta de limao;1;13.50;pago
+1004;2026-10-07;cappuccino;1;14.50;pago
+1005;2026-10-08;cha gelado;2;9.00;pago
+1006;2026-10-09;cha gelado;2;9.00;pago
+1007;2026-10-02;pao de queijo;1;6.50;pago
+1008;2026-10-05;croissant;2;11.00;cancelado
+1009;2026-10-05;cappuccino;1;14.50;pago
+1010;2026-10-09;bolo de cenoura;3;12.00;pago
+1011;2026-10-01;cappuccino;2;14.50;pago
+1012;2026-10-01;pao de queijo;1;6.50;pago
+1013;2026-10-02;cappuccino;2;14.50;pago
+1014;2026-10-06;croissant;1;11.00;pago
+1015;2026-10-02;espresso;1;7.00;pago
+1016;2026-10-06;cappuccino;4;14.50;pago
+1017;2026-10-03;bolo de cenoura;1;12.00;pago
+1018;2026-10-03;pao de queijo;1;6.50;pago
+1019;2026-10-02;espresso;1;7.00;pago
+1020;2026-10-01;pao de queijo;2;6.50;pago
+1021;2026-10-09;bolo de cenoura;1;12.00;pago
+1022;2026-10-03;torta de limao;1;13.50;pago
+1023;2026-10-06;espresso;2;7.00;pago
+1024;2026-10-06;cha gelado;1;9.00;pago
+1025;2026-10-05;pao de queijo;1;6.50;pago
+1026;2026-10-02;torta de limao;3;13.50;pago
+1027;2026-10-04;bolo de cenoura;1;12.00;pago
+1028;2026-10-08;croissant;1;11.00;pago
+1029;2026-10-09;cha gelado;1;9.00;pago
+1030;2026-10-05;espresso;1;7.00;pago
+1031;2026-10-09;espresso;3;7.00;pago
+1032;2026-10-09;pao de queijo;1;6.50;pago
+1033;2026-10-03;torta de limao;1;13.50;pago
+1034;2026-10-02;pao de queijo;2;6.50;pago
+1035;2026-10-01;pao de queijo;1;6.50;pago
+1036;2026-10-03;bolo de cenoura;1;12.00;pago
+1037;2026-10-03;espresso;3;7.00;pago
+1038;2026-10-08;cappuccino;2;14.50;pago
+1039;2026-10-04;torta de limao;1;13.50;pago
+1040;2026-10-08;torta de limao;2;13.50;pago
+1041;2026-10-02;pao de queijo;3;6.50;pago
+1042;2026-10-02;cappuccino;5;14.50;pago
+1043;2026-10-03;torta de limao;1;13.50;pago
+1044;2026-10-03;croissant;2;11.00;pago
+1045;2026-10-03;bolo de cenoura;2;12.00;pago
+1046;2026-10-05;cappuccino;1;14.50;pago
+1047;2026-10-04;pao de queijo;1;6.50;pago
+1048;2026-10-03;cha gelado;1;9.00;pago
+1049;2026-10-03;espresso;1;7.00;pago
+1050;2026-10-06;cappuccino;2;14.50;pago
+1051;2026-10-03;espresso;2;7.00;pago
+1052;2026-10-08;cappuccino;1;14.50;pago
+1053;2026-10-09;cappuccino;1;14.50;pago
+1054;2026-10-09;livro de bolso;1;39.90;pago
+1055;2026-10-05;espresso;3;7.00;pago
+1056;2026-10-08;cappuccino;4;14.50;pago
+1057;2026-10-09;croissant;1;11.00;pago
+1058;2026-10-01;cha gelado;5;9.00;pago
+1059;2026-10-06;espresso;2;7.00;pago
+1060;2026-10-01;cha gelado;3;9.00;pago
+1061;2026-10-08;cappuccino;5;14.50;pago
+1062;2026-10-05;espresso;1;7.00;pago
+1063;2026-10-07;cappuccino;1;14.50;pago
+1064;2026-10-08;cappuccino;4;14.50;pago
+1065;2026-10-09;livro de bolso;3;39.90;pago
+1066;2026-10-03;torta de limao;2;13.50;cancelado
+1067;2026-10-07;pao de queijo;2;6.50;pago
+1068;2026-10-09;croissant;3;11.00;pago
+1069;2026-10-04;cappuccino;1;14.50;pago
+1070;2026-10-03;croissant;4;11.00;pago
+1071;2026-10-06;espresso;1;7.00;pago
+1072;2026-10-07;croissant;1;11.00;pago
+1073;2026-10-02;espresso;2;7.00;pago
+1074;2026-10-06;torta de limao;1;13.50;pago
+1075;2026-10-05;livro de bolso;2;39.90;pago
+1076;2026-10-05;torta de limao;3;13.50;pago
+1077;2026-10-03;espresso;2;7.00;pago
+1078;2026-10-05;torta de limao;2;13.50;pago
+1079;2026-10-05;bolo de cenoura;1;12.00;pago
+1080;2026-10-03;bolo de cenoura;1;12.00;pago
+1081;2026-10-04;croissant;4;11.00;pago
+1082;2026-10-05;cappuccino;1;14.50;pago
+1083;2026-10-02;cha gelado;3;9.00;pago
+1084;2026-10-02;espresso;1;7.00;pago
+1085;2026-10-08;cappuccino;1;14.50;pago
+1086;2026-10-09;espresso;3;7.00;pago
+1087;2026-10-02;pao de queijo;4;6.50;pago
+1088;2026-10-09;pao de queijo;1;6.50;pago
+1089;2026-10-09;bolo de cenoura;1;12.00;pago
+1090;2026-10-09;bolo de cenoura;5;12.00;pago
+1091;2026-10-09;croissant;5;11.00;pago
+1092;2026-10-01;cappuccino;2;14.50;pago
+1093;2026-10-04;espresso;3;7.00;pago
+1094;2026-10-04;pao de queijo;1;6.50;pago
+1095;2026-10-08;espresso;2;7.00;pago
+1096;2026-10-08;espresso;1;7.00;pago
+1097;2026-10-09;bolo de cenoura;1;12.00;pago
+1098;2026-10-08;croissant;5;11.00;cancelado
+1099;2026-10-07;bolo de cenoura;1;12.00;pago
+1100;2026-10-09;bolo de cenoura;1;12.00;pago
+1101;2026-10-07;espresso;1;7.00;pago
+1102;2026-10-07;cha gelado;2;9.00;pago
+1103;2026-10-08;pao de queijo;3;6.50;pago
+1104;2026-10-04;cappuccino;1;14.50;pago
+1105;2026-10-06;espresso;1;7.00;pago
+1106;2026-10-02;cappuccino;2;14.50;pago
+1107;2026-10-06;espresso;1;7.00;pago
+1108;2026-10-08;pao de queijo;4;6.50;cancelado
+1109;2026-10-03;cappuccino;1;14.50;pago
+1110;2026-10-05;pao de queijo;5;6.50;pago
+1111;2026-10-07;torta de limao;1;13.50;pago
+1112;2026-10-03;croissant;2;11.00;pago
+1113;2026-10-08;cappuccino;1;14.50;pago
+1114;2026-10-01;croissant;1;11.00;pago
+1115;2026-10-09;torta de limao;1;13.50;pago
+1116;2026-10-06;bolo de cenoura;1;12.00;pago
+1117;2026-10-04;croissant;5;11.00;pago
+1118;2026-10-06;espresso;1;7.00;pago
+1119;2026-10-08;cha gelado;2;9.00;cancelado
+1120;2026-10-05;cappuccino;1;14.50;pago
+1121;2026-10-05;espresso;1;7.00;pago
+1122;2026-10-03;pao de queijo;2;6.50;pago
+1123;2026-10-03;pao de queijo;5;6.50;pago
+1124;2026-10-08;croissant;3;11.00;pago
+1125;2026-10-07;pao de queijo;1;6.50;pago
+1126;2026-10-03;pao de queijo;1;6.50;pago
+1127;2026-10-01;pao de queijo;1;6.50;pago
+1128;2026-10-08;bolo de cenoura;3;12.00;pago
+1129;2026-10-05;torta de limao;3;13.50;pago
+1130;2026-10-07;croissant;1;11.00;pago
+1131;2026-10-01;pao de queijo;3;6.50;cancelado
+1132;2026-10-05;croissant;1;11.00;pago
+1133;2026-10-07;croissant;2;11.00;pago
+1134;2026-10-01;cha gelado;2;9.00;pago
+1135;2026-10-08;cappuccino;2;14.50;pago
+1136;2026-10-06;pao de queijo;4;6.50;pago
+1137;2026-10-05;pao de queijo;1;6.50;pago
+1138;2026-10-07;pao de queijo;2;6.50;pago
+1139;2026-10-06;croissant;1;11.00;pago
+1140;2026-10-04;espresso;1;7.00;pago
+1141;2026-10-05;pao de queijo;2;6.50;pago
+1142;2026-10-08;bolo de cenoura;1;12.00;cancelado
+1143;2026-10-03;croissant;3;11.00;pago
+1144;2026-10-05;croissant;2;11.00;cancelado
+1145;2026-10-08;cappuccino;1;14.50;pago
+1146;2026-10-04;livro de bolso;4;39.90;pago
+1147;2026-10-01;cappuccino;1;14.50;pago
+1148;2026-10-07;cha gelado;1;9.00;pago
+1149;2026-10-05;croissant;2;11.00;pago
+1150;2026-10-07;pao de queijo;4;6.50;pago
+1151;2026-10-02;cha gelado;1;9.00;pago
+1152;2026-10-08;cappuccino;1;14.50;pago
+1153;2026-10-04;pao de queijo;1;6.50;pago
+1154;2026-10-05;espresso;1;7.00;pago
+1155;2026-10-06;espresso;1;7.00;pago
+1156;2026-10-02;bolo de cenoura;1;12.00;pago
+1157;2026-10-08;espresso;5;7.00;pago
+1158;2026-10-03;espresso;1;7.00;pago
+1159;2026-10-03;espresso;2;7.00;pago
+1160;2026-10-07;cappuccino;1;14.50;pago
+1161;2026-10-09;cappuccino;2;14.50;pago
+1162;2026-10-08;cha gelado;1;9.00;pago
+1163;2026-10-06;cha gelado;1;9.00;pago
+1164;2026-10-04;cappuccino;4;14.50;pago
+1165;2026-10-09;livro de bolso;2;39.90;pago
+1166;2026-10-05;torta de limao;1;13.50;pago
+1167;2026-10-05;bolo de cenoura;4;12.00;pago
+1168;2026-10-01;espresso;2;7.00;pago
+1169;2026-10-03;torta de limao;1;13.50;pago
+1170;2026-10-01;cappuccino;1;14.50;pago
+1171;2026-10-01;pao de queijo;1;6.50;pago
+1172;2026-10-07;torta de limao;4;13.50;pago
+1173;2026-10-09;torta de limao;1;13.50;pago
+1174;2026-10-04;cha gelado;2;9.00;pago
+1175;2026-10-09;croissant;1;11.00;pago
+1176;2026-10-05;cappuccino;2;14.50;pago
+1177;2026-10-07;bolo de cenoura;1;12.00;pago
+1178;2026-10-06;croissant;5;11.00;pago
+1179;2026-10-06;espresso;2;7.00;pago
+1180;2026-10-04;torta de limao;1;13.50;cancelado
+1181;2026-10-02;croissant;1;11.00;pago
+1182;2026-10-06;espresso;1;7.00;pago
+1183;2026-10-09;espresso;2;7.00;cancelado
+1184;2026-10-09;cha gelado;2;9.00;pago
+1185;2026-10-07;cappuccino;2;14.50;pago
+1186;2026-10-08;torta de limao;1;13.50;cancelado
+1187;2026-10-06;croissant;2;11.00;pago
+1188;2026-10-01;croissant;1;11.00;pago
+1189;2026-10-09;croissant;2;11.00;pago
+1190;2026-10-05;croissant;1;11.00;pago
+1191;2026-10-08;torta de limao;2;13.50;pago
+1192;2026-10-06;croissant;1;11.00;pago
+1193;2026-10-07;cha gelado;1;9.00;pago
+1194;2026-10-07;torta de limao;1;13.50;pago
+1195;2026-10-04;torta de limao;2;13.50;cancelado
+1196;2026-10-02;torta de limao;1;13.50;pago
+1197;2026-10-05;espresso;1;7.00;pago
+1198;2026-10-02;cappuccino;1;14.50;pago
+1199;2026-10-06;pao de queijo;1;6.50;pago
+1200;2026-10-06;cappuccino;1;14.50;pago
+1201;2026-10-05;pao de queijo;1;6.50;pago
+1202;2026-10-07;cappuccino;4;14.50;cancelado
+1203;2026-10-01;espresso;1;7.00;pago
+1204;2026-10-05;torta de limao;1;13.50;pago
+1205;2026-10-02;espresso;3;7.00;pago
+1206;2026-10-06;livro de bolso;1;39.90;pago
+1207;2026-10-05;torta de limao;2;13.50;pago
+1208;2026-10-05;bolo de cenoura;1;12.00;pago
+1209;2026-10-07;cappuccino;2;14.50;pago
+1210;2026-10-08;pao de queijo;2;6.50;pago
+1211;2026-10-05;torta de limao;1;13.50;pago
+1212;2026-10-08;espresso;3;7.00;pago
+1213;2026-10-01;bolo de cenoura;1;12.00;pago
+1214;2026-10-09;espresso;1;7.00;pago
+1215;2026-10-01;bolo de cenoura;1;12.00;pago
+1216;2026-10-05;espresso;1;7.00;pago
+1217;2026-10-06;espresso;1;7.00;pago
+1218;2026-10-01;bolo de cenoura;1;12.00;pago
+1219;2026-10-09;torta de limao;4;13.50;pago
+1220;2026-10-07;pao de queijo;3;6.50;pago
+1221;2026-10-07;cha gelado;1;9.00;pago
+1222;2026-10-03;bolo de cenoura;2;12.00;pago
+1223;2026-10-06;pao de queijo;1;6.50;pago
+1224;2026-10-06;espresso;1;7.00;pago
+1225;2026-10-03;livro de bolso;1;39.90;pago
+1226;2026-10-03;livro de bolso;3;39.90;pago
+1227;2026-10-09;cappuccino;2;14.50;pago
+1228;2026-10-08;torta de limao;1;13.50;pago
+1229;2026-10-02;croissant;1;11.00;pago
+1230;2026-10-01;pao de queijo;1;6.50;pago
+1231;2026-10-07;pao de queijo;1;6.50;pago
+1232;2026-10-06;bolo de cenoura;1;12.00;pago
+1233;2026-10-01;pao de queijo;1;6.50;pago
+1234;2026-10-04;pao de queijo;2;6.50;pago
+1235;2026-10-06;espresso;1;7.00;pago
+1236;2026-10-02;livro de bolso;4;39.90;pago
+1237;2026-10-03;livro de bolso;1;39.90;pago
+1238;2026-10-01;bolo de cenoura;2;12.00;pago
+1239;2026-10-04;cappuccino;1;14.50;pago
+1240;2026-10-09;espresso;3;7.00;pago
+1241;2026-10-06;bolo de cenoura;4;12.00;pago
+1242;2026-10-04;cappuccino;1;14.50;pago
+1243;2026-10-06;cappuccino;2;14.50;pago
+1244;2026-10-03;cappuccino;2;14.50;pago
+1245;2026-10-09;cha gelado;2;9.00;pago
+1246;2026-10-08;pao de queijo;1;6.50;pago
+1247;2026-10-03;pao de queijo;1;6.50;cancelado
+1248;2026-10-08;espresso;4;7.00;pago
+1249;2026-10-05;pao de queijo;1;6.50;pago
+1250;2026-10-02;cha gelado;4;9.00;cancelado
+1251;2026-10-08;bolo de cenoura;4;12.00;pago
+1252;2026-10-09;cappuccino;1;14.50;pago
+1253;2026-10-07;espresso;3;7.00;cancelado
+1254;2026-10-09;bolo de cenoura;2;12.00;pago
+1255;2026-10-02;espresso;5;7.00;pago
+1256;2026-10-04;pao de queijo;1;6.50;pago
+1257;2026-10-07;bolo de cenoura;1;12.00;pago
+1258;2026-10-04;torta de limao;1;13.50;pago
+1259;2026-10-04;espresso;1;7.00;pago
+1260;2026-10-02;croissant;1;11.00;pago
+1261;2026-10-03;bolo de cenoura;1;12.00;pago
+1262;2026-10-05;torta de limao;1;13.50;pago
+1263;2026-10-06;espresso;2;7.00;pago
+1264;2026-10-04;pao de queijo;1;6.50;cancelado
+1265;2026-10-09;espresso;3;7.00;pago
+1266;2026-10-05;livro de bolso;1;39.90;pago
+1267;2026-10-03;croissant;3;11.00;pago
+1268;2026-10-08;espresso;1;7.00;cancelado
+1269;2026-10-06;cha gelado;3;9.00;pago
+1270;2026-10-01;pao de queijo;1;6.50;pago
+1271;2026-10-05;bolo de cenoura;4;12.00;pago
+1272;2026-10-01;cha gelado;1;9.00;pago
+1273;2026-10-08;croissant;2;11.00;pago
+1274;2026-10-08;livro de bolso;1;39.90;pago
+1275;2026-10-06;espresso;1;7.00;pago
+1276;2026-10-03;bolo de cenoura;1;12.00;pago
+1277;2026-10-02;pao de queijo;1;6.50;pago
+1278;2026-10-07;torta de limao;1;13.50;pago
+1279;2026-10-06;cappuccino;2;14.50;pago
+1280;2026-10-01;espresso;1;7.00;pago
+1281;2026-10-06;pao de queijo;1;6.50;pago
+1282;2026-10-07;croissant;1;11.00;pago
+1283;2026-10-08;croissant;2;11.00;cancelado
+1284;2026-10-02;livro de bolso;2;39.90;pago
+1285;2026-10-08;cappuccino;1;14.50;pago
+1286;2026-10-04;bolo de cenoura;2;12.00;pago
+1287;2026-10-01;cha gelado;1;9.00;cancelado
+1288;2026-10-08;bolo de cenoura;2;12.00;pago
+1289;2026-10-07;croissant;2;11.00;pago
+1290;2026-10-09;torta de limao;3;13.50;pago
+1291;2026-10-09;cappuccino;1;14.50;pago
+1292;2026-10-07;croissant;3;11.00;pago
+1293;2026-10-06;espresso;4;7.00;pago
+1294;2026-10-08;espresso;4;7.00;pago
+1295;2026-10-02;torta de limao;1;13.50;pago
+1296;2026-10-09;bolo de cenoura;1;12.00;pago
+1297;2026-10-01;pao de queijo;1;6.50;pago
+1298;2026-10-07;espresso;1;7.00;pago
+1299;2026-10-03;cappuccino;4;14.50;pago
+1300;2026-10-08;pao de queijo;5;6.50;pago
+1301;2026-10-02;torta de limao;3;13.50;cancelado
+1302;2026-10-08;pao de queijo;1;6.50;pago
+1303;2026-10-08;espresso;1;7.00;cancelado
+1304;2026-10-06;espresso;4;7.00;pago
+1305;2026-10-09;pao de queijo;1;6.50;pago
+1306;2026-10-06;livro de bolso;2;39.90;cancelado
+1307;2026-10-08;cappuccino;1;14.50;pago
+1308;2026-10-06;pao de queijo;1;6.50;cancelado
+1309;2026-10-07;croissant;1;11.00;pago
+1310;2026-10-06;cha gelado;2;9.00;pago
+1311;2026-10-05;pao de queijo;2;6.50;pago
+1312;2026-10-04;espresso;2;7.00;cancelado
+1313;2026-10-05;croissant;1;11.00;pago
+1314;2026-10-02;pao de queijo;2;6.50;pago
+1315;2026-10-09;espresso;1;7.00;pago
+1316;2026-10-04;pao de queijo;5;6.50;pago
+1317;2026-10-04;cappuccino;2;14.50;pago
+1318;2026-10-09;torta de limao;1;13.50;pago
+1319;2026-10-09;livro de bolso;1;39.90;pago
+1320;2026-10-06;espresso;4;7.00;cancelado
+1321;2026-10-08;pao de queijo;5;6.50;pago
+1322;2026-10-04;espresso;1;7.00;pago
+1323;2026-10-06;cappuccino;1;14.50;pago
+1324;2026-10-07;cappuccino;4;14.50;pago
+1325;2026-10-02;pao de queijo;1;6.50;pago
+1326;2026-10-05;espresso;3;7.00;pago
+1327;2026-10-09;croissant;4;11.00;pago
+1328;2026-10-05;pao de queijo;2;6.50;cancelado
+1329;2026-10-04;cappuccino;2;14.50;pago
+1330;2026-10-01;croissant;1;11.00;pago
+1331;2026-10-08;torta de limao;1;13.50;pago
+1332;2026-10-09;cha gelado;3;9.00;pago
+1333;2026-10-05;torta de limao;4;13.50;pago
+1334;2026-10-01;pao de queijo;2;6.50;pago
+1335;2026-10-04;cha gelado;5;9.00;cancelado
+1336;2026-10-06;cha gelado;1;9.00;pago
+1337;2026-10-01;pao de queijo;2;6.50;pago
+1338;2026-10-01;pao de queijo;2;6.50;cancelado
+1339;2026-10-05;livro de bolso;2;39.90;cancelado
+1340;2026-10-02;cha gelado;3;9.00;pago
+1341;2026-10-03;croissant;1;11.00;pago
+1342;2026-10-09;torta de limao;1;13.50;pago
+1343;2026-10-02;pao de queijo;2;6.50;pago
+1344;2026-10-07;torta de limao;3;13.50;pago
+1345;2026-10-06;espresso;1;7.00;pago
+1346;2026-10-02;croissant;2;11.00;pago
+1347;2026-10-07;bolo de cenoura;1;12.00;cancelado
+1348;2026-10-04;espresso;1;7.00;pago
+1349;2026-10-02;espresso;5;7.00;pago
+1350;2026-10-04;livro de bolso;1;39.90;pago
+1351;2026-10-08;cha gelado;1;9.00;pago
+1352;2026-10-07;pao de queijo;3;6.50;pago
+1353;2026-10-06;bolo de cenoura;1;12.00;pago
+1354;2026-10-04;espresso;5;7.00;pago
+1355;2026-10-01;torta de limao;1;13.50;pago
+1356;2026-10-02;pao de queijo;1;6.50;pago
+1357;2026-10-01;croissant;1;11.00;pago
+1358;2026-10-09;pao de queijo;1;6.50;pago
+1359;2026-10-01;livro de bolso;1;39.90;pago
+1360;2026-10-03;espresso;1;7.00;cancelado
+1361;2026-10-08;pao de queijo;1;6.50;pago
+1362;2026-10-08;espresso;5;7.00;pago
+1363;2026-10-09;pao de queijo;1;6.50;pago
+1364;2026-10-01;croissant;1;11.00;pago
+1365;2026-10-03;pao de queijo;1;6.50;pago
+1366;2026-10-08;livro de bolso;1;39.90;pago
+1367;2026-10-02;espresso;1;7.00;pago
+1368;2026-10-09;croissant;1;11.00;pago
+1369;2026-10-07;espresso;1;7.00;pago
+1370;2026-10-05;cappuccino;2;14.50;pago
+1371;2026-10-04;livro de bolso;3;39.90;pago
+1372;2026-10-08;cappuccino;4;14.50;pago
+1373;2026-10-03;pao de queijo;2;6.50;pago
+1374;2026-10-07;pao de queijo;2;6.50;pago
+1375;2026-10-01;cappuccino;1;14.50;pago
+1376;2026-10-06;pao de queijo;2;6.50;pago
+1377;2026-10-06;torta de limao;1;13.50;pago
+1378;2026-10-03;croissant;4;11.00;pago
+1379;2026-10-03;espresso;2;7.00;pago
+1380;2026-10-07;croissant;3;11.00;pago
+1381;2026-10-09;pao de queijo;2;6.50;pago
+1382;2026-10-08;cappuccino;2;14.50;pago
+1383;2026-10-02;espresso;4;7.00;pago
+1384;2026-10-05;espresso;4;7.00;pago
+1385;2026-10-09;cappuccino;1;14.50;pago
+1386;2026-10-06;bolo de cenoura;4;12.00;pago
+1387;2026-10-08;espresso;1;7.00;pago
+1388;2026-10-01;espresso;2;7.00;pago
+1389;2026-10-06;cappuccino;1;14.50;pago
+1390;2026-10-02;pao de queijo;2;6.50;pago
+1391;2026-10-03;croissant;1;11.00;pago
+1392;2026-10-04;livro de bolso;2;39.90;pago
+1393;2026-10-01;croissant;5;11.00;pago
+1394;2026-10-04;espresso;2;7.00;pago
+1395;2026-10-03;cappuccino;1;14.50;pago
+1396;2026-10-09;pao de queijo;5;6.50;pago
+1397;2026-10-08;croissant;1;11.00;pago
+1398;2026-10-09;espresso;2;7.00;pago
+1399;2026-10-05;pao de queijo;1;6.50;pago
+1400;2026-10-07;torta de limao;2;13.50;pago
+1401;2026-10-02;croissant;1;11.00;pago
+1402;2026-10-08;torta de limao;1;13.50;pago
+1403;2026-10-08;espresso;1;7.00;pago
+1404;2026-10-01;cappuccino;1;14.50;pago
+1405;2026-10-02;espresso;1;7.00;pago
+1406;2026-10-05;pao de queijo;4;6.50;pago
+1407;2026-10-06;croissant;1;11.00;pago
+1408;2026-10-03;pao de queijo;1;6.50;pago
+1409;2026-10-07;livro de bolso;1;39.90;pago
+1410;2026-10-01;pao de queijo;1;6.50;pago
+1411;2026-10-09;cappuccino;1;14.50;pago
+1412;2026-10-01;torta de limao;1;13.50;pago
+1413;2026-10-01;torta de limao;3;13.50;pago
+1414;2026-10-06;espresso;1;7.00;cancelado
+1415;2026-10-02;bolo de cenoura;4;12.00;pago
+1416;2026-10-06;cha gelado;1;9.00;pago
+1417;2026-10-02;livro de bolso;1;39.90;pago
+1418;2026-10-01;cha gelado;2;9.00;pago
+1419;2026-10-04;croissant;5;11.00;pago
+1420;2026-10-01;pao de queijo;3;6.50;pago
+1421;2026-10-06;cha gelado;1;9.00;pago
+1422;2026-10-07;livro de bolso;2;39.90;pago
+1423;2026-10-04;croissant;1;11.00;pago
+1424;2026-10-01;croissant;1;11.00;pago
+1425;2026-10-02;cappuccino;1;14.50;pago
+1426;2026-10-08;livro de bolso;2;39.90;pago
+1427;2026-10-03;pao de queijo;2;6.50;cancelado
+1428;2026-10-09;torta de limao;2;13.50;pago
+1429;2026-10-06;livro de bolso;1;39.90;pago
+1430;2026-10-08;espresso;1;7.00;pago
+1431;2026-10-05;cappuccino;2;14.50;pago
+1432;2026-10-06;espresso;1;7.00;pago
+1433;2026-10-04;pao de queijo;2;6.50;pago
+1434;2026-10-04;espresso;5;7.00;pago
+1435;2026-10-08;espresso;4;7.00;pago
+1436;2026-10-01;cappuccino;1;14.50;pago
+1437;2026-10-05;cappuccino;1;14.50;pago
+1438;2026-10-06;cappuccino;1;14.50;pago
+1439;2026-10-01;cappuccino;4;14.50;pago
+1440;2026-10-06;pao de queijo;2;6.50;pago
+1441;2026-10-03;cha gelado;1;9.00;pago
+1442;2026-10-02;cappuccino;1;14.50;pago
+1443;2026-10-08;croissant;2;11.00;pago
+1444;2026-10-04;bolo de cenoura;3;12.00;pago
+1445;2026-10-07;pao de queijo;1;6.50;pago
+1446;2026-10-01;pao de queijo;2;6.50;cancelado
+1447;2026-10-05;croissant;5;11.00;pago
+1448;2026-10-08;croissant;2;11.00;pago
+1449;2026-10-06;bolo de cenoura;3;12.00;pago
+1450;2026-10-08;cappuccino;1;14.50;pago
+1451;2026-10-02;cappuccino;1;14.50;pago
+1452;2026-10-07;bolo de cenoura;1;12.00;pago
+1453;2026-10-08;bolo de cenoura;2;12.00;pago
+1454;2026-10-01;livro de bolso;1;39.90;pago
+1455;2026-10-07;cha gelado;3;9.00;pago
+1456;2026-10-01;pao de queijo;1;6.50;pago
+1457;2026-10-03;cha gelado;3;9.00;pago
+1458;2026-10-07;torta de limao;3;13.50;pago
+1459;2026-10-07;cappuccino;1;14.50;pago
+1460;2026-10-05;livro de bolso;1;39.90;pago
+1461;2026-10-02;torta de limao;5;13.50;pago
+1462;2026-10-02;bolo de cenoura;1;12.00;pago
+1463;2026-10-09;cappuccino;2;14.50;pago
+1464;2026-10-03;bolo de cenoura;1;12.00;pago
+1465;2026-10-03;pao de queijo;2;6.50;pago
+1466;2026-10-07;pao de queijo;1;6.50;pago
+1467;2026-10-04;espresso;3;7.00;pago
+1468;2026-10-08;croissant;2;11.00;pago
+1469;2026-10-08;bolo de cenoura;1;12.00;pago
+1470;2026-10-04;croissant;1;11.00;pago
+1471;2026-10-02;pao de queijo;2;6.50;pago
+1472;2026-10-02;pao de queijo;3;6.50;pago
+1473;2026-10-04;torta de limao;1;13.50;pago
+1474;2026-10-03;bolo de cenoura;1;12.00;pago
+1475;2026-10-01;cappuccino;2;14.50;pago
+1476;2026-10-02;cha gelado;2;9.00;pago
+1477;2026-10-05;pao de queijo;3;6.50;pago
+1478;2026-10-08;cha gelado;2;9.00;pago
+1479;2026-10-02;livro de bolso;1;39.90;pago
+1480;2026-10-08;bolo de cenoura;1;12.00;pago
+1481;2026-10-09;cappuccino;1;14.50;pago
+1482;2026-10-03;torta de limao;1;13.50;pago
+1483;2026-10-08;pao de queijo;3;6.50;pago
+1484;2026-10-03;bolo de cenoura;2;12.00;pago
+1485;2026-10-05;cha gelado;2;9.00;pago
+1486;2026-10-06;cappuccino;1;14.50;pago
+1487;2026-10-09;pao de queijo;5;6.50;pago
+1488;2026-10-05;cha gelado;1;9.00;pago
+1489;2026-10-05;pao de queijo;1;6.50;pago
+1490;2026-10-05;pao de queijo;4;6.50;pago
+1491;2026-10-03;torta de limao;1;13.50;pago
+1492;2026-10-01;pao de queijo;2;6.50;pago
+1493;2026-10-01;espresso;3;7.00;pago
+1494;2026-10-06;pao de queijo;5;6.50;cancelado
+1495;2026-10-07;pao de queijo;2;6.50;pago
+1496;2026-10-06;cappuccino;2;14.50;cancelado
+1497;2026-10-08;espresso;1;7.00;pago
+1498;2026-10-01;espresso;2;7.00;pago
+1499;2026-10-05;livro de bolso;4;39.90;pago
+1500;2026-10-07;torta de limao;2;13.50;pago
+1501;2026-10-03;pao de queijo;1;6.50;cancelado
+1502;2026-10-01;livro de bolso;2;39.90;pago
+1503;2026-10-08;bolo de cenoura;1;12.00;pago
+1504;2026-10-06;croissant;1;11.00;pago
+1505;2026-10-03;pao de queijo;2;6.50;pago
+1506;2026-10-02;pao de queijo;1;6.50;pago
+1507;2026-10-09;pao de queijo;1;6.50;pago
+1508;2026-10-03;pao de queijo;1;6.50;pago
+1509;2026-10-08;pao de queijo;1;6.50;pago
+1510;2026-10-05;croissant;4;11.00;pago
+1511;2026-10-02;torta de limao;3;13.50;pago
+1512;2026-10-08;cappuccino;1;14.50;pago
+1513;2026-10-01;espresso;1;7.00;pago
+1514;2026-10-02;cappuccino;4;14.50;pago
+1515;2026-10-03;croissant;1;11.00;pago
+1516;2026-10-08;pao de queijo;1;6.50;pago
+1517;2026-10-09;cha gelado;1;9.00;pago
+1518;2026-10-04;croissant;3;11.00;pago
+1519;2026-10-07;cappuccino;1;14.50;pago
+1520;2026-10-07;cappuccino;2;14.50;pago
+1521;2026-10-09;torta de limao;1;13.50;pago
+1522;2026-10-08;pao de queijo;1;6.50;pago
+1523;2026-10-07;pao de queijo;1;6.50;pago
+1524;2026-10-03;cappuccino;1;14.50;pago
+1525;2026-10-06;espresso;1;7.00;pago
+1526;2026-10-07;pao de queijo;1;6.50;cancelado
+1527;2026-10-04;cappuccino;2;14.50;pago
+1528;2026-10-02;bolo de cenoura;1;12.00;pago
+1529;2026-10-01;torta de limao;1;13.50;pago
+1530;2026-10-07;cha gelado;1;9.00;pago
+1531;2026-10-09;espresso;4;7.00;pago
+1532;2026-10-03;croissant;1;11.00;pago
+1533;2026-10-03;cha gelado;2;9.00;pago
+1534;2026-10-02;espresso;1;7.00;pago
+1535;2026-10-06;cha gelado;2;9.00;cancelado
+1536;2026-10-04;torta de limao;1;13.50;pago
+1537;2026-10-02;torta de limao;1;13.50;cancelado
+1538;2026-10-09;livro de bolso;2;39.90;pago
+1539;2026-10-05;pao de queijo;2;6.50;pago
+1540;2026-10-08;espresso;2;7.00;pago
+1541;2026-10-07;espresso;1;7.00;pago
+1542;2026-10-05;cappuccino;2;14.50;pago
+1543;2026-10-09;cha gelado;4;9.00;pago
+1544;2026-10-02;livro de bolso;1;39.90;pago
+1545;2026-10-06;torta de limao;1;13.50;pago
+1546;2026-10-03;bolo de cenoura;2;12.00;pago
+1547;2026-10-05;croissant;2;11.00;pago
+1548;2026-10-05;torta de limao;2;13.50;pago
+1549;2026-10-05;croissant;1;11.00;pago
+1550;2026-10-08;cappuccino;2;14.50;pago
+1551;2026-10-03;pao de queijo;1;6.50;pago
+1552;2026-10-07;espresso;2;7.00;pago
+1553;2026-10-09;pao de queijo;1;6.50;pago
+1554;2026-10-06;cha gelado;1;9.00;pago
+1555;2026-10-03;pao de queijo;1;6.50;pago
+1556;2026-10-06;bolo de cenoura;2;12.00;pago
+1557;2026-10-04;croissant;1;11.00;pago
+1558;2026-10-04;livro de bolso;1;39.90;pago
+1559;2026-10-05;cappuccino;2;14.50;pago
+1560;2026-10-01;pao de queijo;3;6.50;pago
+1561;2026-10-09;cappuccino;1;14.50;pago
+1562;2026-10-06;pao de queijo;1;6.50;pago
+1563;2026-10-05;torta de limao;1;13.50;pago
+1564;2026-10-07;torta de limao;2;13.50;pago
+1565;2026-10-05;pao de queijo;1;6.50;pago
+1566;2026-10-02;espresso;1;7.00;cancelado
+1567;2026-10-06;pao de queijo;1;6.50;pago
+1568;2026-10-03;espresso;1;7.00;pago
+1569;2026-10-08;espresso;1;7.00;pago
+1570;2026-10-07;torta de limao;4;13.50;pago
+1571;2026-10-02;cappuccino;2;14.50;pago
+1572;2026-10-07;croissant;1;11.00;pago
+1573;2026-10-08;pao de queijo;1;6.50;pago
+1574;2026-10-04;bolo de cenoura;4;12.00;pago
+1575;2026-10-01;livro de bolso;1;39.90;pago
+1576;2026-10-02;croissant;2;11.00;cancelado
+1577;2026-10-04;cappuccino;2;14.50;pago
+1578;2026-10-01;cappuccino;1;14.50;pago
+1579;2026-10-05;cha gelado;2;9.00;pago
+1580;2026-10-08;cha gelado;1;9.00;pago
+1581;2026-10-09;pao de queijo;1;6.50;pago
+1582;2026-10-01;cappuccino;2;14.50;cancelado
+1583;2026-10-07;pao de queijo;1;6.50;pago
+1584;2026-10-04;livro de bolso;3;39.90;pago
+1585;2026-10-06;bolo de cenoura;1;12.00;pago
+1586;2026-10-04;cappuccino;2;14.50;pago
+1587;2026-10-08;pao de queijo;5;6.50;pago
+1588;2026-10-02;espresso;1;7.00;pago
+1589;2026-10-03;espresso;1;7.00;pago
+1590;2026-10-08;pao de queijo;2;6.50;pago
+1591;2026-10-01;pao de queijo;2;6.50;pago
+1592;2026-10-07;pao de queijo;1;6.50;pago
+1593;2026-10-02;pao de queijo;1;6.50;pago
+1594;2026-10-06;torta de limao;2;13.50;pago
+1595;2026-10-01;cha gelado;5;9.00;pago
+1596;2026-10-07;espresso;2;7.00;pago
+1597;2026-10-05;cha gelado;2;9.00;pago
+1598;2026-10-05;espresso;1;7.00;cancelado
+1599;2026-10-06;torta de limao;4;13.50;pago
+1600;2026-10-01;croissant;2;11.00;pago
+1601;2026-10-03;cappuccino;1;14.50;pago
+1602;2026-10-06;pao de queijo;1;6.50;pago
+1603;2026-10-01;bolo de cenoura;1;12.00;pago
+1604;2026-10-08;bolo de cenoura;2;12.00;pago
+1605;2026-10-09;bolo de cenoura;2;12.00;pago
+1606;2026-10-02;pao de queijo;1;6.50;pago
+1607;2026-10-04;bolo de cenoura;3;12.00;pago
+1608;2026-10-01;torta de limao;2;13.50;pago
+1609;2026-10-03;pao de queijo;1;6.50;pago
+1610;2026-10-08;bolo de cenoura;2;12.00;pago
+1611;2026-10-04;pao de queijo;1;6.50;pago
+1612;2026-10-03;croissant;1;11.00;pago
+1613;2026-10-01;torta de limao;2;13.50;pago
+1614;2026-10-03;cappuccino;1;14.50;pago
+1615;2026-10-03;espresso;1;7.00;pago
+1616;2026-10-06;torta de limao;2;13.50;pago
+1617;2026-10-05;bolo de cenoura;1;12.00;pago
+1618;2026-10-09;torta de limao;1;13.50;pago
+1619;2026-10-04;croissant;1;11.00;pago
+1620;2026-10-03;livro de bolso;2;39.90;pago
+1621;2026-10-07;bolo de cenoura;2;12.00;pago
+1622;2026-10-03;bolo de cenoura;1;12.00;pago
+1623;2026-10-07;croissant;2;11.00;pago
+1624;2026-10-05;espresso;1;7.00;pago
+1625;2026-10-05;pao de queijo;1;6.50;pago
+1626;2026-10-09;croissant;1;11.00;pago
+1627;2026-10-06;pao de queijo;3;6.50;cancelado
+1628;2026-10-02;bolo de cenoura;2;12.00;pago
+1629;2026-10-09;bolo de cenoura;2;12.00;pago
+1630;2026-10-04;cappuccino;1;14.50;pago
+1631;2026-10-06;bolo de cenoura;2;12.00;pago
+1632;2026-10-09;pao de queijo;1;6.50;pago
+1633;2026-10-09;torta de limao;1;13.50;pago
+1634;2026-10-02;torta de limao;1;13.50;pago
+1635;2026-10-09;espresso;1;7.00;pago
+1636;2026-10-07;croissant;2;11.00;pago
+1637;2026-10-01;croissant;1;11.00;pago
+1638;2026-10-07;torta de limao;1;13.50;pago
+1639;2026-10-04;espresso;1;7.00;pago
+1640;2026-10-02;cappuccino;1;14.50;pago
+1641;2026-10-06;torta de limao;2;13.50;pago
+1642;2026-10-07;livro de bolso;4;39.90;pago
+1643;2026-10-09;croissant;1;11.00;pago
+1644;2026-10-01;bolo de cenoura;2;12.00;pago
+1645;2026-10-06;pao de queijo;4;6.50;pago
+1646;2026-10-05;pao de queijo;2;6.50;pago
+1647;2026-10-04;pao de queijo;1;6.50;pago
+1648;2026-10-02;croissant;4;11.00;pago
+1649;2026-10-09;cappuccino;1;14.50;pago
+1650;2026-10-03;bolo de cenoura;1;12.00;pago
+1651;2026-10-07;cappuccino;2;14.50;pago
+1652;2026-10-03;cha gelado;1;9.00;pago
+1653;2026-10-07;espresso;2;7.00;pago
+1654;2026-10-08;cappuccino;1;14.50;pago
+1655;2026-10-02;torta de limao;1;13.50;pago
+1656;2026-10-07;cappuccino;2;14.50;pago
+1657;2026-10-02;bolo de cenoura;5;12.00;pago
+1658;2026-10-07;espresso;2;7.00;pago
+1659;2026-10-07;cha gelado;5;9.00;cancelado
+1660;2026-10-08;livro de bolso;4;39.90;pago
+1661;2026-10-06;bolo de cenoura;3;12.00;pago
+1662;2026-10-02;croissant;1;11.00;pago
+1663;2026-10-09;espresso;2;7.00;pago
+1664;2026-10-03;pao de queijo;1;6.50;pago
+1665;2026-10-09;livro de bolso;1;39.90;pago
+1666;2026-10-08;torta de limao;1;13.50;pago
+1667;2026-10-07;bolo de cenoura;3;12.00;pago
+1668;2026-10-08;croissant;1;11.00;pago
+1669;2026-10-02;pao de queijo;1;6.50;pago
+1670;2026-10-07;bolo de cenoura;1;12.00;pago
+1671;2026-10-01;cha gelado;1;9.00;pago
+1672;2026-10-08;torta de limao;1;13.50;pago
+1673;2026-10-05;pao de queijo;3;6.50;pago
+1674;2026-10-04;cha gelado;1;9.00;pago
+1675;2026-10-09;pao de queijo;2;6.50;pago
+1676;2026-10-09;bolo de cenoura;1;12.00;pago
+1677;2026-10-09;pao de queijo;2;6.50;pago
+1678;2026-10-07;pao de queijo;1;6.50;pago
+1679;2026-10-07;cappuccino;2;14.50;pago
+1680;2026-10-04;bolo de cenoura;2;12.00;pago
+1681;2026-10-02;espresso;1;7.00;pago
+1682;2026-10-09;espresso;3;7.00;pago
+1683;2026-10-01;cappuccino;1;14.50;pago
+1684;2026-10-03;espresso;3;7.00;pago
+1685;2026-10-03;croissant;1;11.00;pago
+1686;2026-10-09;croissant;2;11.00;pago
+1687;2026-10-09;cappuccino;4;14.50;pago
+1688;2026-10-05;espresso;3;7.00;pago
+1689;2026-10-06;pao de queijo;1;6.50;pago
+1690;2026-10-01;bolo de cenoura;2;12.00;pago
+1691;2026-10-07;cha gelado;1;9.00;pago
+1692;2026-10-01;pao de queijo;2;6.50;pago
+1693;2026-10-09;pao de queijo;4;6.50;pago
+1694;2026-10-01;livro de bolso;1;39.90;pago
+1695;2026-10-09;pao de queijo;1;6.50;pago
+1696;2026-10-07;espresso;1;7.00;pago
+1697;2026-10-09;pao de queijo;1;6.50;pago
+1698;2026-10-07;croissant;1;11.00;pago
+1699;2026-10-01;espresso;2;7.00;pago
+1700;2026-10-08;espresso;2;7.00;pago
+1701;2026-10-08;pao de queijo;1;6.50;pago
+1702;2026-10-05;torta de limao;1;13.50;pago
+1703;2026-10-04;espresso;2;7.00;pago
+1704;2026-10-04;pao de queijo;1;6.50;pago
+1705;2026-10-01;livro de bolso;1;39.90;pago
+1706;2026-10-04;livro de bolso;2;39.90;pago
+1707;2026-10-02;livro de bolso;3;39.90;pago
+1708;2026-10-06;torta de limao;1;13.50;pago
+1709;2026-10-04;pao de queijo;1;6.50;pago
+1710;2026-10-02;pao de queijo;2;6.50;pago
+1711;2026-10-08;cappuccino;1;14.50;pago
+1712;2026-10-01;cappuccino;5;14.50;pago
+1713;2026-10-02;cappuccino;4;14.50;pago
+1714;2026-10-05;cappuccino;2;14.50;pago
+1715;2026-10-07;cappuccino;1;14.50;pago
+1716;2026-10-04;cappuccino;1;14.50;pago
+1717;2026-10-01;pao de queijo;1;6.50;pago
+1718;2026-10-08;cappuccino;2;14.50;pago
+1719;2026-10-01;espresso;2;7.00;cancelado
+1720;2026-10-08;torta de limao;2;13.50;pago
+1721;2026-10-02;livro de bolso;2;39.90;pago
+1722;2026-10-06;croissant;3;11.00;pago
+1723;2026-10-01;bolo de cenoura;2;12.00;pago
+1724;2026-10-02;pao de queijo;1;6.50;pago
+1725;2026-10-05;bolo de cenoura;2;12.00;pago
+1726;2026-10-08;croissant;1;11.00;pago
+1727;2026-10-03;torta de limao;1;13.50;pago
+1728;2026-10-06;pao de queijo;2;6.50;pago
+1729;2026-10-02;cappuccino;1;14.50;pago
+1730;2026-10-01;bolo de cenoura;1;12.00;pago
+1731;2026-10-04;cappuccino;1;14.50;pago
+1732;2026-10-04;croissant;1;11.00;pago
+1733;2026-10-03;pao de queijo;4;6.50;pago
+1734;2026-10-02;livro de bolso;1;39.90;pago
+1735;2026-10-09;espresso;1;7.00;pago
+1736;2026-10-04;bolo de cenoura;1;12.00;pago
+1737;2026-10-04;torta de limao;1;13.50;pago
+1738;2026-10-09;espresso;1;7.00;cancelado
+1739;2026-10-09;pao de queijo;1;6.50;cancelado
+1740;2026-10-08;espresso;3;7.00;pago
+1741;2026-10-02;cappuccino;1;14.50;pago
+1742;2026-10-08;pao de queijo;3;6.50;pago
+1743;2026-10-05;croissant;1;11.00;cancelado
+1744;2026-10-09;pao de queijo;3;6.50;pago
+1745;2026-10-09;croissant;3;11.00;pago
+1746;2026-10-06;bolo de cenoura;5;12.00;pago
+1747;2026-10-03;livro de bolso;1;39.90;pago
+1748;2026-10-03;espresso;2;7.00;pago
+1749;2026-10-09;bolo de cenoura;1;12.00;pago
+1750;2026-10-01;cha gelado;1;9.00;pago
+1751;2026-10-01;cappuccino;1;14.50;pago
+1752;2026-10-02;espresso;1;7.00;pago
+1753;2026-10-05;pao de queijo;4;6.50;pago
+1754;2026-10-05;croissant;1;11.00;pago
+1755;2026-10-09;pao de queijo;4;6.50;pago
+1756;2026-10-02;espresso;2;7.00;pago
+1757;2026-10-06;bolo de cenoura;2;12.00;pago
+1758;2026-10-08;pao de queijo;2;6.50;cancelado
+1759;2026-10-05;pao de queijo;3;6.50;cancelado
+1760;2026-10-05;espresso;4;7.00;pago
+1761;2026-10-05;croissant;1;11.00;pago
+1762;2026-10-04;bolo de cenoura;4;12.00;pago
+1763;2026-10-05;cha gelado;1;9.00;pago
+1764;2026-10-09;livro de bolso;5;39.90;pago
+1765;2026-10-08;torta de limao;3;13.50;pago
+1766;2026-10-04;espresso;2;7.00;pago
+1767;2026-10-01;bolo de cenoura;2;12.00;pago
+1768;2026-10-08;cappuccino;1;14.50;pago
+1769;2026-10-04;croissant;1;11.00;pago
+1770;2026-10-07;espresso;2;7.00;pago
+1771;2026-10-08;bolo de cenoura;4;12.00;cancelado
+1772;2026-10-08;pao de queijo;2;6.50;pago
+1773;2026-10-06;torta de limao;2;13.50;pago
+1774;2026-10-04;cappuccino;4;14.50;pago
+1775;2026-10-05;cappuccino;1;14.50;pago
+1776;2026-10-02;bolo de cenoura;3;12.00;pago
+1777;2026-10-03;bolo de cenoura;2;12.00;pago
+1778;2026-10-04;espresso;1;7.00;pago
+1779;2026-10-07;cappuccino;2;14.50;pago
+1780;2026-10-06;croissant;1;11.00;pago
+1781;2026-10-01;cappuccino;3;14.50;cancelado
+1782;2026-10-02;bolo de cenoura;1;12.00;pago
+1783;2026-10-04;torta de limao;1;13.50;pago
+1784;2026-10-03;croissant;1;11.00;pago
+1785;2026-10-08;cappuccino;2;14.50;pago
+1786;2026-10-04;torta de limao;2;13.50;pago
+1787;2026-10-01;bolo de cenoura;1;12.00;pago
+1788;2026-10-03;espresso;1;7.00;cancelado
+1789;2026-10-07;torta de limao;2;13.50;pago
+1790;2026-10-07;pao de queijo;1;6.50;pago
+1791;2026-10-05;livro de bolso;4;39.90;pago
+1792;2026-10-02;torta de limao;1;13.50;pago
+1793;2026-10-02;pao de queijo;5;6.50;pago
+1794;2026-10-09;pao de queijo;1;6.50;pago
+1795;2026-10-06;torta de limao;2;13.50;pago
+1796;2026-10-02;espresso;1;7.00;pago
+1797;2026-10-04;torta de limao;1;13.50;pago
+1798;2026-10-05;cappuccino;1;14.50;pago
+1799;2026-10-03;pao de queijo;2;6.50;pago
+1800;2026-10-06;torta de limao;2;13.50;pago
+1801;2026-10-03;pao de queijo;1;6.50;cancelado
+1802;2026-10-05;bolo de cenoura;3;12.00;pago
+1803;2026-10-03;bolo de cenoura;3;12.00;pago
+1804;2026-10-01;croissant;1;11.00;pago
+1805;2026-10-02;pao de queijo;2;6.50;pago
+1806;2026-10-08;bolo de cenoura;1;12.00;cancelado
+1807;2026-10-09;pao de queijo;1;6.50;pago
+1808;2026-10-09;pao de queijo;1;6.50;pago
+1809;2026-10-06;livro de bolso;3;39.90;pago
+1810;2026-10-04;bolo de cenoura;1;12.00;pago
+1811;2026-10-02;torta de limao;1;13.50;pago
+1812;2026-10-09;cha gelado;1;9.00;pago
+1813;2026-10-02;pao de queijo;1;6.50;pago
+1814;2026-10-04;livro de bolso;2;39.90;pago
+1815;2026-10-01;torta de limao;1;13.50;pago
+1816;2026-10-04;cha gelado;1;9.00;pago
+1817;2026-10-01;torta de limao;4;13.50;pago
+1818;2026-10-06;livro de bolso;1;39.90;pago
+1819;2026-10-01;pao de queijo;5;6.50;pago
+1820;2026-10-06;torta de limao;2;13.50;pago
+1821;2026-10-09;livro de bolso;1;39.90;pago
+1822;2026-10-03;bolo de cenoura;1;12.00;pago
+1823;2026-10-08;pao de queijo;1;6.50;pago
+1824;2026-10-06;croissant;1;11.00;pago
+1825;2026-10-05;bolo de cenoura;2;12.00;pago
+1826;2026-10-02;livro de bolso;2;39.90;cancelado
+1827;2026-10-09;cappuccino;3;14.50;pago
+1828;2026-10-06;livro de bolso;2;39.90;pago
+1829;2026-10-07;livro de bolso;2;39.90;pago
+1830;2026-10-07;espresso;1;7.00;pago
+1831;2026-10-06;pao de queijo;3;6.50;pago
+1832;2026-10-02;croissant;2;11.00;pago
+1833;2026-10-02;espresso;1;7.00;pago
+1834;2026-10-07;pao de queijo;1;6.50;pago
+1835;2026-10-06;pao de queijo;1;6.50;pago
+1836;2026-10-04;cappuccino;3;14.50;cancelado
+1837;2026-10-01;bolo de cenoura;1;12.00;pago
+1838;2026-10-04;pao de queijo;1;6.50;pago
+1839;2026-10-02;torta de limao;1;13.50;pago
+1840;2026-10-06;torta de limao;1;13.50;pago
+1841;2026-10-08;pao de queijo;1;6.50;pago
+1842;2026-10-01;cappuccino;3;14.50;pago
+1843;2026-10-05;bolo de cenoura;2;12.00;pago
+1844;2026-10-06;torta de limao;2;13.50;pago
+1845;2026-10-04;croissant;1;11.00;pago
+1846;2026-10-02;torta de limao;1;13.50;pago
+1847;2026-10-07;pao de queijo;1;6.50;pago
+1848;2026-10-08;pao de queijo;2;6.50;pago
+1849;2026-10-06;cappuccino;3;14.50;pago
+1850;2026-10-07;torta de limao;1;13.50;pago
+1851;2026-10-04;croissant;2;11.00;cancelado
+1852;2026-10-05;bolo de cenoura;2;12.00;pago
+1853;2026-10-03;espresso;1;7.00;pago
+1854;2026-10-03;bolo de cenoura;1;12.00;cancelado
+1855;2026-10-03;pao de queijo;1;6.50;pago
+1856;2026-10-05;torta de limao;2;13.50;cancelado
+1857;2026-10-03;pao de queijo;1;6.50;pago
+1858;2026-10-02;livro de bolso;1;39.90;pago
+1859;2026-10-06;cha gelado;1;9.00;pago
+1860;2026-10-03;torta de limao;1;13.50;pago
+1861;2026-10-04;cappuccino;1;14.50;pago
+1862;2026-10-09;torta de limao;1;13.50;pago
+1863;2026-10-03;croissant;1;11.00;pago
+1864;2026-10-07;espresso;1;7.00;pago
+1865;2026-10-04;pao de queijo;3;6.50;pago
+1866;2026-10-09;cappuccino;2;14.50;pago
+1867;2026-10-01;pao de queijo;3;6.50;pago
+1868;2026-10-08;torta de limao;4;13.50;pago
+1869;2026-10-05;croissant;1;11.00;pago
+1870;2026-10-01;bolo de cenoura;5;12.00;pago
+1871;2026-10-09;croissant;2;11.00;pago
+1872;2026-10-09;pao de queijo;1;6.50;pago
+1873;2026-10-08;bolo de cenoura;2;12.00;pago
+1874;2026-10-04;cappuccino;1;14.50;pago
+1875;2026-10-04;croissant;5;11.00;pago
+1876;2026-10-05;bolo de cenoura;3;12.00;pago
+1877;2026-10-04;espresso;2;7.00;cancelado
+1878;2026-10-07;croissant;1;11.00;pago
+1879;2026-10-07;espresso;2;7.00;pago
+1880;2026-10-06;pao de queijo;1;6.50;pago
+1881;2026-10-04;croissant;1;11.00;pago
+1882;2026-10-07;cappuccino;1;14.50;cancelado
+1883;2026-10-06;torta de limao;5;13.50;pago
+1884;2026-10-02;pao de queijo;1;6.50;pago
+1885;2026-10-09;pao de queijo;1;6.50;pago
+1886;2026-10-01;cappuccino;2;14.50;pago
+1887;2026-10-02;cappuccino;1;14.50;pago
+1888;2026-10-02;torta de limao;1;13.50;pago
+1889;2026-10-06;bolo de cenoura;2;12.00;pago
+1890;2026-10-02;livro de bolso;3;39.90;pago
+1891;2026-10-03;torta de limao;1;13.50;pago
+1892;2026-10-03;croissant;1;11.00;pago
+1893;2026-10-05;pao de queijo;1;6.50;pago
+1894;2026-10-05;pao de queijo;4;6.50;pago
+1895;2026-10-05;bolo de cenoura;1;12.00;pago
+1896;2026-10-01;bolo de cenoura;1;12.00;pago
+1897;2026-10-06;cha gelado;4;9.00;pago
+1898;2026-10-05;croissant;1;11.00;pago
+1899;2026-10-09;torta de limao;4;13.50;pago
+1900;2026-10-09;pao de queijo;2;6.50;pago
+1901;2026-10-04;pao de queijo;1;6.50;pago
+1902;2026-10-05;espresso;1;7.00;pago
+1903;2026-10-01;pao de queijo;1;6.50;pago
+1904;2026-10-04;bolo de cenoura;1;12.00;pago
+1905;2026-10-03;torta de limao;1;13.50;pago
+1906;2026-10-06;espresso;1;7.00;pago
+1907;2026-10-08;bolo de cenoura;2;12.00;pago
+1908;2026-10-04;torta de limao;1;13.50;pago
+1909;2026-10-04;pao de queijo;1;6.50;pago
+1910;2026-10-09;pao de queijo;1;6.50;pago
+1911;2026-10-01;cappuccino;1;14.50;pago
+1912;2026-10-01;pao de queijo;1;6.50;pago
+1913;2026-10-04;espresso;2;7.00;pago
+1914;2026-10-05;cha gelado;1;9.00;pago
+1915;2026-10-09;croissant;5;11.00;pago
+1916;2026-10-05;bolo de cenoura;2;12.00;pago
+1917;2026-10-03;pao de queijo;2;6.50;pago
+1918;2026-10-02;cappuccino;5;14.50;cancelado
+1919;2026-10-09;pao de queijo;1;6.50;pago
+1920;2026-10-06;espresso;1;7.00;pago
+1921;2026-10-07;bolo de cenoura;2;12.00;pago
+1922;2026-10-02;croissant;1;11.00;pago
+1923;2026-10-07;torta de limao;2;13.50;pago
+1924;2026-10-07;croissant;4;11.00;pago
+1925;2026-10-04;livro de bolso;2;39.90;pago
+1926;2026-10-04;espresso;2;7.00;pago
+1927;2026-10-04;pao de queijo;1;6.50;pago
+1928;2026-10-02;croissant;1;11.00;pago
+1929;2026-10-07;bolo de cenoura;1;12.00;pago
+1930;2026-10-05;espresso;2;7.00;pago
+1931;2026-10-01;torta de limao;3;13.50;pago
+1932;2026-10-06;livro de bolso;1;39.90;pago
+1933;2026-10-01;livro de bolso;3;39.90;pago
+1934;2026-10-09;torta de limao;2;13.50;pago
+1935;2026-10-09;torta de limao;1;13.50;pago
+1936;2026-10-09;pao de queijo;3;6.50;pago
+1937;2026-10-04;bolo de cenoura;5;12.00;pago
+1938;2026-10-05;cha gelado;2;9.00;pago
+1939;2026-10-07;croissant;1;11.00;pago
+1940;2026-10-03;livro de bolso;1;39.90;pago
+1941;2026-10-04;torta de limao;2;13.50;pago
+1942;2026-10-01;cappuccino;1;14.50;pago
+1943;2026-10-03;cappuccino;4;14.50;pago
+1944;2026-10-03;croissant;2;11.00;pago
+1945;2026-10-02;croissant;1;11.00;pago
+1946;2026-10-05;espresso;1;7.00;pago
+1947;2026-10-07;torta de limao;1;13.50;pago
+1948;2026-10-02;bolo de cenoura;2;12.00;pago
+1949;2026-10-03;torta de limao;1;13.50;pago
+1950;2026-10-03;bolo de cenoura;1;12.00;pago
+1951;2026-10-04;cappuccino;1;14.50;pago
+1952;2026-10-09;croissant;3;11.00;pago
+1953;2026-10-08;cha gelado;1;9.00;pago
+1954;2026-10-06;bolo de cenoura;4;12.00;pago
+1955;2026-10-02;torta de limao;2;13.50;pago
+1956;2026-10-01;pao de queijo;1;6.50;pago
+1957;2026-10-02;bolo de cenoura;1;12.00;cancelado
+1958;2026-10-09;croissant;4;11.00;pago
+1959;2026-10-08;espresso;3;7.00;pago
+1960;2026-10-01;pao de queijo;5;6.50;pago
+1961;2026-10-05;bolo de cenoura;1;12.00;pago
+1962;2026-10-03;livro de bolso;2;39.90;pago
+1963;2026-10-01;espresso;1;7.00;cancelado
+1964;2026-10-09;pao de queijo;1;6.50;pago
+1965;2026-10-05;torta de limao;1;13.50;cancelado
+1966;2026-10-05;cappuccino;2;14.50;pago
+1967;2026-10-08;bolo de cenoura;1;12.00;pago
+1968;2026-10-02;pao de queijo;2;6.50;pago
+1969;2026-10-01;pao de queijo;2;6.50;pago
+1970;2026-10-03;croissant;1;11.00;pago
+1971;2026-10-03;espresso;1;7.00;pago
+1972;2026-10-01;torta de limao;1;13.50;pago
+1973;2026-10-02;espresso;2;7.00;pago
+1974;2026-10-03;espresso;1;7.00;pago
+1975;2026-10-06;pao de queijo;1;6.50;pago
+1976;2026-10-08;pao de queijo;4;6.50;pago
+1977;2026-10-01;pao de queijo;3;6.50;pago
+1978;2026-10-06;pao de queijo;2;6.50;pago
+1979;2026-10-04;croissant;1;11.00;pago
+1980;2026-10-09;bolo de cenoura;1;12.00;pago
+1981;2026-10-08;cappuccino;1;14.50;pago
+1982;2026-10-07;cha gelado;3;9.00;pago
+1983;2026-10-01;croissant;4;11.00;pago
+1984;2026-10-07;torta de limao;4;13.50;pago
+1985;2026-10-03;pao de queijo;2;6.50;pago
+1986;2026-10-06;pao de queijo;1;6.50;pago
+1987;2026-10-08;croissant;2;11.00;pago
+1988;2026-10-09;torta de limao;1;13.50;pago
+1989;2026-10-09;cha gelado;2;9.00;cancelado
+1990;2026-10-02;torta de limao;2;13.50;pago
+1991;2026-10-05;torta de limao;2;13.50;pago
+1992;2026-10-06;pao de queijo;1;6.50;pago
+1993;2026-10-04;livro de bolso;4;39.90;pago
+1994;2026-10-06;pao de queijo;2;6.50;pago
+1995;2026-10-06;pao de queijo;1;6.50;pago
+1996;2026-10-03;bolo de cenoura;1;12.00;pago
+1997;2026-10-01;croissant;1;11.00;pago
+1998;2026-10-06;pao de queijo;2;6.50;pago
+1999;2026-10-06;livro de bolso;3;39.90;pago
+2000;2026-10-05;pao de queijo;4;6.50;pago
+2001;2026-10-07;espresso;2;7.00;pago
+2002;2026-10-05;pao de queijo;1;6.50;pago
+2003;2026-10-06;espresso;2;7.00;pago
+2004;2026-10-04;bolo de cenoura;1;12.00;pago
+2005;2026-10-01;croissant;1;11.00;pago
+2006;2026-10-09;livro de bolso;1;39.90;pago
+2007;2026-10-06;croissant;1;11.00;pago
+2008;2026-10-04;espresso;2;7.00;pago
+2009;2026-10-05;cha gelado;2;9.00;pago
+2010;2026-10-08;espresso;1;7.00;pago
+2011;2026-10-09;pao de queijo;1;6.50;pago
+2012;2026-10-07;livro de bolso;2;39.90;pago
+2013;2026-10-05;cappuccino;1;14.50;pago
+2014;2026-10-04;croissant;2;11.00;pago
+2015;2026-10-01;croissant;2;11.00;pago
+2016;2026-10-07;bolo de cenoura;1;12.00;pago
+2017;2026-10-02;livro de bolso;3;39.90;pago
+2018;2026-10-01;cha gelado;1;9.00;pago
+2019;2026-10-03;cappuccino;1;14.50;pago
+2020;2026-10-08;pao de queijo;1;6.50;pago
+2021;2026-10-09;cappuccino;1;14.50;pago
+2022;2026-10-08;pao de queijo;2;6.50;pago
+2023;2026-10-06;torta de limao;1;13.50;pago
+2024;2026-10-07;torta de limao;1;13.50;pago
+2025;2026-10-09;cappuccino;1;14.50;pago
+2026;2026-10-04;pao de queijo;3;6.50;pago
+2027;2026-10-03;espresso;1;7.00;pago
+2028;2026-10-09;livro de bolso;3;39.90;pago
+2029;2026-10-01;cha gelado;3;9.00;cancelado
+2030;2026-10-05;cappuccino;2;14.50;pago
+2031;2026-10-05;espresso;5;7.00;pago
+2032;2026-10-08;croissant;1;11.00;pago
+2033;2026-10-08;croissant;3;11.00;pago
+2034;2026-10-07;pao de queijo;1;6.50;pago
+2035;2026-10-09;cappuccino;1;14.50;pago
+2036;2026-10-02;bolo de cenoura;2;12.00;pago
+2037;2026-10-03;espresso;4;7.00;pago
+2038;2026-10-05;espresso;1;7.00;pago
+2039;2026-10-01;pao de queijo;1;6.50;pago
+2040;2026-10-03;croissant;2;11.00;pago
+2041;2026-10-08;cappuccino;1;14.50;pago
+2042;2026-10-07;torta de limao;3;13.50;pago
+2043;2026-10-08;cha gelado;2;9.00;pago
+2044;2026-10-03;livro de bolso;2;39.90;pago
+2045;2026-10-03;cappuccino;4;14.50;pago
+2046;2026-10-08;livro de bolso;1;39.90;pago
+2047;2026-10-08;espresso;1;7.00;cancelado
+2048;2026-10-04;pao de queijo;1;6.50;pago
+2049;2026-10-05;cha gelado;1;9.00;pago
+2050;2026-10-07;torta de limao;1;13.50;pago
+2051;2026-10-07;torta de limao;4;13.50;pago
+2052;2026-10-03;pao de queijo;1;6.50;pago
+2053;2026-10-04;espresso;1;7.00;pago
+2054;2026-10-05;croissant;1;11.00;pago
+2055;2026-10-06;torta de limao;1;13.50;pago
+2056;2026-10-03;bolo de cenoura;4;12.00;cancelado
+2057;2026-10-04;croissant;2;11.00;pago
+2058;2026-10-04;livro de bolso;1;39.90;pago
+2059;2026-10-02;cappuccino;5;14.50;pago
+2060;2026-10-07;torta de limao;3;13.50;pago
+2061;2026-10-07;croissant;3;11.00;pago
+2062;2026-10-06;espresso;1;7.00;pago
+2063;2026-10-04;torta de limao;2;13.50;pago
+2064;2026-10-04;torta de limao;1;13.50;pago
+2065;2026-10-05;cappuccino;4;14.50;pago
+2066;2026-10-08;cappuccino;2;14.50;pago
+2067;2026-10-01;pao de queijo;1;6.50;pago
+2068;2026-10-04;croissant;1;11.00;pago
+2069;2026-10-04;cappuccino;1;14.50;pago
+2070;2026-10-07;croissant;2;11.00;pago
+2071;2026-10-05;torta de limao;1;13.50;pago
+2072;2026-10-07;pao de queijo;2;6.50;pago
+2073;2026-10-01;cappuccino;1;14.50;pago
+2074;2026-10-01;livro de bolso;1;39.90;pago
+2075;2026-10-07;cappuccino;2;14.50;pago
+2076;2026-10-01;bolo de cenoura;3;12.00;pago
+2077;2026-10-06;croissant;2;11.00;pago
+2078;2026-10-01;croissant;1;11.00;cancelado
+2079;2026-10-07;cha gelado;2;9.00;pago
+2080;2026-10-05;cappuccino;2;14.50;pago
+2081;2026-10-05;pao de queijo;2;6.50;pago
+2082;2026-10-02;croissant;1;11.00;pago
+2083;2026-10-09;livro de bolso;4;39.90;pago
+2084;2026-10-08;cappuccino;1;14.50;pago
+2085;2026-10-04;pao de queijo;1;6.50;pago
+2086;2026-10-05;croissant;1;11.00;pago
+2087;2026-10-07;cha gelado;1;9.00;pago
+2088;2026-10-08;cappuccino;3;14.50;pago
+2089;2026-10-05;bolo de cenoura;1;12.00;pago
+2090;2026-10-01;bolo de cenoura;4;12.00;pago
+2091;2026-10-09;torta de limao;1;13.50;pago
+2092;2026-10-01;bolo de cenoura;2;12.00;pago
+2093;2026-10-05;torta de limao;1;13.50;pago
+2094;2026-10-08;torta de limao;2;13.50;pago
+2095;2026-10-05;espresso;2;7.00;pago
+2096;2026-10-04;croissant;4;11.00;pago
+2097;2026-10-06;bolo de cenoura;1;12.00;pago
+2098;2026-10-01;torta de limao;1;13.50;pago
+2099;2026-10-08;cha gelado;1;9.00;pago
+2100;2026-10-04;bolo de cenoura;1;12.00;pago
+2101;2026-10-07;cappuccino;1;14.50;pago
+2102;2026-10-04;espresso;1;7.00;pago
+2103;2026-10-03;cha gelado;1;9.00;pago
+2104;2026-10-04;torta de limao;3;13.50;pago
+2105;2026-10-09;espresso;1;7.00;pago
+2106;2026-10-01;cappuccino;3;14.50;pago
+2107;2026-10-04;cappuccino;2;14.50;pago
+2108;2026-10-07;livro de bolso;1;39.90;pago
+2109;2026-10-06;pao de queijo;1;6.50;pago
+2110;2026-10-02;torta de limao;2;13.50;pago
+2111;2026-10-09;torta de limao;1;13.50;pago
+2112;2026-10-03;cappuccino;4;14.50;pago
+2113;2026-10-04;espresso;1;7.00;pago
+2114;2026-10-03;bolo de cenoura;1;12.00;pago
+2115;2026-10-01;cappuccino;1;14.50;pago
+2116;2026-10-02;bolo de cenoura;1;12.00;pago
+2117;2026-10-08;espresso;2;7.00;pago
+2118;2026-10-09;torta de limao;1;13.50;pago
+2119;2026-10-02;croissant;1;11.00;pago
+2120;2026-10-06;cappuccino;2;14.50;pago
+2121;2026-10-08;espresso;2;7.00;pago
+2122;2026-10-01;croissant;1;11.00;pago
+2123;2026-10-09;pao de queijo;1;6.50;pago
+2124;2026-10-08;cappuccino;2;14.50;pago
+2125;2026-10-06;pao de queijo;2;6.50;pago
+2126;2026-10-04;bolo de cenoura;1;12.00;pago
+2127;2026-10-01;pao de queijo;1;6.50;pago
+2128;2026-10-09;espresso;5;7.00;pago
+2129;2026-10-06;espresso;1;7.00;pago
+2130;2026-10-08;bolo de cenoura;1;12.00;pago
+2131;2026-10-07;pao de queijo;1;6.50;pago
+2132;2026-10-07;pao de queijo;1;6.50;pago
+2133;2026-10-05;cappuccino;2;14.50;pago
+2134;2026-10-01;croissant;1;11.00;pago
+2135;2026-10-02;pao de queijo;4;6.50;pago
+2136;2026-10-09;pao de queijo;2;6.50;pago
+2137;2026-10-03;livro de bolso;1;39.90;pago
+2138;2026-10-01;cappuccino;1;14.50;pago
+2139;2026-10-09;pao de queijo;1;6.50;pago
+2140;2026-10-04;cappuccino;1;14.50;pago
+2141;2026-10-01;pao de queijo;2;6.50;pago
+2142;2026-10-01;pao de queijo;3;6.50;pago
+2143;2026-10-02;livro de bolso;1;39.90;pago
+2144;2026-10-05;cappuccino;1;14.50;cancelado
+2145;2026-10-07;croissant;5;11.00;cancelado
+2146;2026-10-01;cha gelado;1;9.00;pago
+2147;2026-10-08;croissant;1;11.00;pago
+2148;2026-10-05;bolo de cenoura;1;12.00;pago
+2149;2026-10-06;livro de bolso;5;39.90;pago
+2150;2026-10-05;bolo de cenoura;3;12.00;pago
+2151;2026-10-09;croissant;2;11.00;pago
+2152;2026-10-07;espresso;1;7.00;pago
+2153;2026-10-01;cappuccino;2;14.50;pago
+2154;2026-10-09;pao de queijo;2;6.50;pago
+2155;2026-10-08;pao de queijo;1;6.50;pago
+2156;2026-10-03;torta de limao;1;13.50;pago
+2157;2026-10-04;cappuccino;1;14.50;pago
+2158;2026-10-05;cha gelado;1;9.00;pago
+2159;2026-10-01;croissant;2;11.00;pago
+2160;2026-10-02;bolo de cenoura;1;12.00;pago
+2161;2026-10-08;croissant;3;11.00;pago
+2162;2026-10-01;pao de queijo;1;6.50;cancelado
+2163;2026-10-02;pao de queijo;3;6.50;pago
+2164;2026-10-05;livro de bolso;3;39.90;pago
+2165;2026-10-07;cha gelado;1;9.00;pago
+2166;2026-10-09;pao de queijo;1;6.50;pago
+2167;2026-10-05;cappuccino;1;14.50;pago
+2168;2026-10-07;espresso;1;7.00;pago
+2169;2026-10-05;espresso;2;7.00;pago
+2170;2026-10-04;croissant;1;11.00;pago
+2171;2026-10-02;bolo de cenoura;2;12.00;pago
+2172;2026-10-06;cappuccino;1;14.50;cancelado
+2173;2026-10-08;croissant;4;11.00;pago
+2174;2026-10-01;espresso;3;7.00;pago
+2175;2026-10-01;bolo de cenoura;1;12.00;pago
+2176;2026-10-09;cappuccino;1;14.50;pago
+2177;2026-10-01;pao de queijo;1;6.50;pago
+2178;2026-10-06;cappuccino;2;14.50;pago
+2179;2026-10-09;cappuccino;1;14.50;cancelado
+2180;2026-10-05;espresso;1;7.00;pago
+2181;2026-10-06;cappuccino;1;14.50;pago
+2182;2026-10-01;livro de bolso;1;39.90;pago
+2183;2026-10-09;pao de queijo;1;6.50;pago
+2184;2026-10-02;espresso;2;7.00;pago
+2185;2026-10-06;livro de bolso;4;39.90;pago
+2186;2026-10-04;croissant;2;11.00;pago
+2187;2026-10-04;croissant;5;11.00;pago
+2188;2026-10-05;bolo de cenoura;1;12.00;pago
+2189;2026-10-02;cha gelado;1;9.00;pago
+2190;2026-10-02;cappuccino;5;14.50;pago
+2191;2026-10-01;cha gelado;1;9.00;pago
+2192;2026-10-01;torta de limao;5;13.50;pago
+2193;2026-10-04;espresso;3;7.00;pago
+2194;2026-10-03;torta de limao;1;13.50;pago
+2195;2026-10-03;pao de queijo;1;6.50;pago
+2196;2026-10-03;torta de limao;2;13.50;pago
+2197;2026-10-09;pao de queijo;1;6.50;pago
+2198;2026-10-01;croissant;4;11.00;pago
+2199;2026-10-04;livro de bolso;1;39.90;pago
+2200;2026-10-08;pao de queijo;3;6.50;pago
+2201;2026-10-05;espresso;2;7.00;pago
+2202;2026-10-07;croissant;1;11.00;pago
+2203;2026-10-09;cha gelado;2;9.00;pago
+2204;2026-10-05;cappuccino;1;14.50;pago
+2205;2026-10-08;torta de limao;5;13.50;pago
+2206;2026-10-04;cha gelado;1;9.00;pago
+2207;2026-10-01;pao de queijo;1;6.50;pago
+2208;2026-10-08;pao de queijo;2;6.50;pago
+2209;2026-10-09;pao de queijo;2;6.50;pago
+2210;2026-10-07;bolo de cenoura;1;12.00;pago
+2211;2026-10-07;cha gelado;4;9.00;pago
+2212;2026-10-04;cappuccino;2;14.50;pago
+2213;2026-10-08;cappuccino;1;14.50;pago
+2214;2026-10-05;croissant;1;11.00;pago
+2215;2026-10-05;pao de queijo;1;6.50;pago
+2216;2026-10-02;pao de queijo;1;6.50;pago
+2217;2026-10-07;espresso;1;7.00;pago
+2218;2026-10-04;cappuccino;1;14.50;pago
+2219;2026-10-06;espresso;4;7.00;pago
+2220;2026-10-08;cappuccino;2;14.50;pago
+2221;2026-10-08;cappuccino;1;14.50;pago
+2222;2026-10-03;pao de queijo;1;6.50;pago
+2223;2026-10-01;bolo de cenoura;2;12.00;pago
+2224;2026-10-01;bolo de cenoura;2;12.00;pago
+2225;2026-10-09;espresso;1;7.00;pago
+2226;2026-10-02;croissant;1;11.00;pago
+2227;2026-10-07;cappuccino;2;14.50;pago
+2228;2026-10-04;pao de queijo;4;6.50;pago
+2229;2026-10-02;cappuccino;1;14.50;pago
+2230;2026-10-04;croissant;2;11.00;pago
+2231;2026-10-08;bolo de cenoura;2;12.00;pago
+2232;2026-10-07;cha gelado;1;9.00;pago
+2233;2026-10-09;croissant;1;11.00;pago
+2234;2026-10-04;pao de queijo;2;6.50;pago
+2235;2026-10-09;espresso;1;7.00;pago
+2236;2026-10-01;pao de queijo;1;6.50;pago
+2237;2026-10-07;pao de queijo;1;6.50;pago
+2238;2026-10-02;bolo de cenoura;5;12.00;pago
+2239;2026-10-02;espresso;1;7.00;pago
+2240;2026-10-06;pao de queijo;1;6.50;pago
+2241;2026-10-04;cappuccino;2;14.50;pago
+2242;2026-10-08;cappuccino;1;14.50;pago
+2243;2026-10-05;pao de queijo;1;6.50;cancelado
+2244;2026-10-08;cha gelado;2;9.00;pago
+2245;2026-10-08;cappuccino;1;14.50;pago
+2246;2026-10-01;espresso;2;7.00;pago
+2247;2026-10-01;espresso;1;7.00;pago
+2248;2026-10-05;torta de limao;4;13.50;pago
+2249;2026-10-06;cha gelado;5;9.00;pago
+2250;2026-10-09;torta de limao;4;13.50;pago
+2251;2026-10-06;pao de queijo;1;6.50;pago
+2252;2026-10-04;torta de limao;2;13.50;pago
+2253;2026-10-05;livro de bolso;3;39.90;pago
+2254;2026-10-01;cappuccino;2;14.50;pago
+2255;2026-10-03;cappuccino;1;14.50;pago
+2256;2026-10-07;bolo de cenoura;5;12.00;pago
+2257;2026-10-09;espresso;1;7.00;pago
+2258;2026-10-01;croissant;1;11.00;pago
+2259;2026-10-07;torta de limao;1;13.50;pago
+2260;2026-10-09;cappuccino;4;14.50;pago
+2261;2026-10-08;cappuccino;5;14.50;pago
+2262;2026-10-01;pao de queijo;5;6.50;pago
+2263;2026-10-04;pao de queijo;2;6.50;pago
+2264;2026-10-09;livro de bolso;3;39.90;pago
+2265;2026-10-08;cha gelado;1;9.00;pago
+2266;2026-10-01;bolo de cenoura;1;12.00;pago
+2267;2026-10-08;bolo de cenoura;1;12.00;pago
+2268;2026-10-05;espresso;5;7.00;pago
+2269;2026-10-06;pao de queijo;1;6.50;pago
+2270;2026-10-07;espresso;2;7.00;pago
+2271;2026-10-09;cappuccino;3;14.50;pago
+2272;2026-10-01;bolo de cenoura;1;12.00;pago
+2273;2026-10-08;croissant;1;11.00;pago
+2274;2026-10-04;espresso;1;7.00;pago
+2275;2026-10-02;espresso;3;7.00;pago
+2276;2026-10-05;espresso;2;7.00;pago
+2277;2026-10-03;bolo de cenoura;1;12.00;pago
+2278;2026-10-07;bolo de cenoura;1;12.00;pago
+2279;2026-10-07;croissant;1;11.00;pago
+2280;2026-10-07;cappuccino;2;14.50;pago
+2281;2026-10-02;torta de limao;2;13.50;pago
+2282;2026-10-02;cappuccino;2;14.50;pago
+2283;2026-10-07;bolo de cenoura;2;12.00;pago
+2284;2026-10-05;croissant;1;11.00;cancelado
+2285;2026-10-09;pao de queijo;1;6.50;pago
+2286;2026-10-09;espresso;1;7.00;pago
+2287;2026-10-01;cappuccino;3;14.50;pago
+2288;2026-10-09;bolo de cenoura;2;12.00;pago
+2289;2026-10-04;pao de queijo;3;6.50;pago
+2290;2026-10-02;bolo de cenoura;2;12.00;pago
+2291;2026-10-07;pao de queijo;3;6.50;pago
+2292;2026-10-05;croissant;1;11.00;pago
+2293;2026-10-06;torta de limao;2;13.50;pago
+2294;2026-10-01;pao de queijo;2;6.50;pago
+2295;2026-10-04;bolo de cenoura;2;12.00;pago
+2296;2026-10-05;cappuccino;2;14.50;pago
+2297;2026-10-09;torta de limao;1;13.50;pago
+2298;2026-10-01;pao de queijo;1;6.50;cancelado
+2299;2026-10-01;livro de bolso;5;39.90;pago
+2300;2026-10-02;pao de queijo;2;6.50;pago
+2301;2026-10-03;pao de queijo;2;6.50;pago
+2302;2026-10-06;bolo de cenoura;3;12.00;pago
+2303;2026-10-07;pao de queijo;1;6.50;pago
+2304;2026-10-04;espresso;3;7.00;cancelado
+2305;2026-10-04;pao de queijo;1;6.50;pago
+2306;2026-10-04;cha gelado;1;9.00;pago
+2307;2026-10-06;pao de queijo;1;6.50;pago
+2308;2026-10-08;pao de queijo;5;6.50;pago
+2309;2026-10-07;espresso;1;7.00;cancelado
+2310;2026-10-07;croissant;2;11.00;pago
+2311;2026-10-09;cha gelado;2;9.00;pago
+2312;2026-10-08;pao de queijo;1;6.50;pago
+2313;2026-10-09;torta de limao;2;13.50;pago
+2314;2026-10-02;pao de queijo;3;6.50;pago
+2315;2026-10-06;livro de bolso;2;39.90;pago
+2316;2026-10-04;pao de queijo;1;6.50;pago
+2317;2026-10-03;pao de queijo;1;6.50;pago
+2318;2026-10-09;pao de queijo;2;6.50;pago
+2319;2026-10-07;pao de queijo;2;6.50;pago
+2320;2026-10-05;pao de queijo;2;6.50;pago
+2321;2026-10-05;bolo de cenoura;2;12.00;pago
+2322;2026-10-05;cappuccino;3;14.50;pago
+2323;2026-10-03;pao de queijo;1;6.50;pago
+2324;2026-10-08;pao de queijo;2;6.50;pago
+2325;2026-10-02;pao de queijo;1;6.50;pago
+2326;2026-10-08;cha gelado;1;9.00;pago
+2327;2026-10-02;pao de queijo;1;6.50;pago
+2328;2026-10-05;bolo de cenoura;2;12.00;pago
+2329;2026-10-08;cappuccino;5;14.50;pago
+2330;2026-10-03;cappuccino;1;14.50;pago
+2331;2026-10-05;espresso;1;7.00;pago
+2332;2026-10-02;pao de queijo;1;6.50;pago
+2333;2026-10-07;torta de limao;3;13.50;pago
+2334;2026-10-05;livro de bolso;1;39.90;pago
+2335;2026-10-07;livro de bolso;2;39.90;pago
+2336;2026-10-04;espresso;1;7.00;cancelado
+2337;2026-10-03;pao de queijo;2;6.50;pago
+2338;2026-10-09;pao de queijo;3;6.50;pago
+2339;2026-10-05;pao de queijo;1;6.50;pago
+2340;2026-10-04;pao de queijo;1;6.50;pago
+2341;2026-10-08;pao de queijo;1;6.50;cancelado
+2342;2026-10-03;bolo de cenoura;1;12.00;pago
+2343;2026-10-09;cappuccino;1;14.50;pago
+2344;2026-10-02;torta de limao;2;13.50;pago
+2345;2026-10-02;cappuccino;4;14.50;pago
+2346;2026-10-03;livro de bolso;1;39.90;pago
+2347;2026-10-03;bolo de cenoura;1;12.00;pago
+2348;2026-10-03;cappuccino;1;14.50;pago
+2349;2026-10-08;cappuccino;1;14.50;pago
+2350;2026-10-05;pao de queijo;5;6.50;pago
+2351;2026-10-07;espresso;1;7.00;pago
+2352;2026-10-07;cha gelado;1;9.00;pago
+2353;2026-10-03;cha gelado;1;9.00;pago
+2354;2026-10-08;torta de limao;2;13.50;pago
+2355;2026-10-04;cappuccino;1;14.50;pago
+2356;2026-10-08;bolo de cenoura;1;12.00;pago
+2357;2026-10-04;cha gelado;1;9.00;cancelado
+2358;2026-10-05;pao de queijo;1;6.50;pago
+2359;2026-10-02;espresso;1;7.00;pago
+2360;2026-10-09;torta de limao;1;13.50;pago
+2361;2026-10-04;bolo de cenoura;4;12.00;pago
+2362;2026-10-07;bolo de cenoura;1;12.00;pago
+2363;2026-10-05;torta de limao;4;13.50;pago
+2364;2026-10-08;espresso;5;7.00;pago
+2365;2026-10-03;espresso;1;7.00;pago
+2366;2026-10-06;bolo de cenoura;3;12.00;pago
+2367;2026-10-01;bolo de cenoura;1;12.00;pago
+2368;2026-10-07;croissant;1;11.00;pago
+2369;2026-10-07;bolo de cenoura;4;12.00;pago
+2370;2026-10-05;cha gelado;1;9.00;pago
+2371;2026-10-05;espresso;3;7.00;pago
+2372;2026-10-01;torta de limao;1;13.50;pago
+2373;2026-10-04;bolo de cenoura;1;12.00;pago
+2374;2026-10-05;croissant;3;11.00;pago
+2375;2026-10-04;cappuccino;1;14.50;pago
+2376;2026-10-02;torta de limao;2;13.50;pago
+2377;2026-10-04;cappuccino;1;14.50;pago
+2378;2026-10-01;croissant;2;11.00;cancelado
+2379;2026-10-04;espresso;2;7.00;pago
+2380;2026-10-01;espresso;2;7.00;pago
+2381;2026-10-06;torta de limao;1;13.50;pago
+2382;2026-10-06;torta de limao;2;13.50;pago
+2383;2026-10-05;cappuccino;3;14.50;pago
+2384;2026-10-01;bolo de cenoura;1;12.00;pago
+2385;2026-10-09;torta de limao;2;13.50;pago
+2386;2026-10-03;croissant;3;11.00;cancelado
+2387;2026-10-09;pao de queijo;1;6.50;pago
+2388;2026-10-06;livro de bolso;2;39.90;pago
+2389;2026-10-03;croissant;1;11.00;pago
+2390;2026-10-09;pao de queijo;1;6.50;pago
+2391;2026-10-08;cappuccino;2;14.50;pago
+2392;2026-10-09;cha gelado;5;9.00;pago
+2393;2026-10-09;espresso;1;7.00;cancelado
+2394;2026-10-07;torta de limao;1;13.50;pago
+2395;2026-10-05;pao de queijo;1;6.50;pago
+2396;2026-10-08;espresso;1;7.00;pago
+2397;2026-10-06;pao de queijo;2;6.50;pago
+2398;2026-10-04;cappuccino;2;14.50;pago
+2399;2026-10-02;pao de queijo;1;6.50;pago
+2400;2026-10-04;torta de limao;1;13.50;pago
+2401;2026-10-05;cha gelado;1;9.00;pago
+2402;2026-10-01;torta de limao;1;13.50;pago
+2403;2026-10-08;pao de queijo;1;6.50;pago
+2404;2026-10-09;torta de limao;3;13.50;cancelado
+2405;2026-10-08;cappuccino;1;14.50;pago
+2406;2026-10-04;pao de queijo;3;6.50;pago
+2407;2026-10-09;pao de queijo;1;6.50;pago
+2408;2026-10-04;cappuccino;1;14.50;cancelado
+2409;2026-10-02;livro de bolso;1;39.90;pago
+2410;2026-10-06;torta de limao;1;13.50;pago
+2411;2026-10-09;cappuccino;3;14.50;pago
+2412;2026-10-05;pao de queijo;1;6.50;pago
+2413;2026-10-01;bolo de cenoura;2;12.00;pago
+2414;2026-10-06;cha gelado;2;9.00;pago
+2415;2026-10-05;bolo de cenoura;1;12.00;pago
+2416;2026-10-08;cappuccino;1;14.50;pago
+2417;2026-10-04;torta de limao;1;13.50;pago
+2418;2026-10-08;cha gelado;5;9.00;pago
+2419;2026-10-06;espresso;1;7.00;pago
+2420;2026-10-01;cappuccino;1;14.50;pago
+2421;2026-10-02;espresso;1;7.00;pago
+2422;2026-10-04;cappuccino;5;14.50;pago
+2423;2026-10-09;cappuccino;1;14.50;cancelado
+2424;2026-10-06;pao de queijo;4;6.50;pago
+2425;2026-10-09;espresso;1;7.00;pago
+2426;2026-10-01;torta de limao;1;13.50;pago
+2427;2026-10-04;pao de queijo;1;6.50;pago
+2428;2026-10-06;bolo de cenoura;2;12.00;pago
+2429;2026-10-07;cha gelado;1;9.00;pago
+2430;2026-10-03;bolo de cenoura;1;12.00;pago
+2431;2026-10-01;cappuccino;1;14.50;pago
+2432;2026-10-01;torta de limao;1;13.50;pago
+2433;2026-10-01;croissant;3;11.00;pago
+2434;2026-10-07;cha gelado;1;9.00;pago
+2435;2026-10-08;croissant;1;11.00;cancelado
+2436;2026-10-06;cappuccino;1;14.50;cancelado
+2437;2026-10-06;pao de queijo;2;6.50;pago
+2438;2026-10-06;cappuccino;1;14.50;pago
+2439;2026-10-04;cha gelado;3;9.00;pago
+2440;2026-10-03;croissant;1;11.00;pago
+2441;2026-10-04;livro de bolso;2;39.90;pago
+2442;2026-10-08;livro de bolso;1;39.90;cancelado
+2443;2026-10-04;livro de bolso;3;39.90;pago
+2444;2026-10-02;cappuccino;1;14.50;pago
+2445;2026-10-05;pao de queijo;1;6.50;pago
+2446;2026-10-06;pao de queijo;2;6.50;pago
+2447;2026-10-06;torta de limao;1;13.50;pago
+2448;2026-10-09;bolo de cenoura;1;12.00;pago
+2449;2026-10-05;croissant;1;11.00;pago
+2450;2026-10-06;cappuccino;1;14.50;pago
+2451;2026-10-08;pao de queijo;4;6.50;pago
+2452;2026-10-06;espresso;1;7.00;pago
+2453;2026-10-05;pao de queijo;2;6.50;pago
+2454;2026-10-03;pao de queijo;1;6.50;pago
+2455;2026-10-03;torta de limao;3;13.50;pago
+2456;2026-10-03;pao de queijo;2;6.50;pago
+2457;2026-10-08;torta de limao;2;13.50;pago
+2458;2026-10-07;pao de queijo;1;6.50;pago
+2459;2026-10-06;cappuccino;2;14.50;pago
+2460;2026-10-04;livro de bolso;3;39.90;pago
+2461;2026-10-02;cappuccino;1;14.50;pago
+2462;2026-10-01;cappuccino;3;14.50;pago
+2463;2026-10-03;cappuccino;1;14.50;pago
+2464;2026-10-03;espresso;1;7.00;pago
+2465;2026-10-03;pao de queijo;4;6.50;pago
+2466;2026-10-04;croissant;1;11.00;pago
+2467;2026-10-06;cha gelado;1;9.00;pago
+2468;2026-10-07;cha gelado;4;9.00;pago
+2469;2026-10-05;torta de limao;1;13.50;pago
+2470;2026-10-08;espresso;1;7.00;pago
+2471;2026-10-09;torta de limao;1;13.50;pago
+2472;2026-10-06;croissant;4;11.00;pago
+2473;2026-10-06;espresso;3;7.00;pago
+2474;2026-10-09;espresso;2;7.00;pago
+2475;2026-10-04;croissant;1;11.00;pago
+2476;2026-10-07;bolo de cenoura;1;12.00;pago
+2477;2026-10-08;croissant;1;11.00;pago
+2478;2026-10-05;pao de queijo;1;6.50;pago
+2479;2026-10-01;cappuccino;1;14.50;pago
+2480;2026-10-04;croissant;2;11.00;pago
+2481;2026-10-09;cha gelado;2;9.00;pago
+2482;2026-10-08;pao de queijo;1;6.50;pago
+2483;2026-10-08;cappuccino;2;14.50;pago
+2484;2026-10-06;cha gelado;1;9.00;pago
+2485;2026-10-07;bolo de cenoura;1;12.00;pago
+2486;2026-10-09;cha gelado;2;9.00;pago
+2487;2026-10-02;croissant;1;11.00;pago
+2488;2026-10-06;espresso;2;7.00;pago
+2489;2026-10-06;cha gelado;2;9.00;cancelado
+2490;2026-10-07;espresso;1;7.00;pago
+2491;2026-10-09;bolo de cenoura;3;12.00;pago
+2492;2026-10-09;espresso;2;7.00;pago
+2493;2026-10-01;bolo de cenoura;2;12.00;pago
+2494;2026-10-08;torta de limao;1;13.50;pago
+2495;2026-10-05;croissant;1;11.00;pago
+2496;2026-10-01;cappuccino;1;14.50;pago
+2497;2026-10-09;pao de queijo;1;6.50;pago
+2498;2026-10-01;pao de queijo;1;6.50;pago
+2499;2026-10-07;pao de queijo;1;6.50;pago
+2500;2026-10-02;pao de queijo;1;6.50;pago
+2501;2026-10-02;pao de queijo;1;6.50;cancelado
+2502;2026-10-06;livro de bolso;4;39.90;pago
+2503;2026-10-09;livro de bolso;1;39.90;pago
+2504;2026-10-04;croissant;1;11.00;pago
+2505;2026-10-04;torta de limao;1;13.50;pago
+2506;2026-10-08;croissant;2;11.00;pago
+2507;2026-10-01;pao de queijo;2;6.50;pago
+2508;2026-10-01;espresso;1;7.00;pago
+2509;2026-10-05;espresso;1;7.00;pago
+2510;2026-10-02;pao de queijo;2;6.50;pago
+2511;2026-10-09;cappuccino;1;14.50;pago
+2512;2026-10-02;bolo de cenoura;4;12.00;pago
+2513;2026-10-03;cappuccino;2;14.50;pago
+2514;2026-10-02;cha gelado;1;9.00;pago
+2515;2026-10-03;bolo de cenoura;5;12.00;pago
+2516;2026-10-04;cha gelado;1;9.00;pago
+2517;2026-10-01;pao de queijo;1;6.50;pago
+2518;2026-10-05;espresso;1;7.00;pago
+2519;2026-10-05;espresso;3;7.00;pago
+2520;2026-10-01;cha gelado;2;9.00;pago
+2521;2026-10-05;pao de queijo;4;6.50;pago
+2522;2026-10-02;livro de bolso;1;39.90;pago
+2523;2026-10-03;pao de queijo;1;6.50;pago
+2524;2026-10-08;croissant;3;11.00;pago
+2525;2026-10-08;bolo de cenoura;1;12.00;pago
+2526;2026-10-05;pao de queijo;1;6.50;cancelado
+2527;2026-10-04;cappuccino;3;14.50;pago
+2528;2026-10-05;livro de bolso;1;39.90;pago
+2529;2026-10-02;pao de queijo;2;6.50;pago
+2530;2026-10-09;livro de bolso;1;39.90;pago
+2531;2026-10-06;pao de queijo;2;6.50;pago
+2532;2026-10-03;croissant;1;11.00;pago
+2533;2026-10-05;pao de queijo;1;6.50;pago
+2534;2026-10-01;livro de bolso;1;39.90;pago
+2535;2026-10-02;cappuccino;1;14.50;pago
+2536;2026-10-04;croissant;1;11.00;pago
+2537;2026-10-03;torta de limao;1;13.50;pago
+2538;2026-10-01;torta de limao;3;13.50;pago
+2539;2026-10-07;bolo de cenoura;1;12.00;pago
+2540;2026-10-07;pao de queijo;2;6.50;pago
+2541;2026-10-03;livro de bolso;1;39.90;pago
+2542;2026-10-02;cha gelado;1;9.00;pago
+2543;2026-10-07;espresso;1;7.00;pago
+2544;2026-10-06;pao de queijo;2;6.50;pago
+2545;2026-10-05;livro de bolso;4;39.90;pago
+2546;2026-10-06;torta de limao;1;13.50;pago
+2547;2026-10-01;croissant;4;11.00;pago
+2548;2026-10-01;croissant;3;11.00;pago
+2549;2026-10-02;pao de queijo;3;6.50;pago
+2550;2026-10-06;torta de limao;1;13.50;pago
+2551;2026-10-04;croissant;2;11.00;pago
+2552;2026-10-01;torta de limao;1;13.50;pago
+2553;2026-10-05;espresso;5;7.00;pago
+2554;2026-10-08;cappuccino;4;14.50;pago
+2555;2026-10-05;pao de queijo;5;6.50;pago
+2556;2026-10-09;espresso;1;7.00;pago
+2557;2026-10-09;espresso;1;7.00;pago
+2558;2026-10-02;espresso;3;7.00;pago
+2559;2026-10-01;croissant;1;11.00;pago
+2560;2026-10-02;pao de queijo;1;6.50;pago
+2561;2026-10-08;pao de queijo;3;6.50;pago
+2562;2026-10-05;espresso;2;7.00;pago
+2563;2026-10-05;bolo de cenoura;1;12.00;pago
+2564;2026-10-03;pao de queijo;1;6.50;pago
+2565;2026-10-05;torta de limao;1;13.50;pago
+2566;2026-10-04;cha gelado;4;9.00;cancelado
+2567;2026-10-07;cappuccino;1;14.50;pago
+2568;2026-10-02;torta de limao;1;13.50;pago
+2569;2026-10-06;bolo de cenoura;1;12.00;pago
+2570;2026-10-08;torta de limao;1;13.50;pago
+2571;2026-10-09;espresso;3;7.00;pago
+2572;2026-10-05;cappuccino;2;14.50;pago
+2573;2026-10-01;croissant;1;11.00;cancelado
+2574;2026-10-05;croissant;1;11.00;pago
+2575;2026-10-01;pao de queijo;1;6.50;pago
+2576;2026-10-06;livro de bolso;2;39.90;cancelado
+2577;2026-10-04;espresso;1;7.00;pago
+2578;2026-10-03;bolo de cenoura;5;12.00;pago
+2579;2026-10-02;pao de queijo;2;6.50;pago
+2580;2026-10-05;cappuccino;1;14.50;pago
+2581;2026-10-02;espresso;5;7.00;pago
+2582;2026-10-09;bolo de cenoura;1;12.00;pago
+2583;2026-10-07;cha gelado;1;9.00;pago
+2584;2026-10-05;espresso;1;7.00;pago
+2585;2026-10-02;bolo de cenoura;2;12.00;pago
+2586;2026-10-05;pao de queijo;2;6.50;pago
+2587;2026-10-08;pao de queijo;1;6.50;cancelado
+2588;2026-10-01;cappuccino;4;14.50;pago
+2589;2026-10-03;pao de queijo;1;6.50;pago
+2590;2026-10-01;cha gelado;1;9.00;pago
+2591;2026-10-05;livro de bolso;3;39.90;pago
+2592;2026-10-08;bolo de cenoura;4;12.00;pago
+2593;2026-10-07;cappuccino;5;14.50;pago
+2594;2026-10-07;torta de limao;1;13.50;pago
+2595;2026-10-08;espresso;1;7.00;pago
+2596;2026-10-05;bolo de cenoura;2;12.00;pago
+2597;2026-10-09;cappuccino;1;14.50;pago
+2598;2026-10-03;pao de queijo;1;6.50;pago
+2599;2026-10-01;pao de queijo;2;6.50;pago
+2600;2026-10-02;cappuccino;3;14.50;pago
+2601;2026-10-01;espresso;4;7.00;pago
+2602;2026-10-03;pao de queijo;2;6.50;pago
+2603;2026-10-07;cha gelado;2;9.00;pago
+2604;2026-10-05;pao de queijo;1;6.50;pago
+2605;2026-10-08;livro de bolso;1;39.90;cancelado
+2606;2026-10-05;pao de queijo;2;6.50;pago
+2607;2026-10-08;bolo de cenoura;2;12.00;pago
+2608;2026-10-04;torta de limao;1;13.50;pago
+2609;2026-10-08;cappuccino;3;14.50;pago
+2610;2026-10-01;pao de queijo;1;6.50;pago
+2611;2026-10-09;livro de bolso;1;39.90;pago
+2612;2026-10-02;bolo de cenoura;1;12.00;pago
+2613;2026-10-08;cappuccino;2;14.50;pago
+2614;2026-10-01;espresso;1;7.00;pago
+2615;2026-10-02;bolo de cenoura;1;12.00;pago
+2616;2026-10-08;pao de queijo;1;6.50;pago
+2617;2026-10-04;espresso;1;7.00;pago
+2618;2026-10-02;torta de limao;5;13.50;pago
+2619;2026-10-05;pao de queijo;3;6.50;pago
+2620;2026-10-07;espresso;2;7.00;pago
+2621;2026-10-04;pao de queijo;5;6.50;pago
+2622;2026-10-09;livro de bolso;1;39.90;pago
+2623;2026-10-08;cappuccino;2;14.50;pago
+2624;2026-10-09;cappuccino;1;14.50;pago
+2625;2026-10-08;pao de queijo;2;6.50;cancelado
+2626;2026-10-07;pao de queijo;2;6.50;pago
+2627;2026-10-04;espresso;5;7.00;pago
+2628;2026-10-02;cappuccino;2;14.50;pago
+2629;2026-10-05;livro de bolso;1;39.90;pago
+2630;2026-10-03;bolo de cenoura;3;12.00;pago
+2631;2026-10-04;cha gelado;1;9.00;pago
+2632;2026-10-03;cappuccino;1;14.50;pago
+2633;2026-10-04;cha gelado;1;9.00;pago
+2634;2026-10-04;pao de queijo;2;6.50;pago
+2635;2026-10-08;croissant;1;11.00;pago
+2636;2026-10-08;pao de queijo;4;6.50;pago
+2637;2026-10-06;pao de queijo;1;6.50;pago
+2638;2026-10-03;pao de queijo;1;6.50;pago
+2639;2026-10-08;espresso;1;7.00;pago
+2640;2026-10-05;espresso;2;7.00;cancelado
+2641;2026-10-06;cha gelado;3;9.00;pago
+2642;2026-10-08;croissant;2;11.00;pago
+2643;2026-10-08;pao de queijo;1;6.50;pago
+2644;2026-10-09;croissant;1;11.00;pago
+2645;2026-10-04;pao de queijo;2;6.50;pago
+2646;2026-10-04;bolo de cenoura;2;12.00;pago
+2647;2026-10-03;pao de queijo;1;6.50;pago
+2648;2026-10-09;cappuccino;1;14.50;pago
+2649;2026-10-01;cappuccino;2;14.50;pago
+2650;2026-10-03;pao de queijo;1;6.50;pago
+2651;2026-10-05;cappuccino;1;14.50;pago
+2652;2026-10-06;cha gelado;1;9.00;pago
+2653;2026-10-01;livro de bolso;2;39.90;pago
+2654;2026-10-01;espresso;2;7.00;pago
+2655;2026-10-01;cha gelado;1;9.00;pago
+2656;2026-10-07;torta de limao;1;13.50;pago
+2657;2026-10-05;livro de bolso;1;39.90;pago
+2658;2026-10-04;cha gelado;1;9.00;pago
+2659;2026-10-08;croissant;1;11.00;pago
+2660;2026-10-04;croissant;1;11.00;pago
+2661;2026-10-05;torta de limao;4;13.50;pago
+2662;2026-10-03;bolo de cenoura;1;12.00;pago
+2663;2026-10-06;bolo de cenoura;4;12.00;pago
+2664;2026-10-02;espresso;1;7.00;pago
+2665;2026-10-06;espresso;1;7.00;cancelado
+2666;2026-10-09;pao de queijo;4;6.50;pago
+2667;2026-10-09;torta de limao;2;13.50;pago
+2668;2026-10-01;torta de limao;1;13.50;pago
+2669;2026-10-01;cappuccino;1;14.50;pago
+2670;2026-10-08;livro de bolso;1;39.90;pago
+2671;2026-10-08;pao de queijo;1;6.50;pago
+2672;2026-10-06;cappuccino;1;14.50;pago
+2673;2026-10-01;croissant;1;11.00;pago
+2674;2026-10-09;torta de limao;3;13.50;pago
+2675;2026-10-07;cappuccino;1;14.50;pago
+2676;2026-10-03;bolo de cenoura;1;12.00;cancelado
+2677;2026-10-01;pao de queijo;1;6.50;pago
+2678;2026-10-01;pao de queijo;1;6.50;pago
+2679;2026-10-04;livro de bolso;1;39.90;pago
+2680;2026-10-04;torta de limao;4;13.50;pago
+2681;2026-10-05;cha gelado;1;9.00;pago
+2682;2026-10-01;espresso;2;7.00;pago
+2683;2026-10-04;pao de queijo;3;6.50;pago
+2684;2026-10-08;torta de limao;3;13.50;pago
+2685;2026-10-09;cha gelado;1;9.00;pago
+2686;2026-10-02;cappuccino;3;14.50;pago
+2687;2026-10-07;pao de queijo;4;6.50;pago
+2688;2026-10-02;livro de bolso;1;39.90;pago
+2689;2026-10-06;espresso;1;7.00;pago
+2690;2026-10-04;cha gelado;1;9.00;pago
+2691;2026-10-07;livro de bolso;1;39.90;pago
+2692;2026-10-01;espresso;1;7.00;pago
+2693;2026-10-06;pao de queijo;5;6.50;pago
+2694;2026-10-02;pao de queijo;1;6.50;pago
+2695;2026-10-02;livro de bolso;2;39.90;pago
+2696;2026-10-06;cappuccino;1;14.50;pago
+2697;2026-10-06;cappuccino;1;14.50;pago
+2698;2026-10-04;cha gelado;3;9.00;pago
+2699;2026-10-01;pao de queijo;1;6.50;pago
+2700;2026-10-08;cappuccino;2;14.50;pago
+2701;2026-10-07;pao de queijo;2;6.50;pago
+2702;2026-10-01;livro de bolso;1;39.90;pago
+2703;2026-10-08;pao de queijo;4;6.50;pago
+2704;2026-10-05;espresso;1;7.00;pago
+2705;2026-10-05;pao de queijo;3;6.50;pago
+2706;2026-10-05;livro de bolso;2;39.90;pago
+2707;2026-10-09;livro de bolso;2;39.90;pago
+2708;2026-10-08;torta de limao;1;13.50;pago
+2709;2026-10-05;croissant;3;11.00;pago
+2710;2026-10-02;bolo de cenoura;1;12.00;cancelado
+2711;2026-10-08;croissant;1;11.00;pago
+2712;2026-10-01;espresso;2;7.00;pago
+2713;2026-10-05;croissant;1;11.00;pago
+2714;2026-10-04;torta de limao;1;13.50;pago
+2715;2026-10-01;cappuccino;1;14.50;pago
+2716;2026-10-08;espresso;1;7.00;pago
+2717;2026-10-08;espresso;1;7.00;pago
+2718;2026-10-07;cappuccino;2;14.50;pago
+2719;2026-10-04;cappuccino;3;14.50;pago
+2720;2026-10-07;croissant;1;11.00;pago
+2721;2026-10-06;espresso;2;7.00;pago
+2722;2026-10-03;cappuccino;1;14.50;pago
+2723;2026-10-08;bolo de cenoura;5;12.00;pago
+2724;2026-10-01;pao de queijo;1;6.50;pago
+2725;2026-10-09;cappuccino;1;14.50;pago
+2726;2026-10-08;torta de limao;1;13.50;pago
+2727;2026-10-04;livro de bolso;1;39.90;pago
+2728;2026-10-08;livro de bolso;2;39.90;pago
+2729;2026-10-07;pao de queijo;1;6.50;pago
+2730;2026-10-09;pao de queijo;4;6.50;pago
+2731;2026-10-06;croissant;4;11.00;pago
+2732;2026-10-01;cha gelado;1;9.00;pago
+2733;2026-10-01;livro de bolso;4;39.90;pago
+2734;2026-10-02;cappuccino;2;14.50;pago
+2735;2026-10-04;cappuccino;3;14.50;pago
+2736;2026-10-06;pao de queijo;5;6.50;pago
+2737;2026-10-05;pao de queijo;1;6.50;pago
+2738;2026-10-07;bolo de cenoura;2;12.00;pago
+2739;2026-10-06;pao de queijo;1;6.50;cancelado
+2740;2026-10-06;croissant;4;11.00;pago
+2741;2026-10-01;cappuccino;2;14.50;pago
+2742;2026-10-07;bolo de cenoura;1;12.00;pago
+2743;2026-10-06;bolo de cenoura;1;12.00;pago
+2744;2026-10-02;cappuccino;3;14.50;pago
+2745;2026-10-02;espresso;1;7.00;pago
+2746;2026-10-04;bolo de cenoura;1;12.00;pago
+2747;2026-10-09;livro de bolso;3;39.90;pago
+2748;2026-10-06;cappuccino;1;14.50;pago
+2749;2026-10-07;cappuccino;3;14.50;pago
+2750;2026-10-01;pao de queijo;4;6.50;pago
+2751;2026-10-07;pao de queijo;1;6.50;pago
+2752;2026-10-08;cha gelado;3;9.00;pago
+2753;2026-10-04;espresso;4;7.00;pago
+2754;2026-10-09;pao de queijo;1;6.50;pago
+2755;2026-10-02;bolo de cenoura;1;12.00;cancelado
+2756;2026-10-03;cappuccino;2;14.50;pago
+2757;2026-10-06;cha gelado;2;9.00;pago
+2758;2026-10-06;cha gelado;1;9.00;pago
+2759;2026-10-01;torta de limao;3;13.50;pago
+2760;2026-10-03;bolo de cenoura;1;12.00;pago
+2761;2026-10-01;bolo de cenoura;2;12.00;pago
+2762;2026-10-05;pao de queijo;1;6.50;cancelado
+2763;2026-10-01;croissant;4;11.00;pago
+2764;2026-10-05;bolo de cenoura;1;12.00;pago
+2765;2026-10-05;pao de queijo;1;6.50;pago
+2766;2026-10-08;bolo de cenoura;1;12.00;pago
+2767;2026-10-06;cappuccino;1;14.50;pago
+2768;2026-10-07;torta de limao;1;13.50;pago
+2769;2026-10-07;cappuccino;1;14.50;pago
+2770;2026-10-01;croissant;2;11.00;pago
+2771;2026-10-05;livro de bolso;1;39.90;pago
+2772;2026-10-09;espresso;1;7.00;pago
+2773;2026-10-04;croissant;2;11.00;pago
+2774;2026-10-05;bolo de cenoura;1;12.00;pago
+2775;2026-10-03;bolo de cenoura;3;12.00;pago
+2776;2026-10-06;espresso;5;7.00;pago
+2777;2026-10-03;cha gelado;2;9.00;pago
+2778;2026-10-07;espresso;2;7.00;pago
+2779;2026-10-09;cappuccino;2;14.50;pago
+2780;2026-10-09;torta de limao;1;13.50;pago
+2781;2026-10-03;bolo de cenoura;5;12.00;pago
+2782;2026-10-08;croissant;1;11.00;pago
+2783;2026-10-03;bolo de cenoura;1;12.00;pago
+2784;2026-10-08;torta de limao;2;13.50;pago
+2785;2026-10-02;cha gelado;3;9.00;pago
+2786;2026-10-04;espresso;1;7.00;pago
+2787;2026-10-09;torta de limao;1;13.50;pago
+2788;2026-10-07;torta de limao;1;13.50;pago
+2789;2026-10-08;croissant;2;11.00;pago
+2790;2026-10-02;espresso;1;7.00;pago
+2791;2026-10-06;torta de limao;2;13.50;pago
+2792;2026-10-02;croissant;1;11.00;pago
+2793;2026-10-03;bolo de cenoura;1;12.00;pago
+2794;2026-10-01;bolo de cenoura;5;12.00;pago
+2795;2026-10-06;espresso;3;7.00;pago
+2796;2026-10-04;croissant;1;11.00;pago
+2797;2026-10-09;cappuccino;1;14.50;pago
+2798;2026-10-06;torta de limao;4;13.50;cancelado
+2799;2026-10-03;bolo de cenoura;3;12.00;pago
+2800;2026-10-08;pao de queijo;1;6.50;pago
+2801;2026-10-04;torta de limao;1;13.50;pago
+2802;2026-10-04;pao de queijo;1;6.50;pago
+2803;2026-10-02;pao de queijo;1;6.50;pago
+2804;2026-10-01;bolo de cenoura;1;12.00;pago
+2805;2026-10-02;livro de bolso;5;39.90;pago
+2806;2026-10-08;espresso;1;7.00;pago
+2807;2026-10-09;pao de queijo;1;6.50;pago
+2808;2026-10-02;croissant;1;11.00;pago
+2809;2026-10-01;pao de queijo;1;6.50;pago
+2810;2026-10-05;cappuccino;2;14.50;pago
+2811;2026-10-02;pao de queijo;1;6.50;pago
+2812;2026-10-01;bolo de cenoura;2;12.00;pago
+2813;2026-10-03;torta de limao;2;13.50;pago
+2814;2026-10-07;cappuccino;1;14.50;pago
+2815;2026-10-01;cha gelado;1;9.00;pago
+2816;2026-10-05;bolo de cenoura;1;12.00;pago
+2817;2026-10-06;livro de bolso;1;39.90;pago
+2818;2026-10-04;croissant;2;11.00;pago
+2819;2026-10-07;cappuccino;2;14.50;pago
+2820;2026-10-02;bolo de cenoura;1;12.00;pago
+2821;2026-10-07;pao de queijo;1;6.50;pago
+2822;2026-10-03;cappuccino;3;14.50;pago
+2823;2026-10-04;cha gelado;3;9.00;pago
+2824;2026-10-08;pao de queijo;1;6.50;pago
+2825;2026-10-03;cappuccino;2;14.50;pago
+2826;2026-10-07;torta de limao;1;13.50;pago
+2827;2026-10-08;pao de queijo;2;6.50;pago
+2828;2026-10-01;bolo de cenoura;2;12.00;pago
+2829;2026-10-03;croissant;1;11.00;pago
+2830;2026-10-01;torta de limao;5;13.50;pago
+2831;2026-10-02;croissant;3;11.00;cancelado
+2832;2026-10-09;cha gelado;3;9.00;pago
+2833;2026-10-02;cappuccino;1;14.50;pago
+2834;2026-10-02;croissant;2;11.00;pago
+2835;2026-10-07;bolo de cenoura;1;12.00;pago
+2836;2026-10-04;cappuccino;1;14.50;pago
+2837;2026-10-01;cha gelado;2;9.00;pago
+2838;2026-10-09;pao de queijo;1;6.50;pago
+2839;2026-10-04;livro de bolso;1;39.90;pago
+2840;2026-10-07;cappuccino;4;14.50;pago
+2841;2026-10-01;cappuccino;1;14.50;pago
+2842;2026-10-09;torta de limao;1;13.50;pago
+2843;2026-10-08;cha gelado;1;9.00;pago
+2844;2026-10-05;espresso;1;7.00;pago
+2845;2026-10-06;espresso;1;7.00;pago
+2846;2026-10-05;cappuccino;1;14.50;cancelado
+2847;2026-10-01;cappuccino;1;14.50;pago
+2848;2026-10-09;pao de queijo;2;6.50;pago
+2849;2026-10-04;pao de queijo;1;6.50;pago
+2850;2026-10-03;pao de queijo;1;6.50;pago
+2851;2026-10-03;pao de queijo;1;6.50;pago
+2852;2026-10-04;espresso;4;7.00;pago
+2853;2026-10-02;torta de limao;3;13.50;pago
+2854;2026-10-04;espresso;3;7.00;pago
+2855;2026-10-02;espresso;2;7.00;pago
+2856;2026-10-01;cha gelado;2;9.00;pago
+2857;2026-10-05;cha gelado;1;9.00;pago
+2858;2026-10-06;torta de limao;1;13.50;pago
+2859;2026-10-02;cappuccino;1;14.50;pago
+2860;2026-10-01;pao de queijo;1;6.50;pago
+2861;2026-10-02;espresso;1;7.00;pago
+2862;2026-10-07;cappuccino;1;14.50;pago
+2863;2026-10-01;torta de limao;2;13.50;pago
+2864;2026-10-08;espresso;3;7.00;pago
+2865;2026-10-09;croissant;3;11.00;pago
+2866;2026-10-05;croissant;2;11.00;pago
+2867;2026-10-04;cappuccino;1;14.50;cancelado
+2868;2026-10-08;cappuccino;5;14.50;pago
+2869;2026-10-08;croissant;1;11.00;pago
+2870;2026-10-07;pao de queijo;1;6.50;pago
+2871;2026-10-08;croissant;1;11.00;pago
+2872;2026-10-01;croissant;2;11.00;pago
+2873;2026-10-04;cha gelado;2;9.00;pago
+2874;2026-10-02;cappuccino;1;14.50;cancelado
+2875;2026-10-03;croissant;1;11.00;pago
+2876;2026-10-02;pao de queijo;2;6.50;pago
+2877;2026-10-02;cappuccino;1;14.50;pago
+2878;2026-10-01;cha gelado;1;9.00;pago
+2879;2026-10-06;cappuccino;1;14.50;pago
+2880;2026-10-06;cha gelado;1;9.00;pago
+2881;2026-10-06;espresso;1;7.00;pago
+2882;2026-10-05;pao de queijo;1;6.50;pago
+2883;2026-10-06;bolo de cenoura;2;12.00;pago
+2884;2026-10-08;pao de queijo;3;6.50;pago
+2885;2026-10-05;pao de queijo;2;6.50;pago
+2886;2026-10-03;bolo de cenoura;1;12.00;pago
+2887;2026-10-03;pao de queijo;1;6.50;pago
+2888;2026-10-01;cappuccino;3;14.50;pago
+2889;2026-10-01;pao de queijo;1;6.50;pago
+2890;2026-10-09;croissant;2;11.00;pago
+2891;2026-10-04;livro de bolso;1;39.90;pago
+2892;2026-10-07;bolo de cenoura;1;12.00;pago
+2893;2026-10-08;cappuccino;1;14.50;pago
+2894;2026-10-05;bolo de cenoura;1;12.00;pago
+2895;2026-10-09;bolo de cenoura;1;12.00;cancelado
+2896;2026-10-03;pao de queijo;1;6.50;pago
+2897;2026-10-04;croissant;1;11.00;pago
+2898;2026-10-05;cha gelado;5;9.00;pago
+2899;2026-10-07;pao de queijo;1;6.50;cancelado
+2900;2026-10-06;espresso;1;7.00;cancelado
+2901;2026-10-03;espresso;3;7.00;pago
+2902;2026-10-04;livro de bolso;4;39.90;pago
+2903;2026-10-05;cappuccino;1;14.50;pago
+2904;2026-10-02;espresso;1;7.00;pago
+2905;2026-10-09;croissant;2;11.00;cancelado
+2906;2026-10-02;pao de queijo;1;6.50;pago
+2907;2026-10-03;cha gelado;1;9.00;pago
+2908;2026-10-05;cappuccino;2;14.50;pago
+2909;2026-10-03;cha gelado;5;9.00;pago
+2910;2026-10-03;espresso;4;7.00;pago
+2911;2026-10-01;espresso;1;7.00;pago
+2912;2026-10-08;torta de limao;3;13.50;pago
+2913;2026-10-01;bolo de cenoura;2;12.00;pago
+2914;2026-10-08;espresso;1;7.00;pago
+2915;2026-10-09;livro de bolso;1;39.90;pago
+2916;2026-10-09;pao de queijo;3;6.50;pago
+2917;2026-10-01;espresso;2;7.00;pago
+2918;2026-10-01;pao de queijo;2;6.50;pago
+2919;2026-10-03;bolo de cenoura;2;12.00;pago
+2920;2026-10-04;cappuccino;4;14.50;pago
+2921;2026-10-07;livro de bolso;2;39.90;pago
+2922;2026-10-07;livro de bolso;1;39.90;pago
+2923;2026-10-06;espresso;1;7.00;pago
+2924;2026-10-06;livro de bolso;1;39.90;pago
+2925;2026-10-01;torta de limao;1;13.50;pago
+2926;2026-10-09;bolo de cenoura;2;12.00;pago
+2927;2026-10-03;pao de queijo;1;6.50;pago
+2928;2026-10-02;croissant;1;11.00;pago
+2929;2026-10-09;livro de bolso;1;39.90;pago
+2930;2026-10-01;pao de queijo;1;6.50;pago
+2931;2026-10-03;cha gelado;1;9.00;pago
+2932;2026-10-06;cappuccino;1;14.50;pago
+2933;2026-10-07;bolo de cenoura;1;12.00;cancelado
+2934;2026-10-01;espresso;1;7.00;cancelado
+2935;2026-10-03;bolo de cenoura;2;12.00;pago
+2936;2026-10-07;croissant;2;11.00;pago
+2937;2026-10-04;cha gelado;2;9.00;pago
+2938;2026-10-01;bolo de cenoura;2;12.00;pago
+2939;2026-10-01;torta de limao;2;13.50;pago
+2940;2026-10-02;cha gelado;5;9.00;pago
+2941;2026-10-01;croissant;2;11.00;pago
+2942;2026-10-08;cha gelado;2;9.00;pago
+2943;2026-10-02;pao de queijo;1;6.50;pago
+2944;2026-10-01;cappuccino;1;14.50;pago
+2945;2026-10-06;livro de bolso;1;39.90;pago
+2946;2026-10-09;croissant;1;11.00;pago
+2947;2026-10-01;bolo de cenoura;2;12.00;pago
+2948;2026-10-02;cha gelado;1;9.00;pago
+2949;2026-10-09;torta de limao;2;13.50;pago
+2950;2026-10-03;cappuccino;2;14.50;pago
+2951;2026-10-05;cha gelado;1;9.00;pago
+2952;2026-10-01;cha gelado;1;9.00;pago
+2953;2026-10-05;espresso;3;7.00;pago
+2954;2026-10-03;bolo de cenoura;1;12.00;pago
+2955;2026-10-08;bolo de cenoura;2;12.00;pago
+2956;2026-10-08;pao de queijo;1;6.50;pago
+2957;2026-10-07;bolo de cenoura;3;12.00;pago
+2958;2026-10-09;pao de queijo;1;6.50;pago
+2959;2026-10-07;espresso;2;7.00;pago
+2960;2026-10-05;croissant;1;11.00;pago
+2961;2026-10-01;torta de limao;1;13.50;pago
+2962;2026-10-01;bolo de cenoura;1;12.00;pago
+2963;2026-10-01;cappuccino;2;14.50;pago
+2964;2026-10-03;bolo de cenoura;5;12.00;cancelado
+2965;2026-10-06;pao de queijo;1;6.50;cancelado
+2966;2026-10-01;espresso;1;7.00;pago
+2967;2026-10-03;cha gelado;1;9.00;pago
+2968;2026-10-09;espresso;1;7.00;pago
+2969;2026-10-07;livro de bolso;5;39.90;pago
+2970;2026-10-05;bolo de cenoura;1;12.00;pago
+2971;2026-10-04;pao de queijo;1;6.50;pago
+2972;2026-10-02;pao de queijo;3;6.50;pago
+2973;2026-10-04;pao de queijo;1;6.50;pago
+2974;2026-10-07;pao de queijo;2;6.50;pago
+2975;2026-10-05;pao de queijo;3;6.50;pago
+2976;2026-10-09;bolo de cenoura;1;12.00;pago
+2977;2026-10-07;livro de bolso;1;39.90;pago
+2978;2026-10-02;bolo de cenoura;1;12.00;pago
+2979;2026-10-02;cha gelado;3;9.00;pago
+2980;2026-10-02;cha gelado;4;9.00;pago
+2981;2026-10-03;pao de queijo;1;6.50;pago
+2982;2026-10-03;bolo de cenoura;1;12.00;pago
+2983;2026-10-01;pao de queijo;1;6.50;pago
+2984;2026-10-01;croissant;1;11.00;pago
+2985;2026-10-01;pao de queijo;1;6.50;pago
+2986;2026-10-04;bolo de cenoura;1;12.00;pago
+2987;2026-10-02;pao de queijo;1;6.50;pago
+2988;2026-10-09;cappuccino;1;14.50;pago
+2989;2026-10-03;pao de queijo;4;6.50;pago
+2990;2026-10-01;bolo de cenoura;2;12.00;pago
+2991;2026-10-09;croissant;2;11.00;pago
+2992;2026-10-08;croissant;1;11.00;pago
+2993;2026-10-05;torta de limao;2;13.50;pago
+2994;2026-10-08;espresso;1;7.00;pago
+2995;2026-10-03;pao de queijo;2;6.50;pago
+2996;2026-10-01;torta de limao;5;13.50;pago
+2997;2026-10-08;torta de limao;1;13.50;pago
+2998;2026-10-07;croissant;1;11.00;pago
+2999;2026-10-09;torta de limao;1;13.50;pago
+3000;2026-10-01;cappuccino;1;14.50;pago
+3001;2026-10-05;croissant;1;11.00;pago
+3002;2026-10-08;pao de queijo;1;6.50;pago
+3003;2026-10-05;cha gelado;1;9.00;pago
+3004;2026-10-09;pao de queijo;2;6.50;pago
+3005;2026-10-03;espresso;1;7.00;pago
+3006;2026-10-07;livro de bolso;1;39.90;cancelado
+3007;2026-10-02;bolo de cenoura;1;12.00;pago
+3008;2026-10-05;pao de queijo;3;6.50;pago
+3009;2026-10-05;pao de queijo;2;6.50;pago
+3010;2026-10-01;bolo de cenoura;5;12.00;pago
+3011;2026-10-07;cha gelado;1;9.00;pago
+3012;2026-10-08;bolo de cenoura;1;12.00;cancelado
+3013;2026-10-05;bolo de cenoura;2;12.00;pago
+3014;2026-10-05;livro de bolso;5;39.90;pago
+3015;2026-10-07;espresso;1;7.00;pago
+3016;2026-10-02;torta de limao;1;13.50;pago
+3017;2026-10-06;pao de queijo;4;6.50;pago
+3018;2026-10-09;pao de queijo;1;6.50;pago
+3019;2026-10-08;cha gelado;3;9.00;pago
+3020;2026-10-06;pao de queijo;2;6.50;pago
+3021;2026-10-05;cha gelado;1;9.00;pago
+3022;2026-10-01;espresso;1;7.00;pago
+3023;2026-10-09;torta de limao;1;13.50;pago
+3024;2026-10-05;croissant;2;11.00;pago
+3025;2026-10-05;cha gelado;1;9.00;pago
+3026;2026-10-02;pao de queijo;2;6.50;pago
+3027;2026-10-07;cappuccino;1;14.50;pago
+3028;2026-10-01;cha gelado;4;9.00;pago
+3029;2026-10-09;pao de queijo;1;6.50;pago
+3030;2026-10-01;cha gelado;4;9.00;pago
+3031;2026-10-06;bolo de cenoura;2;12.00;pago
+3032;2026-10-04;espresso;1;7.00;pago
+3033;2026-10-06;croissant;3;11.00;pago
+3034;2026-10-06;pao de queijo;4;6.50;pago
+3035;2026-10-07;espresso;5;7.00;pago
+3036;2026-10-04;croissant;3;11.00;pago
+3037;2026-10-04;espresso;4;7.00;pago
+3038;2026-10-04;espresso;1;7.00;pago
+3039;2026-10-01;espresso;1;7.00;pago
+3040;2026-10-09;pao de queijo;1;6.50;pago
+3041;2026-10-05;espresso;2;7.00;cancelado
+3042;2026-10-02;bolo de cenoura;4;12.00;pago
+3043;2026-10-01;pao de queijo;1;6.50;pago
+3044;2026-10-04;livro de bolso;3;39.90;cancelado
+3045;2026-10-01;torta de limao;4;13.50;pago
+3046;2026-10-08;livro de bolso;1;39.90;pago
+3047;2026-10-07;pao de queijo;3;6.50;pago
+3048;2026-10-03;croissant;1;11.00;pago
+3049;2026-10-09;bolo de cenoura;4;12.00;pago
+3050;2026-10-04;livro de bolso;3;39.90;pago
+3051;2026-10-03;pao de queijo;1;6.50;pago
+3052;2026-10-03;espresso;2;7.00;pago
+3053;2026-10-05;cappuccino;4;14.50;pago
+3054;2026-10-04;livro de bolso;1;39.90;pago
+3055;2026-10-05;espresso;1;7.00;pago
+3056;2026-10-06;pao de queijo;1;6.50;cancelado
+3057;2026-10-04;pao de queijo;1;6.50;pago
+3058;2026-10-06;pao de queijo;1;6.50;pago
+3059;2026-10-05;livro de bolso;1;39.90;pago
+3060;2026-10-02;cappuccino;2;14.50;pago
+3061;2026-10-01;cha gelado;2;9.00;pago
+3062;2026-10-02;espresso;1;7.00;pago
+3063;2026-10-07;cha gelado;1;9.00;pago
+3064;2026-10-06;croissant;3;11.00;pago
+3065;2026-10-06;espresso;4;7.00;pago
+3066;2026-10-03;cappuccino;4;14.50;pago
+3067;2026-10-05;cappuccino;2;14.50;pago
+3068;2026-10-09;livro de bolso;3;39.90;pago
+3069;2026-10-09;bolo de cenoura;3;12.00;pago
+3070;2026-10-01;espresso;4;7.00;pago
+3071;2026-10-09;livro de bolso;1;39.90;pago
+3072;2026-10-07;espresso;1;7.00;pago
+3073;2026-10-05;croissant;1;11.00;pago
+3074;2026-10-06;bolo de cenoura;5;12.00;pago
+3075;2026-10-03;croissant;1;11.00;pago
+3076;2026-10-08;espresso;2;7.00;pago
+3077;2026-10-08;espresso;4;7.00;pago
+3078;2026-10-01;torta de limao;2;13.50;pago
+3079;2026-10-07;cha gelado;2;9.00;pago
+3080;2026-10-04;croissant;3;11.00;pago
+3081;2026-10-04;pao de queijo;2;6.50;pago
+3082;2026-10-09;torta de limao;3;13.50;pago
+3083;2026-10-02;bolo de cenoura;1;12.00;pago
+3084;2026-10-02;pao de queijo;1;6.50;pago
+3085;2026-10-02;pao de queijo;1;6.50;pago
+3086;2026-10-04;bolo de cenoura;5;12.00;pago
+3087;2026-10-07;pao de queijo;1;6.50;pago
+3088;2026-10-06;pao de queijo;1;6.50;pago
+3089;2026-10-08;torta de limao;1;13.50;pago
+3090;2026-10-05;cha gelado;4;9.00;pago
+3091;2026-10-01;bolo de cenoura;5;12.00;pago
+3092;2026-10-09;cappuccino;1;14.50;pago
+3093;2026-10-03;cappuccino;1;14.50;pago
+3094;2026-10-03;bolo de cenoura;3;12.00;pago
+3095;2026-10-07;bolo de cenoura;1;12.00;pago
+3096;2026-10-07;bolo de cenoura;3;12.00;pago
+3097;2026-10-04;espresso;1;7.00;pago
+3098;2026-10-08;torta de limao;2;13.50;pago
+3099;2026-10-07;bolo de cenoura;5;12.00;pago
+3100;2026-10-06;croissant;1;11.00;pago
+3101;2026-10-07;cappuccino;4;14.50;pago
+3102;2026-10-05;cappuccino;1;14.50;pago
+3103;2026-10-02;cha gelado;2;9.00;pago
+3104;2026-10-01;espresso;1;7.00;pago
+3105;2026-10-02;croissant;2;11.00;pago
+3106;2026-10-07;cha gelado;2;9.00;pago
+3107;2026-10-02;torta de limao;3;13.50;pago
+3108;2026-10-01;pao de queijo;2;6.50;pago
+3109;2026-10-06;cha gelado;1;9.00;pago
+3110;2026-10-09;espresso;1;7.00;pago
+3111;2026-10-02;pao de queijo;1;6.50;pago
+3112;2026-10-01;pao de queijo;3;6.50;pago
+3113;2026-10-01;espresso;2;7.00;cancelado
+3114;2026-10-09;cha gelado;3;9.00;pago
+3115;2026-10-03;pao de queijo;1;6.50;pago
+3116;2026-10-06;torta de limao;1;13.50;pago
+3117;2026-10-08;torta de limao;1;13.50;pago
+3118;2026-10-06;cha gelado;1;9.00;cancelado
+3119;2026-10-05;croissant;1;11.00;pago
+3120;2026-10-01;croissant;1;11.00;cancelado
+3121;2026-10-08;cha gelado;2;9.00;pago
+3122;2026-10-07;cha gelado;1;9.00;pago
+3123;2026-10-03;cappuccino;1;14.50;pago
+3124;2026-10-07;pao de queijo;1;6.50;pago
+3125;2026-10-01;espresso;2;7.00;pago
+3126;2026-10-07;torta de limao;2;13.50;pago
+3127;2026-10-05;cappuccino;1;14.50;pago
+3128;2026-10-03;pao de queijo;1;6.50;pago
+3129;2026-10-04;espresso;2;7.00;pago
+3130;2026-10-02;espresso;3;7.00;pago
+3131;2026-10-08;espresso;1;7.00;pago
+3132;2026-10-08;bolo de cenoura;2;12.00;pago
+3133;2026-10-06;espresso;2;7.00;pago
+3134;2026-10-07;cha gelado;2;9.00;pago
+3135;2026-10-08;cappuccino;1;14.50;pago
+3136;2026-10-04;cappuccino;2;14.50;pago
+3137;2026-10-08;pao de queijo;1;6.50;pago
+3138;2026-10-09;croissant;1;11.00;pago
+3139;2026-10-05;pao de queijo;5;6.50;pago
+3140;2026-10-07;croissant;1;11.00;pago
+3141;2026-10-09;espresso;1;7.00;cancelado
+3142;2026-10-08;espresso;2;7.00;pago
+3143;2026-10-01;bolo de cenoura;1;12.00;pago
+3144;2026-10-07;croissant;2;11.00;pago
+3145;2026-10-04;torta de limao;5;13.50;pago
+3146;2026-10-04;croissant;2;11.00;pago
+3147;2026-10-09;cha gelado;1;9.00;pago
+3148;2026-10-02;espresso;2;7.00;pago
+3149;2026-10-08;espresso;1;7.00;pago
+3150;2026-10-02;cha gelado;4;9.00;pago
+3151;2026-10-08;livro de bolso;1;39.90;pago
+3152;2026-10-05;bolo de cenoura;1;12.00;pago
+3153;2026-10-07;espresso;2;7.00;pago
+3154;2026-10-08;pao de queijo;2;6.50;pago
+3155;2026-10-09;cappuccino;1;14.50;pago
+3156;2026-10-05;torta de limao;4;13.50;pago
+3157;2026-10-08;espresso;3;7.00;pago
+3158;2026-10-06;pao de queijo;2;6.50;pago
+3159;2026-10-07;torta de limao;2;13.50;pago
+3160;2026-10-03;espresso;1;7.00;cancelado
+3161;2026-10-01;espresso;1;7.00;pago
+3162;2026-10-07;bolo de cenoura;1;12.00;pago
+3163;2026-10-09;espresso;2;7.00;pago
+3164;2026-10-08;cappuccino;1;14.50;pago
+3165;2026-10-02;pao de queijo;3;6.50;pago
+3166;2026-10-09;torta de limao;1;13.50;pago
+3167;2026-10-01;cappuccino;2;14.50;pago
+3168;2026-10-04;torta de limao;2;13.50;pago
+3169;2026-10-01;cappuccino;1;14.50;pago
+3170;2026-10-08;cha gelado;1;9.00;pago
+3171;2026-10-09;cha gelado;1;9.00;pago
+3172;2026-10-01;bolo de cenoura;2;12.00;pago
+3173;2026-10-01;pao de queijo;1;6.50;pago
+3174;2026-10-04;cappuccino;3;14.50;pago
+3175;2026-10-02;cha gelado;2;9.00;pago
+3176;2026-10-06;espresso;4;7.00;pago
+3177;2026-10-09;bolo de cenoura;1;12.00;pago
+3178;2026-10-02;cappuccino;1;14.50;pago
+3179;2026-10-06;cappuccino;2;14.50;pago
+3180;2026-10-02;espresso;1;7.00;pago
+3181;2026-10-06;espresso;2;7.00;pago
+3182;2026-10-03;espresso;1;7.00;pago
+3183;2026-10-07;bolo de cenoura;3;12.00;pago
+3184;2026-10-04;cappuccino;1;14.50;pago
+3185;2026-10-07;cappuccino;1;14.50;pago
+3186;2026-10-06;livro de bolso;1;39.90;pago
+3187;2026-10-06;pao de queijo;4;6.50;pago
+3188;2026-10-09;espresso;5;7.00;pago
+3189;2026-10-04;livro de bolso;2;39.90;pago
+3190;2026-10-07;croissant;2;11.00;pago
+3191;2026-10-05;espresso;2;7.00;pago
+3192;2026-10-09;bolo de cenoura;1;12.00;pago
+3193;2026-10-06;torta de limao;1;13.50;pago
+3194;2026-10-08;espresso;2;7.00;pago
+3195;2026-10-09;croissant;1;11.00;pago
+3196;2026-10-07;torta de limao;1;13.50;pago
+3197;2026-10-07;pao de queijo;2;6.50;pago
+3198;2026-10-01;torta de limao;1;13.50;pago
+3199;2026-10-09;bolo de cenoura;1;12.00;cancelado
+3200;2026-10-04;pao de queijo;1;6.50;pago
+3201;2026-10-04;pao de queijo;1;6.50;cancelado
+3202;2026-10-08;espresso;1;7.00;pago
+3203;2026-10-05;cappuccino;1;14.50;pago
+3204;2026-10-04;espresso;1;7.00;pago
+3205;2026-10-07;espresso;1;7.00;pago
+3206;2026-10-01;croissant;2;11.00;pago
+3207;2026-10-03;pao de queijo;2;6.50;pago
+3208;2026-10-05;bolo de cenoura;1;12.00;pago
+3209;2026-10-05;croissant;3;11.00;pago
+3210;2026-10-01;espresso;2;7.00;pago
+3211;2026-10-02;pao de queijo;3;6.50;pago
+3212;2026-10-08;torta de limao;1;13.50;pago
+3213;2026-10-04;cappuccino;3;14.50;pago
+3214;2026-10-05;croissant;2;11.00;pago
+3215;2026-10-02;bolo de cenoura;2;12.00;pago
+3216;2026-10-08;croissant;1;11.00;pago
+3217;2026-10-06;cappuccino;1;14.50;pago
+3218;2026-10-03;torta de limao;1;13.50;pago
+3219;2026-10-04;bolo de cenoura;1;12.00;pago
+3220;2026-10-04;cappuccino;1;14.50;pago
+3221;2026-10-01;bolo de cenoura;2;12.00;pago
+3222;2026-10-09;espresso;3;7.00;pago
+3223;2026-10-06;pao de queijo;1;6.50;pago
+3224;2026-10-04;livro de bolso;1;39.90;pago
+3225;2026-10-06;espresso;1;7.00;pago
+3226;2026-10-02;cha gelado;1;9.00;pago
+3227;2026-10-05;cappuccino;1;14.50;pago
+3228;2026-10-06;bolo de cenoura;1;12.00;pago
+3229;2026-10-08;cappuccino;3;14.50;pago
+3230;2026-10-06;cha gelado;2;9.00;pago
+3231;2026-10-04;pao de queijo;2;6.50;pago
+3232;2026-10-04;torta de limao;2;13.50;pago
+3233;2026-10-05;cappuccino;1;14.50;pago
+3234;2026-10-02;cappuccino;1;14.50;pago
+3235;2026-10-08;croissant;1;11.00;pago
+3236;2026-10-09;cha gelado;4;9.00;pago
+3237;2026-10-02;pao de queijo;1;6.50;pago
+3238;2026-10-01;espresso;2;7.00;pago
+3239;2026-10-07;cappuccino;1;14.50;pago
+3240;2026-10-06;torta de limao;1;13.50;pago
+3241;2026-10-09;croissant;2;11.00;pago
+3242;2026-10-07;pao de queijo;1;6.50;pago
+3243;2026-10-08;espresso;2;7.00;pago
+3244;2026-10-07;croissant;2;11.00;pago
+3245;2026-10-09;croissant;1;11.00;pago
+3246;2026-10-08;cappuccino;1;14.50;pago
+3247;2026-10-09;pao de queijo;1;6.50;pago
+3248;2026-10-05;cappuccino;1;14.50;pago
+3249;2026-10-05;cappuccino;1;14.50;pago
+3250;2026-10-02;pao de queijo;1;6.50;pago
+3251;2026-10-09;pao de queijo;3;6.50;pago
+3252;2026-10-05;pao de queijo;1;6.50;pago
+3253;2026-10-08;pao de queijo;1;6.50;pago
+3254;2026-10-05;bolo de cenoura;1;12.00;pago
+3255;2026-10-01;cappuccino;2;14.50;pago
+3256;2026-10-03;cha gelado;1;9.00;pago
+3257;2026-10-06;bolo de cenoura;1;12.00;cancelado
+3258;2026-10-05;espresso;1;7.00;pago
+3259;2026-10-07;croissant;2;11.00;pago
+3260;2026-10-03;cappuccino;3;14.50;pago
+3261;2026-10-07;bolo de cenoura;1;12.00;pago
+3262;2026-10-08;bolo de cenoura;5;12.00;pago
+3263;2026-10-05;cha gelado;1;9.00;pago
+3264;2026-10-02;cha gelado;1;9.00;pago
+3265;2026-10-05;cha gelado;3;9.00;pago
+3266;2026-10-03;bolo de cenoura;1;12.00;pago
+3267;2026-10-02;torta de limao;1;13.50;pago
+3268;2026-10-07;pao de queijo;2;6.50;pago
+3269;2026-10-03;espresso;1;7.00;pago
+3270;2026-10-03;croissant;1;11.00;pago
+3271;2026-10-06;bolo de cenoura;3;12.00;pago
+3272;2026-10-03;bolo de cenoura;1;12.00;cancelado
+3273;2026-10-08;pao de queijo;4;6.50;pago
+3274;2026-10-09;croissant;1;11.00;pago
+3275;2026-10-08;cha gelado;2;9.00;pago
+3276;2026-10-02;torta de limao;2;13.50;pago
+3277;2026-10-06;torta de limao;1;13.50;pago
+3278;2026-10-07;torta de limao;2;13.50;pago
+3279;2026-10-08;torta de limao;4;13.50;pago
+3280;2026-10-03;bolo de cenoura;1;12.00;pago
+3281;2026-10-01;pao de queijo;1;6.50;pago
+3282;2026-10-08;bolo de cenoura;4;12.00;pago
+3283;2026-10-01;croissant;1;11.00;pago
+3284;2026-10-07;livro de bolso;2;39.90;pago
+3285;2026-10-07;pao de queijo;1;6.50;pago
+3286;2026-10-09;livro de bolso;1;39.90;pago
+3287;2026-10-04;espresso;1;7.00;pago
+3288;2026-10-06;torta de limao;3;13.50;pago
+3289;2026-10-07;cappuccino;1;14.50;cancelado
+3290;2026-10-06;torta de limao;1;13.50;pago
+3291;2026-10-06;pao de queijo;1;6.50;pago
+3292;2026-10-06;torta de limao;1;13.50;pago
+3293;2026-10-07;espresso;5;7.00;pago
+3294;2026-10-07;pao de queijo;2;6.50;pago
+3295;2026-10-09;livro de bolso;1;39.90;pago
+3296;2026-10-09;croissant;1;11.00;pago
+3297;2026-10-04;torta de limao;1;13.50;pago
+3298;2026-10-08;pao de queijo;1;6.50;cancelado
+3299;2026-10-01;pao de queijo;1;6.50;pago
+3300;2026-10-09;bolo de cenoura;1;12.00;pago
+3301;2026-10-04;bolo de cenoura;2;12.00;pago
+3302;2026-10-09;cappuccino;3;14.50;pago
+3303;2026-10-03;pao de queijo;1;6.50;pago
+3304;2026-10-02;torta de limao;2;13.50;pago
+3305;2026-10-09;cha gelado;1;9.00;pago
+3306;2026-10-07;croissant;2;11.00;pago
+3307;2026-10-09;cappuccino;1;14.50;pago
+3308;2026-10-08;bolo de cenoura;2;12.00;pago
+3309;2026-10-08;pao de queijo;2;6.50;pago
+3310;2026-10-03;cha gelado;2;9.00;pago
+3311;2026-10-08;torta de limao;5;13.50;pago
+3312;2026-10-06;bolo de cenoura;1;12.00;pago
+3313;2026-10-01;bolo de cenoura;5;12.00;pago
+3314;2026-10-01;espresso;2;7.00;pago
+3315;2026-10-03;livro de bolso;2;39.90;pago
+3316;2026-10-04;espresso;1;7.00;pago
+3317;2026-10-08;croissant;4;11.00;pago
+3318;2026-10-05;cappuccino;1;14.50;pago
+3319;2026-10-03;bolo de cenoura;1;12.00;pago
+3320;2026-10-09;cappuccino;2;14.50;pago
+3321;2026-10-06;cha gelado;1;9.00;pago
+3322;2026-10-03;cha gelado;5;9.00;pago
+3323;2026-10-08;bolo de cenoura;2;12.00;pago
+3324;2026-10-09;espresso;1;7.00;pago
+3325;2026-10-06;pao de queijo;4;6.50;pago
+3326;2026-10-09;pao de queijo;5;6.50;pago
+3327;2026-10-05;bolo de cenoura;1;12.00;pago
+3328;2026-10-07;pao de queijo;5;6.50;pago
+3329;2026-10-08;croissant;2;11.00;pago
+3330;2026-10-06;pao de queijo;3;6.50;pago
+3331;2026-10-09;cappuccino;1;14.50;pago
+3332;2026-10-07;pao de queijo;1;6.50;cancelado
+3333;2026-10-07;pao de queijo;2;6.50;pago
+3334;2026-10-03;croissant;1;11.00;pago
+3335;2026-10-01;torta de limao;1;13.50;pago
+3336;2026-10-09;torta de limao;1;13.50;pago
+3337;2026-10-07;espresso;1;7.00;pago
+3338;2026-10-03;cha gelado;1;9.00;pago
+3339;2026-10-01;cha gelado;2;9.00;pago
+3340;2026-10-04;bolo de cenoura;1;12.00;pago
+3341;2026-10-05;torta de limao;1;13.50;pago
+3342;2026-10-01;espresso;4;7.00;pago
+3343;2026-10-08;livro de bolso;4;39.90;cancelado
+3344;2026-10-02;bolo de cenoura;3;12.00;pago
+3345;2026-10-09;cappuccino;1;14.50;pago
+3346;2026-10-08;bolo de cenoura;1;12.00;pago
+3347;2026-10-05;bolo de cenoura;2;12.00;pago
+3348;2026-10-08;croissant;2;11.00;pago
+3349;2026-10-03;cappuccino;2;14.50;pago
+3350;2026-10-07;livro de bolso;1;39.90;pago
+3351;2026-10-09;cappuccino;1;14.50;pago
+3352;2026-10-05;torta de limao;1;13.50;pago
+3353;2026-10-04;croissant;1;11.00;pago
+3354;2026-10-05;torta de limao;2;13.50;cancelado
+3355;2026-10-05;pao de queijo;3;6.50;pago
+3356;2026-10-04;espresso;1;7.00;pago
+3357;2026-10-06;cha gelado;2;9.00;pago
+3358;2026-10-06;cha gelado;2;9.00;pago
+3359;2026-10-02;pao de queijo;1;6.50;pago
+3360;2026-10-03;espresso;3;7.00;pago
+3361;2026-10-01;torta de limao;1;13.50;pago
+3362;2026-10-06;cappuccino;3;14.50;pago
+3363;2026-10-05;cappuccino;4;14.50;pago
+3364;2026-10-02;cappuccino;1;14.50;cancelado
+3365;2026-10-04;cha gelado;1;9.00;pago
+3366;2026-10-02;bolo de cenoura;1;12.00;pago
+3367;2026-10-04;pao de queijo;2;6.50;pago
+3368;2026-10-04;cappuccino;2;14.50;pago
+3369;2026-10-05;torta de limao;2;13.50;pago
+3370;2026-10-09;bolo de cenoura;1;12.00;pago
+3371;2026-10-08;croissant;1;11.00;pago
+3372;2026-10-05;espresso;1;7.00;pago
+3373;2026-10-03;bolo de cenoura;1;12.00;pago
+3374;2026-10-04;cappuccino;1;14.50;pago
+3375;2026-10-05;cappuccino;3;14.50;pago
+3376;2026-10-01;livro de bolso;2;39.90;pago
+3377;2026-10-07;pao de queijo;1;6.50;pago
+3378;2026-10-03;pao de queijo;2;6.50;pago
+3379;2026-10-05;espresso;1;7.00;pago
+3380;2026-10-03;cappuccino;1;14.50;pago
+3381;2026-10-01;livro de bolso;1;39.90;pago
+3382;2026-10-03;pao de queijo;1;6.50;cancelado
+3383;2026-10-09;torta de limao;4;13.50;pago
+3384;2026-10-07;cha gelado;3;9.00;pago
+3385;2026-10-08;torta de limao;1;13.50;pago
+3386;2026-10-06;pao de queijo;1;6.50;pago
+3387;2026-10-06;pao de queijo;2;6.50;pago
+3388;2026-10-08;cappuccino;1;14.50;pago
+3389;2026-10-05;pao de queijo;1;6.50;pago
+3390;2026-10-06;bolo de cenoura;1;12.00;pago
+3391;2026-10-06;espresso;1;7.00;pago
+3392;2026-10-03;croissant;1;11.00;pago
+3393;2026-10-03;bolo de cenoura;1;12.00;pago
+3394;2026-10-01;pao de queijo;2;6.50;pago
+3395;2026-10-04;bolo de cenoura;1;12.00;pago
+3396;2026-10-03;cappuccino;1;14.50;pago
+3397;2026-10-02;pao de queijo;2;6.50;pago
+3398;2026-10-09;cha gelado;1;9.00;pago
+3399;2026-10-05;espresso;4;7.00;pago
+3400;2026-10-08;pao de queijo;1;6.50;pago
+3401;2026-10-09;pao de queijo;4;6.50;pago
+3402;2026-10-03;cappuccino;2;14.50;pago
+3403;2026-10-07;espresso;1;7.00;pago
+3404;2026-10-06;cappuccino;2;14.50;pago
+3405;2026-10-09;cappuccino;5;14.50;pago
+3406;2026-10-01;livro de bolso;1;39.90;pago
+3407;2026-10-09;croissant;2;11.00;pago
+3408;2026-10-02;cappuccino;1;14.50;pago
+3409;2026-10-02;bolo de cenoura;1;12.00;pago
+3410;2026-10-06;bolo de cenoura;1;12.00;pago
+3411;2026-10-08;cappuccino;1;14.50;pago
+3412;2026-10-09;pao de queijo;2;6.50;pago
+3413;2026-10-03;bolo de cenoura;2;12.00;pago
+3414;2026-10-07;espresso;2;7.00;pago
+3415;2026-10-07;pao de queijo;3;6.50;pago
+3416;2026-10-04;livro de bolso;2;39.90;cancelado
+3417;2026-10-09;croissant;5;11.00;pago
+3418;2026-10-08;livro de bolso;2;39.90;pago
+3419;2026-10-08;pao de queijo;3;6.50;pago
+3420;2026-10-07;bolo de cenoura;5;12.00;pago
+3421;2026-10-06;torta de limao;4;13.50;pago
+3422;2026-10-05;bolo de cenoura;1;12.00;pago
+3423;2026-10-07;espresso;2;7.00;pago
+3424;2026-10-01;bolo de cenoura;3;12.00;pago
+3425;2026-10-06;croissant;1;11.00;pago
+3426;2026-10-07;espresso;2;7.00;pago
+3427;2026-10-01;croissant;1;11.00;cancelado
+3428;2026-10-02;croissant;1;11.00;pago
+3429;2026-10-04;torta de limao;1;13.50;pago
+3430;2026-10-06;torta de limao;1;13.50;pago
+3431;2026-10-04;bolo de cenoura;1;12.00;pago
+3432;2026-10-03;pao de queijo;1;6.50;pago
+3433;2026-10-04;cha gelado;3;9.00;pago
+3434;2026-10-07;cappuccino;2;14.50;pago
+3435;2026-10-09;espresso;1;7.00;pago
+3436;2026-10-04;cappuccino;1;14.50;pago
+3437;2026-10-05;croissant;2;11.00;pago
+3438;2026-10-02;cappuccino;2;14.50;pago
+3439;2026-10-04;bolo de cenoura;1;12.00;pago
+3440;2026-10-08;croissant;2;11.00;pago
+3441;2026-10-06;livro de bolso;1;39.90;pago
+3442;2026-10-07;pao de queijo;2;6.50;pago
+3443;2026-10-03;livro de bolso;1;39.90;pago
+3444;2026-10-04;pao de queijo;1;6.50;pago
+3445;2026-10-05;croissant;1;11.00;pago
+3446;2026-10-02;croissant;1;11.00;pago
+3447;2026-10-09;cha gelado;2;9.00;pago
+3448;2026-10-08;croissant;1;11.00;pago
+3449;2026-10-06;bolo de cenoura;2;12.00;pago
+3450;2026-10-07;pao de queijo;3;6.50;pago
+3451;2026-10-06;pao de queijo;1;6.50;pago
+3452;2026-10-03;torta de limao;3;13.50;pago
+3453;2026-10-05;croissant;2;11.00;pago
+3454;2026-10-08;cappuccino;1;14.50;pago
+3455;2026-10-07;cappuccino;1;14.50;pago
+3456;2026-10-01;croissant;1;11.00;pago
+3457;2026-10-05;espresso;5;7.00;pago
+3458;2026-10-06;bolo de cenoura;1;12.00;pago
+3459;2026-10-04;croissant;1;11.00;pago
+3460;2026-10-03;espresso;2;7.00;pago
+3461;2026-10-01;pao de queijo;1;6.50;pago
+3462;2026-10-02;espresso;1;7.00;pago
+3463;2026-10-05;cha gelado;1;9.00;pago
+3464;2026-10-05;cha gelado;2;9.00;cancelado
+3465;2026-10-09;cha gelado;2;9.00;pago
+3466;2026-10-09;cha gelado;1;9.00;pago
+3467;2026-10-03;croissant;2;11.00;pago
+3468;2026-10-08;espresso;1;7.00;pago
+3469;2026-10-06;cha gelado;3;9.00;pago
+3470;2026-10-07;croissant;1;11.00;pago
+3471;2026-10-04;croissant;2;11.00;pago
+3472;2026-10-02;espresso;1;7.00;pago
+3473;2026-10-09;bolo de cenoura;1;12.00;pago
+3474;2026-10-09;pao de queijo;1;6.50;pago
+3475;2026-10-07;cappuccino;1;14.50;pago
+3476;2026-10-07;pao de queijo;1;6.50;pago
+3477;2026-10-04;bolo de cenoura;1;12.00;pago
+3478;2026-10-02;croissant;1;11.00;pago
+3479;2026-10-04;torta de limao;2;13.50;pago
+3480;2026-10-08;pao de queijo;1;6.50;pago
+3481;2026-10-05;cappuccino;1;14.50;cancelado
+3482;2026-10-03;pao de queijo;1;6.50;cancelado
+3483;2026-10-08;pao de queijo;1;6.50;pago
+3484;2026-10-02;pao de queijo;1;6.50;pago
+3485;2026-10-05;bolo de cenoura;4;12.00;pago
+3486;2026-10-07;cappuccino;1;14.50;pago
+3487;2026-10-07;cappuccino;1;14.50;pago
+3488;2026-10-01;torta de limao;4;13.50;pago
+3489;2026-10-04;torta de limao;1;13.50;pago
+3490;2026-10-08;espresso;1;7.00;pago
+3491;2026-10-07;livro de bolso;1;39.90;pago
+3492;2026-10-05;pao de queijo;1;6.50;pago
+3493;2026-10-07;espresso;1;7.00;pago
+3494;2026-10-08;cappuccino;5;14.50;pago
+3495;2026-10-09;bolo de cenoura;3;12.00;pago
+3496;2026-10-03;cha gelado;1;9.00;pago
+3497;2026-10-05;cappuccino;2;14.50;pago
+3498;2026-10-04;livro de bolso;1;39.90;cancelado
+3499;2026-10-02;croissant;1;11.00;cancelado
+3500;2026-10-03;cha gelado;2;9.00;cancelado
+3501;2026-10-05;espresso;2;7.00;pago
+3502;2026-10-08;torta de limao;1;13.50;pago
+3503;2026-10-01;cha gelado;5;9.00;pago
+3504;2026-10-05;cappuccino;4;14.50;pago
+3505;2026-10-06;torta de limao;3;13.50;pago
+3506;2026-10-04;torta de limao;1;13.50;pago
+3507;2026-10-04;cha gelado;2;9.00;pago
+3508;2026-10-07;torta de limao;1;13.50;pago
+3509;2026-10-06;bolo de cenoura;2;12.00;pago
+3510;2026-10-09;cha gelado;5;9.00;pago
+3511;2026-10-03;cappuccino;1;14.50;pago
+3512;2026-10-08;cappuccino;5;14.50;pago
+3513;2026-10-07;croissant;1;11.00;pago
+3514;2026-10-04;cha gelado;2;9.00;pago
+3515;2026-10-06;pao de queijo;3;6.50;pago
+3516;2026-10-06;croissant;3;11.00;pago
+3517;2026-10-08;livro de bolso;1;39.90;pago
+3518;2026-10-03;cappuccino;2;14.50;pago
+3519;2026-10-07;pao de queijo;2;6.50;pago
+3520;2026-10-06;livro de bolso;2;39.90;cancelado
+3521;2026-10-04;croissant;1;11.00;pago
+3522;2026-10-08;espresso;1;7.00;pago
+3523;2026-10-03;pao de queijo;1;6.50;pago
+3524;2026-10-02;cappuccino;1;14.50;pago
+3525;2026-10-04;espresso;1;7.00;pago
+3526;2026-10-02;pao de queijo;1;6.50;pago
+3527;2026-10-06;bolo de cenoura;1;12.00;pago
+3528;2026-10-05;espresso;1;7.00;pago
+3529;2026-10-02;torta de limao;1;13.50;pago
+3530;2026-10-05;pao de queijo;1;6.50;pago
+3531;2026-10-01;cha gelado;1;9.00;pago
+3532;2026-10-06;espresso;3;7.00;cancelado
+3533;2026-10-07;cappuccino;2;14.50;pago
+3534;2026-10-03;croissant;1;11.00;pago
+3535;2026-10-01;espresso;1;7.00;cancelado
+3536;2026-10-04;cappuccino;3;14.50;pago
+3537;2026-10-07;croissant;1;11.00;pago
+3538;2026-10-06;espresso;1;7.00;pago
+3539;2026-10-06;espresso;2;7.00;pago
+3540;2026-10-03;croissant;1;11.00;cancelado
+3541;2026-10-02;torta de limao;1;13.50;pago
+3542;2026-10-07;livro de bolso;3;39.90;pago
+3543;2026-10-08;pao de queijo;1;6.50;pago
+3544;2026-10-07;cappuccino;1;14.50;pago
+3545;2026-10-07;espresso;1;7.00;pago
+3546;2026-10-09;croissant;1;11.00;pago
+3547;2026-10-06;cappuccino;1;14.50;pago
+3548;2026-10-08;pao de queijo;2;6.50;pago
+3549;2026-10-09;cha gelado;1;9.00;pago
+3550;2026-10-06;pao de queijo;1;6.50;pago
+3551;2026-10-03;cha gelado;1;9.00;pago
+3552;2026-10-01;cappuccino;1;14.50;pago
+3553;2026-10-02;pao de queijo;4;6.50;pago
+3554;2026-10-03;espresso;1;7.00;pago
+3555;2026-10-05;cha gelado;1;9.00;pago
+3556;2026-10-04;croissant;2;11.00;pago
+3557;2026-10-02;cappuccino;3;14.50;pago
+3558;2026-10-06;pao de queijo;3;6.50;pago
+3559;2026-10-02;pao de queijo;1;6.50;pago
+3560;2026-10-08;pao de queijo;1;6.50;pago
+3561;2026-10-01;pao de queijo;1;6.50;pago
+3562;2026-10-08;pao de queijo;4;6.50;pago
+3563;2026-10-07;cha gelado;1;9.00;cancelado
+3564;2026-10-05;bolo de cenoura;4;12.00;pago
+3565;2026-10-07;espresso;2;7.00;pago
+3566;2026-10-04;espresso;1;7.00;pago
+3567;2026-10-06;livro de bolso;1;39.90;pago
+3568;2026-10-08;espresso;1;7.00;pago
+3569;2026-10-09;croissant;1;11.00;pago
+3570;2026-10-09;pao de queijo;1;6.50;pago
+3571;2026-10-07;livro de bolso;2;39.90;pago
+3572;2026-10-01;pao de queijo;1;6.50;pago
+3573;2026-10-02;cappuccino;3;14.50;cancelado
+3574;2026-10-02;livro de bolso;1;39.90;pago
+3575;2026-10-09;cha gelado;1;9.00;pago
+3576;2026-10-06;pao de queijo;2;6.50;pago
+3577;2026-10-04;espresso;3;7.00;pago
+3578;2026-10-04;cappuccino;5;14.50;pago
+3579;2026-10-07;pao de queijo;2;6.50;pago
+3580;2026-10-07;espresso;1;7.00;pago
+3581;2026-10-05;espresso;4;7.00;pago
+3582;2026-10-08;cha gelado;1;9.00;pago
+3583;2026-10-04;espresso;2;7.00;pago
+3584;2026-10-07;pao de queijo;3;6.50;pago
+3585;2026-10-05;espresso;2;7.00;pago
+3586;2026-10-01;espresso;1;7.00;pago
+3587;2026-10-08;espresso;2;7.00;pago
+3588;2026-10-02;cappuccino;1;14.50;cancelado
+3589;2026-10-01;torta de limao;1;13.50;pago
+3590;2026-10-08;cappuccino;1;14.50;pago
+3591;2026-10-05;cha gelado;5;9.00;pago
+3592;2026-10-04;pao de queijo;1;6.50;pago
+3593;2026-10-08;espresso;2;7.00;pago
+3594;2026-10-09;cappuccino;1;14.50;pago
+3595;2026-10-01;pao de queijo;1;6.50;pago
+3596;2026-10-09;pao de queijo;1;6.50;cancelado
+3597;2026-10-03;croissant;1;11.00;pago
+3598;2026-10-05;livro de bolso;2;39.90;cancelado
+3599;2026-10-07;pao de queijo;1;6.50;pago
+3600;2026-10-08;bolo de cenoura;1;12.00;pago
+3601;2026-10-06;espresso;3;7.00;cancelado
+3602;2026-10-05;pao de queijo;4;6.50;pago
+3603;2026-10-02;cappuccino;1;14.50;pago
+3604;2026-10-07;pao de queijo;2;6.50;pago
+3605;2026-10-08;cappuccino;1;14.50;pago
+3606;2026-10-06;bolo de cenoura;3;12.00;cancelado
+3607;2026-10-03;torta de limao;1;13.50;pago
+3608;2026-10-02;bolo de cenoura;1;12.00;pago
+3609;2026-10-09;pao de queijo;1;6.50;pago
+3610;2026-10-05;livro de bolso;1;39.90;pago
+3611;2026-10-05;cappuccino;3;14.50;pago
+3612;2026-10-01;cha gelado;2;9.00;pago
+3613;2026-10-07;torta de limao;1;13.50;pago
+3614;2026-10-07;bolo de cenoura;1;12.00;pago
+3615;2026-10-02;croissant;3;11.00;pago
+3616;2026-10-01;cappuccino;4;14.50;pago
+3617;2026-10-04;espresso;1;7.00;cancelado
+3618;2026-10-08;cappuccino;2;14.50;pago
+3619;2026-10-05;pao de queijo;1;6.50;pago
+3620;2026-10-09;cha gelado;1;9.00;pago
+3621;2026-10-01;croissant;1;11.00;pago
+3622;2026-10-01;livro de bolso;1;39.90;pago
+3623;2026-10-09;espresso;1;7.00;pago
+3624;2026-10-07;cappuccino;1;14.50;pago
+3625;2026-10-09;cappuccino;1;14.50;pago
+3626;2026-10-09;cappuccino;1;14.50;pago
+3627;2026-10-06;pao de queijo;1;6.50;pago
+3628;2026-10-08;pao de queijo;4;6.50;pago
+3629;2026-10-07;espresso;1;7.00;pago
+3630;2026-10-09;espresso;1;7.00;pago
+3631;2026-10-03;bolo de cenoura;4;12.00;cancelado
+3632;2026-10-07;espresso;1;7.00;pago
+3633;2026-10-02;cha gelado;1;9.00;pago
+3634;2026-10-02;torta de limao;2;13.50;pago
+3635;2026-10-02;cappuccino;3;14.50;pago
+3636;2026-10-02;cappuccino;1;14.50;pago
+3637;2026-10-08;pao de queijo;2;6.50;pago
+3638;2026-10-01;pao de queijo;1;6.50;pago
+3639;2026-10-02;pao de queijo;1;6.50;pago
+3640;2026-10-03;cappuccino;1;14.50;pago
+3641;2026-10-04;livro de bolso;1;39.90;pago
+3642;2026-10-02;espresso;3;7.00;pago
+3643;2026-10-04;bolo de cenoura;1;12.00;pago
+3644;2026-10-04;cappuccino;3;14.50;pago
+3645;2026-10-06;cha gelado;1;9.00;pago
+3646;2026-10-09;espresso;3;7.00;pago
+3647;2026-10-09;pao de queijo;1;6.50;pago
+3648;2026-10-08;cappuccino;1;14.50;pago
+3649;2026-10-09;espresso;2;7.00;pago
+3650;2026-10-06;croissant;2;11.00;pago
+3651;2026-10-02;pao de queijo;2;6.50;pago
+3652;2026-10-02;pao de queijo;1;6.50;pago
+3653;2026-10-01;espresso;2;7.00;pago
+3654;2026-10-04;pao de queijo;1;6.50;pago
+3655;2026-10-05;torta de limao;1;13.50;pago
+3656;2026-10-08;pao de queijo;1;6.50;pago
+3657;2026-10-09;cappuccino;1;14.50;pago
+3658;2026-10-06;pao de queijo;2;6.50;cancelado
+3659;2026-10-02;livro de bolso;1;39.90;pago
+3660;2026-10-01;bolo de cenoura;1;12.00;pago
+3661;2026-10-03;cha gelado;1;9.00;cancelado
+3662;2026-10-09;torta de limao;1;13.50;pago
+3663;2026-10-03;espresso;1;7.00;pago
+3664;2026-10-06;torta de limao;1;13.50;pago
+3665;2026-10-02;espresso;2;7.00;pago
+3666;2026-10-02;cappuccino;5;14.50;pago
+3667;2026-10-05;croissant;3;11.00;pago
+3668;2026-10-08;croissant;1;11.00;pago
+3669;2026-10-04;pao de queijo;1;6.50;pago
+3670;2026-10-09;pao de queijo;2;6.50;cancelado
+3671;2026-10-08;croissant;5;11.00;pago
+3672;2026-10-04;croissant;1;11.00;pago
+3673;2026-10-03;espresso;2;7.00;pago
+3674;2026-10-07;pao de queijo;2;6.50;pago
+3675;2026-10-04;torta de limao;1;13.50;pago
+3676;2026-10-04;croissant;3;11.00;pago
+3677;2026-10-03;cappuccino;1;14.50;pago
+3678;2026-10-02;pao de queijo;2;6.50;cancelado
+3679;2026-10-06;torta de limao;1;13.50;pago
+3680;2026-10-03;espresso;2;7.00;pago
+3681;2026-10-02;espresso;1;7.00;pago
+3682;2026-10-06;torta de limao;1;13.50;pago
+3683;2026-10-02;bolo de cenoura;1;12.00;pago
+3684;2026-10-06;cappuccino;3;14.50;pago
+3685;2026-10-06;cappuccino;1;14.50;pago
+3686;2026-10-05;bolo de cenoura;1;12.00;pago
+3687;2026-10-07;pao de queijo;1;6.50;pago
+3688;2026-10-02;cappuccino;3;14.50;pago
+3689;2026-10-01;cappuccino;1;14.50;pago
+3690;2026-10-07;cappuccino;1;14.50;pago
+3691;2026-10-09;pao de queijo;3;6.50;pago
+3692;2026-10-08;bolo de cenoura;3;12.00;pago
+3693;2026-10-08;croissant;2;11.00;pago
+3694;2026-10-09;bolo de cenoura;2;12.00;pago
+3695;2026-10-05;croissant;2;11.00;pago
+3696;2026-10-04;cappuccino;1;14.50;pago
+3697;2026-10-09;pao de queijo;1;6.50;pago
+3698;2026-10-07;cha gelado;1;9.00;pago
+3699;2026-10-01;cappuccino;2;14.50;pago
+3700;2026-10-02;torta de limao;2;13.50;pago
+3701;2026-10-07;espresso;1;7.00;pago
+3702;2026-10-09;cha gelado;1;9.00;pago
+3703;2026-10-05;espresso;2;7.00;pago
+3704;2026-10-05;bolo de cenoura;1;12.00;pago
+3705;2026-10-03;espresso;1;7.00;pago
+3706;2026-10-06;espresso;1;7.00;pago
+3707;2026-10-09;bolo de cenoura;1;12.00;pago
+3708;2026-10-02;bolo de cenoura;2;12.00;pago
+3709;2026-10-02;bolo de cenoura;1;12.00;pago
+3710;2026-10-08;bolo de cenoura;4;12.00;pago
+3711;2026-10-03;livro de bolso;1;39.90;pago
+3712;2026-10-07;torta de limao;1;13.50;pago
+3713;2026-10-01;cappuccino;2;14.50;pago
+3714;2026-10-06;bolo de cenoura;1;12.00;pago
+3715;2026-10-01;cappuccino;1;14.50;pago
+3716;2026-10-05;pao de queijo;3;6.50;pago
+3717;2026-10-01;croissant;5;11.00;pago
+3718;2026-10-03;espresso;1;7.00;pago
+3719;2026-10-05;pao de queijo;1;6.50;pago
+3720;2026-10-07;cha gelado;2;9.00;pago
+3721;2026-10-09;bolo de cenoura;1;12.00;pago
+3722;2026-10-03;espresso;3;7.00;pago
+3723;2026-10-07;cha gelado;2;9.00;pago
+3724;2026-10-06;cha gelado;2;9.00;pago
+3725;2026-10-07;livro de bolso;1;39.90;pago
+3726;2026-10-08;pao de queijo;1;6.50;pago
+3727;2026-10-03;cha gelado;1;9.00;pago
+3728;2026-10-03;espresso;1;7.00;pago
+3729;2026-10-02;cappuccino;1;14.50;pago
+3730;2026-10-02;torta de limao;1;13.50;pago
+3731;2026-10-01;pao de queijo;3;6.50;pago
+3732;2026-10-03;bolo de cenoura;1;12.00;pago
+3733;2026-10-05;espresso;1;7.00;pago
+3734;2026-10-08;espresso;3;7.00;pago
+3735;2026-10-01;espresso;1;7.00;pago
+3736;2026-10-03;cha gelado;2;9.00;pago
+3737;2026-10-09;croissant;3;11.00;cancelado
+3738;2026-10-06;espresso;5;7.00;pago
+3739;2026-10-06;pao de queijo;4;6.50;pago
+3740;2026-10-06;pao de queijo;1;6.50;pago
+3741;2026-10-02;bolo de cenoura;2;12.00;pago
+3742;2026-10-02;pao de queijo;1;6.50;pago
+3743;2026-10-04;espresso;1;7.00;cancelado
+3744;2026-10-09;cappuccino;1;14.50;cancelado
+3745;2026-10-07;cha gelado;2;9.00;pago
+3746;2026-10-03;bolo de cenoura;2;12.00;pago
+3747;2026-10-08;croissant;1;11.00;pago
+3748;2026-10-03;pao de queijo;1;6.50;pago
+3749;2026-10-04;espresso;1;7.00;pago
+3750;2026-10-09;livro de bolso;5;39.90;pago
+3751;2026-10-04;espresso;2;7.00;pago
+3752;2026-10-02;cappuccino;1;14.50;cancelado
+3753;2026-10-05;livro de bolso;1;39.90;pago
+3754;2026-10-05;pao de queijo;2;6.50;pago
+3755;2026-10-04;cappuccino;3;14.50;pago
+3756;2026-10-08;torta de limao;2;13.50;pago
+3757;2026-10-04;livro de bolso;3;39.90;pago
+3758;2026-10-01;bolo de cenoura;1;12.00;pago
+3759;2026-10-03;torta de limao;2;13.50;pago
+3760;2026-10-06;pao de queijo;2;6.50;pago
+3761;2026-10-04;croissant;2;11.00;pago
+3762;2026-10-05;cha gelado;2;9.00;pago
+3763;2026-10-04;bolo de cenoura;1;12.00;pago
+3764;2026-10-02;torta de limao;2;13.50;pago
+3765;2026-10-07;cha gelado;1;9.00;cancelado
+3766;2026-10-03;croissant;1;11.00;pago
+3767;2026-10-04;cappuccino;1;14.50;pago
+3768;2026-10-01;bolo de cenoura;1;12.00;pago
+3769;2026-10-07;bolo de cenoura;1;12.00;pago
+3770;2026-10-08;croissant;1;11.00;pago
+3771;2026-10-01;cappuccino;4;14.50;cancelado
+3772;2026-10-05;bolo de cenoura;1;12.00;pago
+3773;2026-10-07;torta de limao;1;13.50;pago
+3774;2026-10-06;espresso;1;7.00;pago
+3775;2026-10-03;cappuccino;1;14.50;pago
+3776;2026-10-02;pao de queijo;4;6.50;pago
+3777;2026-10-06;croissant;2;11.00;pago
+3778;2026-10-02;croissant;1;11.00;pago
+3779;2026-10-01;bolo de cenoura;1;12.00;pago
+3780;2026-10-08;cha gelado;1;9.00;pago
+3781;2026-10-04;torta de limao;1;13.50;pago
+3782;2026-10-09;torta de limao;2;13.50;pago
+3783;2026-10-08;croissant;1;11.00;pago
+3784;2026-10-09;pao de queijo;4;6.50;pago
+3785;2026-10-09;bolo de cenoura;2;12.00;pago
+3786;2026-10-03;torta de limao;1;13.50;pago
+3787;2026-10-01;torta de limao;3;13.50;pago
+3788;2026-10-07;cha gelado;1;9.00;cancelado
+3789;2026-10-03;pao de queijo;3;6.50;pago
+3790;2026-10-07;cha gelado;1;9.00;pago
+3791;2026-10-08;cappuccino;3;14.50;pago
+3792;2026-10-03;espresso;1;7.00;pago
+3793;2026-10-02;torta de limao;2;13.50;pago
+3794;2026-10-04;cappuccino;3;14.50;cancelado
+3795;2026-10-04;livro de bolso;4;39.90;pago
+3796;2026-10-05;croissant;4;11.00;pago
+3797;2026-10-02;torta de limao;1;13.50;pago
+3798;2026-10-06;pao de queijo;1;6.50;pago
+3799;2026-10-09;pao de queijo;3;6.50;pago
+3800;2026-10-07;livro de bolso;1;39.90;pago
+3801;2026-10-04;bolo de cenoura;3;12.00;pago
+3802;2026-10-04;torta de limao;1;13.50;pago
+3803;2026-10-02;cha gelado;2;9.00;pago
+3804;2026-10-03;cappuccino;1;14.50;pago
+3805;2026-10-09;cappuccino;2;14.50;pago
+3806;2026-10-03;croissant;1;11.00;pago
+3807;2026-10-06;bolo de cenoura;1;12.00;pago
+3808;2026-10-09;espresso;2;7.00;pago
+3809;2026-10-04;croissant;3;11.00;pago
+3810;2026-10-04;torta de limao;3;13.50;pago
+3811;2026-10-09;bolo de cenoura;4;12.00;pago
+3812;2026-10-09;torta de limao;1;13.50;pago
+3813;2026-10-06;livro de bolso;12;39.90;pago
+3814;2026-10-03;cha gelado;1;9.00;pago
+3815;2026-10-09;pao de queijo;2;6.50;pago
+3816;2026-10-06;croissant;1;11.00;pago
+3817;2026-10-08;pao de queijo;1;6.50;pago
+3818;2026-10-09;croissant;1;11.00;pago
+3819;2026-10-08;espresso;4;7.00;pago
+3820;2026-10-06;bolo de cenoura;1;12.00;pago
+3821;2026-10-01;pao de queijo;1;6.50;pago
+3822;2026-10-08;pao de queijo;4;6.50;pago
+3823;2026-10-03;croissant;2;11.00;cancelado
+3824;2026-10-09;bolo de cenoura;2;12.00;pago
+3825;2026-10-07;pao de queijo;4;6.50;pago
+3826;2026-10-06;cha gelado;1;9.00;pago
+3827;2026-10-04;bolo de cenoura;1;12.00;pago
+3828;2026-10-08;croissant;1;11.00;cancelado
+3829;2026-10-07;torta de limao;1;13.50;cancelado
+3830;2026-10-04;espresso;2;7.00;pago
+3831;2026-10-02;torta de limao;1;13.50;pago
+3832;2026-10-08;espresso;2;7.00;pago
+3833;2026-10-04;espresso;2;7.00;pago
+3834;2026-10-02;espresso;1;7.00;pago
+3835;2026-10-09;croissant;2;11.00;pago
+3836;2026-10-04;livro de bolso;1;39.90;pago
+3837;2026-10-03;pao de queijo;1;6.50;cancelado
+3838;2026-10-08;cappuccino;5;14.50;pago
+3839;2026-10-05;espresso;1;7.00;cancelado
+3840;2026-10-02;pao de queijo;1;6.50;pago
+3841;2026-10-06;bolo de cenoura;2;12.00;pago
+3842;2026-10-07;espresso;4;7.00;pago
+3843;2026-10-09;bolo de cenoura;5;12.00;pago
+3844;2026-10-07;livro de bolso;4;39.90;pago
+3845;2026-10-03;bolo de cenoura;1;12.00;pago
+3846;2026-10-08;cha gelado;3;9.00;pago
+3847;2026-10-09;pao de queijo;2;6.50;pago
+3848;2026-10-06;espresso;2;7.00;pago
+3849;2026-10-03;croissant;1;11.00;pago
+3850;2026-10-03;cappuccino;3;14.50;pago
+3851;2026-10-05;espresso;2;7.00;pago
+3852;2026-10-09;espresso;1;7.00;pago
+3853;2026-10-02;cappuccino;2;14.50;pago
+3854;2026-10-03;pao de queijo;2;6.50;pago
+3855;2026-10-07;torta de limao;1;13.50;cancelado
+3856;2026-10-06;bolo de cenoura;1;12.00;pago
+3857;2026-10-09;cappuccino;2;14.50;pago
+3858;2026-10-07;croissant;4;11.00;pago
+3859;2026-10-09;cappuccino;1;14.50;pago
+3860;2026-10-02;espresso;2;7.00;pago
+3861;2026-10-09;cappuccino;5;14.50;pago
+3862;2026-10-05;espresso;2;7.00;pago
+3863;2026-10-01;espresso;2;7.00;pago
+3864;2026-10-02;espresso;2;7.00;pago
+3865;2026-10-03;cappuccino;1;14.50;pago
+3866;2026-10-02;espresso;2;7.00;pago
+3867;2026-10-06;bolo de cenoura;5;12.00;pago
+3868;2026-10-05;bolo de cenoura;5;12.00;pago
+3869;2026-10-03;pao de queijo;2;6.50;pago
+3870;2026-10-02;croissant;1;11.00;pago
+3871;2026-10-05;cappuccino;1;14.50;pago
+3872;2026-10-06;pao de queijo;5;6.50;pago
+3873;2026-10-05;pao de queijo;2;6.50;pago
+3874;2026-10-08;cha gelado;1;9.00;pago
+3875;2026-10-09;livro de bolso;1;39.90;pago
+3876;2026-10-09;pao de queijo;2;6.50;pago
+3877;2026-10-04;torta de limao;1;13.50;cancelado
+3878;2026-10-01;espresso;2;7.00;pago
+3879;2026-10-05;espresso;1;7.00;pago
+3880;2026-10-07;bolo de cenoura;1;12.00;pago
+3881;2026-10-08;espresso;1;7.00;pago
+3882;2026-10-08;pao de queijo;1;6.50;pago
+3883;2026-10-02;espresso;1;7.00;pago
+3884;2026-10-03;espresso;1;7.00;pago
+3885;2026-10-06;torta de limao;1;13.50;pago
+3886;2026-10-05;espresso;1;7.00;pago
+3887;2026-10-03;livro de bolso;1;39.90;pago
+3888;2026-10-01;croissant;1;11.00;pago
+3889;2026-10-05;pao de queijo;1;6.50;pago
+3890;2026-10-02;cappuccino;1;14.50;cancelado
+3891;2026-10-04;cha gelado;2;9.00;pago
+3892;2026-10-07;livro de bolso;1;39.90;pago
+3893;2026-10-09;bolo de cenoura;1;12.00;pago
+3894;2026-10-08;croissant;2;11.00;pago
+3895;2026-10-08;espresso;3;7.00;pago
+3896;2026-10-03;pao de queijo;1;6.50;pago
+3897;2026-10-06;cha gelado;2;9.00;pago
+3898;2026-10-06;cha gelado;1;9.00;cancelado
+3899;2026-10-04;pao de queijo;2;6.50;cancelado
+3900;2026-10-06;cha gelado;1;9.00;pago
+3901;2026-10-09;espresso;1;7.00;pago
+3902;2026-10-02;cha gelado;1;9.00;pago
+3903;2026-10-06;cha gelado;1;9.00;pago
+3904;2026-10-02;espresso;2;7.00;pago
+3905;2026-10-05;torta de limao;2;13.50;pago
+3906;2026-10-01;cappuccino;2;14.50;pago
+3907;2026-10-03;croissant;1;11.00;pago
+3908;2026-10-01;croissant;3;11.00;pago
+3909;2026-10-05;torta de limao;1;13.50;pago
+3910;2026-10-01;espresso;1;7.00;pago
+3911;2026-10-01;croissant;5;11.00;pago
+3912;2026-10-03;cappuccino;2;14.50;pago
+3913;2026-10-01;espresso;3;7.00;pago
+3914;2026-10-08;pao de queijo;1;6.50;pago
+3915;2026-10-01;torta de limao;2;13.50;pago
+3916;2026-10-01;pao de queijo;2;6.50;pago
+3917;2026-10-01;cha gelado;2;9.00;pago
+3918;2026-10-02;pao de queijo;5;6.50;cancelado
+3919;2026-10-06;cha gelado;1;9.00;pago
+3920;2026-10-01;cappuccino;5;14.50;pago
+3921;2026-10-07;pao de queijo;1;6.50;pago
+3922;2026-10-05;cha gelado;2;9.00;pago
+3923;2026-10-07;croissant;2;11.00;pago
+3924;2026-10-04;cappuccino;1;14.50;pago
+3925;2026-10-02;bolo de cenoura;1;12.00;pago
+3926;2026-10-07;cha gelado;2;9.00;pago
+3927;2026-10-06;cappuccino;1;14.50;pago
+3928;2026-10-04;pao de queijo;4;6.50;pago
+3929;2026-10-08;espresso;2;7.00;pago
+3930;2026-10-05;pao de queijo;5;6.50;pago
+3931;2026-10-05;espresso;1;7.00;pago
+3932;2026-10-06;cappuccino;2;14.50;pago
+3933;2026-10-09;cappuccino;2;14.50;pago
+3934;2026-10-06;torta de limao;1;13.50;pago
+3935;2026-10-02;cha gelado;4;9.00;pago
+3936;2026-10-01;croissant;1;11.00;pago
+3937;2026-10-08;cha gelado;1;9.00;pago
+3938;2026-10-06;pao de queijo;5;6.50;pago
+3939;2026-10-03;cha gelado;1;9.00;pago
+3940;2026-10-03;pao de queijo;1;6.50;pago
+3941;2026-10-07;croissant;1;11.00;pago
+3942;2026-10-07;croissant;1;11.00;pago
+3943;2026-10-05;pao de queijo;1;6.50;pago
+3944;2026-10-02;livro de bolso;1;39.90;pago
+3945;2026-10-08;cappuccino;2;14.50;pago
+3946;2026-10-08;pao de queijo;1;6.50;cancelado
+3947;2026-10-04;pao de queijo;2;6.50;pago
+3948;2026-10-01;cappuccino;1;14.50;pago
+3949;2026-10-02;livro de bolso;4;39.90;pago
+3950;2026-10-09;livro de bolso;1;39.90;pago
+3951;2026-10-06;cha gelado;3;9.00;pago
+3952;2026-10-04;torta de limao;2;13.50;pago
+3953;2026-10-02;pao de queijo;2;6.50;pago
+3954;2026-10-06;cappuccino;1;14.50;pago
+3955;2026-10-06;torta de limao;1;13.50;pago
+3956;2026-10-07;torta de limao;3;13.50;pago
+3957;2026-10-01;pao de queijo;1;6.50;pago
+3958;2026-10-09;cappuccino;3;14.50;pago
+3959;2026-10-06;livro de bolso;1;39.90;pago
+3960;2026-10-03;cappuccino;1;14.50;pago
+3961;2026-10-08;torta de limao;1;13.50;pago
+3962;2026-10-07;torta de limao;2;13.50;pago
+3963;2026-10-05;pao de queijo;1;6.50;pago
+3964;2026-10-07;torta de limao;1;13.50;pago
+3965;2026-10-08;cha gelado;1;9.00;pago
+3966;2026-10-07;croissant;2;11.00;pago
+3967;2026-10-05;pao de queijo;1;6.50;pago
+3968;2026-10-07;cappuccino;1;14.50;pago
+3969;2026-10-04;cappuccino;4;14.50;pago
+3970;2026-10-08;pao de queijo;5;6.50;pago
+3971;2026-10-02;cha gelado;2;9.00;pago
+3972;2026-10-02;croissant;1;11.00;pago
+3973;2026-10-01;pao de queijo;2;6.50;pago
+3974;2026-10-03;pao de queijo;1;6.50;pago
+3975;2026-10-02;bolo de cenoura;2;12.00;pago
+3976;2026-10-08;espresso;1;7.00;cancelado
+3977;2026-10-06;livro de bolso;2;39.90;pago
+3978;2026-10-08;torta de limao;2;13.50;pago
+3979;2026-10-06;espresso;5;7.00;pago
+3980;2026-10-03;croissant;1;11.00;pago
+3981;2026-10-02;bolo de cenoura;1;12.00;pago
+3982;2026-10-03;livro de bolso;1;39.90;pago
+3983;2026-10-07;cha gelado;1;9.00;pago
+3984;2026-10-08;cappuccino;1;14.50;pago
+3985;2026-10-05;cha gelado;3;9.00;cancelado
+3986;2026-10-08;cappuccino;1;14.50;pago
+3987;2026-10-03;espresso;2;7.00;pago
+3988;2026-10-03;croissant;2;11.00;pago
+3989;2026-10-08;cappuccino;2;14.50;pago
+3990;2026-10-02;torta de limao;1;13.50;pago
+3991;2026-10-08;pao de queijo;1;6.50;pago
+3992;2026-10-03;livro de bolso;1;39.90;pago
+3993;2026-10-01;pao de queijo;2;6.50;pago
+3994;2026-10-07;espresso;3;7.00;pago
+3995;2026-10-02;croissant;5;11.00;pago
+3996;2026-10-05;pao de queijo;4;6.50;pago
+3997;2026-10-07;pao de queijo;1;6.50;pago
+3998;2026-10-08;torta de limao;1;13.50;pago
+3999;2026-10-01;pao de queijo;1;6.50;pago
+4000;2026-10-03;espresso;4;7.00;pago
+4001;2026-10-03;cappuccino;2;14.50;pago
+4002;2026-10-08;cappuccino;2;14.50;pago
+4003;2026-10-09;pao de queijo;2;6.50;pago
+4004;2026-10-04;cha gelado;2;9.00;pago
+4005;2026-10-02;espresso;1;7.00;cancelado
+4006;2026-10-06;espresso;1;7.00;cancelado
+4007;2026-10-01;cha gelado;1;9.00;pago
+4008;2026-10-07;cappuccino;3;14.50;pago
+4009;2026-10-06;espresso;1;7.00;pago
+4010;2026-10-06;pao de queijo;2;6.50;pago
+4011;2026-10-01;cappuccino;1;14.50;pago
+4012;2026-10-03;espresso;2;7.00;pago
+4013;2026-10-03;pao de queijo;1;6.50;pago
+4014;2026-10-09;pao de queijo;1;6.50;pago
+4015;2026-10-06;torta de limao;2;13.50;pago
+4016;2026-10-07;cappuccino;3;14.50;pago
+4017;2026-10-09;croissant;4;11.00;pago
+4018;2026-10-05;croissant;1;11.00;pago
+4019;2026-10-01;pao de queijo;1;6.50;pago
+4020;2026-10-07;pao de queijo;4;6.50;pago
+4021;2026-10-06;cha gelado;1;9.00;pago
+4022;2026-10-02;pao de queijo;4;6.50;pago
+4023;2026-10-07;espresso;3;7.00;pago
+4024;2026-10-09;espresso;1;7.00;cancelado
+4025;2026-10-03;cappuccino;1;14.50;pago
+4026;2026-10-05;croissant;2;11.00;pago
+4027;2026-10-06;livro de bolso;1;39.90;pago
+4028;2026-10-08;torta de limao;4;13.50;pago
+4029;2026-10-08;cappuccino;1;14.50;pago
+4030;2026-10-07;pao de queijo;2;6.50;pago
+4031;2026-10-01;cappuccino;2;14.50;pago
+4032;2026-10-09;pao de queijo;1;6.50;pago
+4033;2026-10-01;livro de bolso;1;39.90;pago
+4034;2026-10-07;cappuccino;1;14.50;pago
+4035;2026-10-06;bolo de cenoura;2;12.00;pago
+4036;2026-10-07;torta de limao;1;13.50;pago
+4037;2026-10-02;bolo de cenoura;1;12.00;pago
+4038;2026-10-07;croissant;5;11.00;pago
+4039;2026-10-09;croissant;1;11.00;pago
+4040;2026-10-04;bolo de cenoura;1;12.00;pago
+4041;2026-10-04;bolo de cenoura;5;12.00;pago
+4042;2026-10-03;bolo de cenoura;2;12.00;pago
+4043;2026-10-07;cappuccino;1;14.50;pago
+4044;2026-10-08;pao de queijo;3;6.50;pago
+4045;2026-10-01;espresso;1;7.00;pago
+4046;2026-10-03;cappuccino;1;14.50;pago
+4047;2026-10-02;pao de queijo;1;6.50;pago
+4048;2026-10-06;espresso;3;7.00;pago
+4049;2026-10-03;cappuccino;1;14.50;pago
+4050;2026-10-05;torta de limao;1;13.50;cancelado
+4051;2026-10-07;torta de limao;2;13.50;pago
+4052;2026-10-01;espresso;2;7.00;pago
+4053;2026-10-04;cappuccino;1;14.50;pago
+4054;2026-10-02;cappuccino;2;14.50;pago
+4055;2026-10-08;livro de bolso;1;39.90;pago
+4056;2026-10-02;espresso;2;7.00;pago
+4057;2026-10-01;cha gelado;5;9.00;pago
+4058;2026-10-04;torta de limao;1;13.50;pago
+4059;2026-10-06;espresso;2;7.00;pago
+4060;2026-10-02;torta de limao;1;13.50;pago
+4061;2026-10-01;cappuccino;2;14.50;pago
+4062;2026-10-03;livro de bolso;1;39.90;pago
+4063;2026-10-03;pao de queijo;1;6.50;pago
+4064;2026-10-06;cappuccino;2;14.50;pago
+4065;2026-10-08;cappuccino;2;14.50;pago
+4066;2026-10-08;cha gelado;4;9.00;pago
+4067;2026-10-05;pao de queijo;1;6.50;pago
+4068;2026-10-01;croissant;2;11.00;pago
+4069;2026-10-07;cha gelado;2;9.00;pago
+4070;2026-10-03;livro de bolso;2;39.90;pago
+4071;2026-10-09;livro de bolso;2;39.90;pago
+4072;2026-10-05;livro de bolso;2;39.90;pago
+4073;2026-10-09;croissant;2;11.00;pago
+4074;2026-10-07;pao de queijo;2;6.50;pago
+4075;2026-10-09;livro de bolso;1;39.90;pago
+4076;2026-10-03;bolo de cenoura;1;12.00;pago
+4077;2026-10-05;cha gelado;2;9.00;cancelado
+4078;2026-10-02;croissant;3;11.00;pago
+4079;2026-10-07;espresso;3;7.00;pago
+4080;2026-10-02;cappuccino;1;14.50;pago
+4081;2026-10-01;bolo de cenoura;1;12.00;pago
+4082;2026-10-03;cappuccino;3;14.50;pago
+4083;2026-10-08;pao de queijo;1;6.50;cancelado
+4084;2026-10-04;livro de bolso;1;39.90;pago
+4085;2026-10-05;espresso;3;7.00;pago
+4086;2026-10-07;espresso;1;7.00;pago
+4087;2026-10-07;espresso;3;7.00;pago
+4088;2026-10-06;cappuccino;1;14.50;pago
+4089;2026-10-02;torta de limao;2;13.50;pago
+4090;2026-10-09;espresso;1;7.00;pago
+4091;2026-10-02;cha gelado;1;9.00;pago
+4092;2026-10-09;bolo de cenoura;2;12.00;pago
+4093;2026-10-05;croissant;1;11.00;pago
+4094;2026-10-08;bolo de cenoura;2;12.00;pago
+4095;2026-10-03;livro de bolso;2;39.90;pago
+4096;2026-10-09;pao de queijo;1;6.50;pago
+4097;2026-10-05;espresso;1;7.00;pago
+4098;2026-10-02;torta de limao;1;13.50;pago
+4099;2026-10-05;croissant;1;11.00;pago
+4100;2026-10-03;espresso;1;7.00;cancelado
+4101;2026-10-05;pao de queijo;3;6.50;pago
+4102;2026-10-03;pao de queijo;1;6.50;pago
+4103;2026-10-08;torta de limao;3;13.50;pago
+4104;2026-10-05;bolo de cenoura;1;12.00;pago
+4105;2026-10-01;espresso;2;7.00;pago
+4106;2026-10-02;espresso;1;7.00;pago
+4107;2026-10-01;cappuccino;3;14.50;pago
+4108;2026-10-03;pao de queijo;5;6.50;pago
+4109;2026-10-08;cappuccino;2;14.50;pago
+4110;2026-10-07;espresso;1;7.00;pago
+4111;2026-10-06;cappuccino;4;14.50;pago
+4112;2026-10-03;pao de queijo;3;6.50;pago
+4113;2026-10-08;pao de queijo;1;6.50;pago
+4114;2026-10-09;bolo de cenoura;1;12.00;pago
+4115;2026-10-08;cappuccino;2;14.50;pago
+4116;2026-10-06;croissant;1;11.00;pago
+4117;2026-10-05;bolo de cenoura;2;12.00;pago
+4118;2026-10-04;pao de queijo;1;6.50;pago
+4119;2026-10-06;cappuccino;3;14.50;pago
+4120;2026-10-05;pao de queijo;2;6.50;pago
+4121;2026-10-01;torta de limao;1;13.50;pago
+4122;2026-10-04;bolo de cenoura;4;12.00;pago
+4123;2026-10-09;torta de limao;1;13.50;pago
+4124;2026-10-05;croissant;1;11.00;pago
+4125;2026-10-04;bolo de cenoura;5;12.00;pago
+4126;2026-10-02;cappuccino;2;14.50;pago
+4127;2026-10-02;torta de limao;1;13.50;pago
+4128;2026-10-08;espresso;2;7.00;pago
+4129;2026-10-08;cha gelado;3;9.00;pago
+4130;2026-10-09;pao de queijo;4;6.50;pago
+4131;2026-10-09;cappuccino;2;14.50;pago
+4132;2026-10-02;cappuccino;5;14.50;pago
+4133;2026-10-09;bolo de cenoura;1;12.00;pago
+4134;2026-10-04;pao de queijo;2;6.50;pago
+4135;2026-10-05;croissant;1;11.00;pago
+4136;2026-10-02;torta de limao;1;13.50;pago
+4137;2026-10-04;espresso;2;7.00;pago
+4138;2026-10-09;espresso;1;7.00;pago
+4139;2026-10-05;cha gelado;2;9.00;cancelado
+4140;2026-10-06;cappuccino;2;14.50;pago
+4141;2026-10-01;cha gelado;1;9.00;pago
+4142;2026-10-08;pao de queijo;1;6.50;pago
+4143;2026-10-04;pao de queijo;1;6.50;pago
+4144;2026-10-02;pao de queijo;2;6.50;pago
+4145;2026-10-06;bolo de cenoura;3;12.00;pago
+4146;2026-10-08;cappuccino;4;14.50;pago
+4147;2026-10-03;livro de bolso;2;39.90;pago
+4148;2026-10-06;cha gelado;1;9.00;pago
+4149;2026-10-01;pao de queijo;2;6.50;pago
+4150;2026-10-04;espresso;1;7.00;pago
+4151;2026-10-08;espresso;1;7.00;pago
+4152;2026-10-09;cha gelado;2;9.00;pago
+4153;2026-10-02;pao de queijo;1;6.50;pago
+4154;2026-10-04;pao de queijo;3;6.50;pago
+4155;2026-10-09;cha gelado;1;9.00;pago
+4156;2026-10-09;espresso;1;7.00;pago
+4157;2026-10-09;cappuccino;1;14.50;pago
+4158;2026-10-01;livro de bolso;1;39.90;pago
+4159;2026-10-03;bolo de cenoura;1;12.00;pago
+4160;2026-10-03;cha gelado;2;9.00;pago
+4161;2026-10-07;pao de queijo;2;6.50;pago
+4162;2026-10-09;pao de queijo;2;6.50;pago
+4163;2026-10-02;torta de limao;1;13.50;pago
+4164;2026-10-03;croissant;1;11.00;pago
+4165;2026-10-06;bolo de cenoura;3;12.00;pago
+4166;2026-10-07;cappuccino;1;14.50;pago
+4167;2026-10-07;croissant;1;11.00;pago
+4168;2026-10-01;cappuccino;5;14.50;pago
+4169;2026-10-05;torta de limao;2;13.50;pago
+4170;2026-10-09;bolo de cenoura;1;12.00;pago
+4171;2026-10-09;pao de queijo;4;6.50;pago
+4172;2026-10-06;cappuccino;1;14.50;pago
+4173;2026-10-01;livro de bolso;1;39.90;pago
+4174;2026-10-06;pao de queijo;1;6.50;pago
+4175;2026-10-04;cha gelado;1;9.00;pago
+4176;2026-10-09;pao de queijo;1;6.50;pago
+4177;2026-10-09;torta de limao;2;13.50;pago
+4178;2026-10-05;cappuccino;5;14.50;pago
+4179;2026-10-02;torta de limao;1;13.50;cancelado
+4180;2026-10-05;pao de queijo;1;6.50;pago
+4181;2026-10-01;cappuccino;1;14.50;pago
+4182;2026-10-04;torta de limao;2;13.50;pago
+4183;2026-10-08;cha gelado;2;9.00;pago
+4184;2026-10-02;croissant;1;11.00;pago
+4185;2026-10-02;espresso;2;7.00;pago
+4186;2026-10-03;cappuccino;3;14.50;pago
+4187;2026-10-08;pao de queijo;1;6.50;pago
+4188;2026-10-09;croissant;2;11.00;pago
+4189;2026-10-06;torta de limao;1;13.50;pago
+4190;2026-10-04;bolo de cenoura;1;12.00;pago
+4191;2026-10-08;cappuccino;3;14.50;pago
+4192;2026-10-09;cappuccino;1;14.50;pago
+4193;2026-10-02;bolo de cenoura;2;12.00;pago
+4194;2026-10-01;cappuccino;2;14.50;pago
+4195;2026-10-02;pao de queijo;2;6.50;pago
+4196;2026-10-02;bolo de cenoura;2;12.00;pago
+4197;2026-10-02;cappuccino;1;14.50;pago
+4198;2026-10-03;pao de queijo;1;6.50;pago
+4199;2026-10-01;bolo de cenoura;1;12.00;pago
+4200;2026-10-09;pao de queijo;1;6.50;pago
+4201;2026-10-08;croissant;1;11.00;pago
+4202;2026-10-09;pao de queijo;2;6.50;pago
+4203;2026-10-06;cappuccino;1;14.50;pago
+4204;2026-10-01;livro de bolso;1;39.90;pago
+4205;2026-10-04;cha gelado;5;9.00;pago
+4206;2026-10-01;cha gelado;1;9.00;pago
+4207;2026-10-03;pao de queijo;1;6.50;pago
+4208;2026-10-06;torta de limao;1;13.50;pago
+4209;2026-10-06;pao de queijo;4;6.50;pago
+4210;2026-10-07;cha gelado;1;9.00;pago
+4211;2026-10-05;cappuccino;2;14.50;pago
+4212;2026-10-07;pao de queijo;1;6.50;pago
+4213;2026-10-02;livro de bolso;1;39.90;pago
+4214;2026-10-08;croissant;1;11.00;pago
+4215;2026-10-05;espresso;2;7.00;pago
+4216;2026-10-04;pao de queijo;1;6.50;pago
+4217;2026-10-06;torta de limao;1;13.50;pago
+4218;2026-10-08;bolo de cenoura;1;12.00;pago
+4219;2026-10-09;cappuccino;1;14.50;pago
+4220;2026-10-06;croissant;5;11.00;pago
+4221;2026-10-08;espresso;1;7.00;pago
+4222;2026-10-08;cappuccino;4;14.50;pago
+4223;2026-10-03;pao de queijo;1;6.50;pago
+4224;2026-10-04;croissant;1;11.00;pago
+4225;2026-10-01;espresso;1;7.00;pago
+4226;2026-10-04;pao de queijo;4;6.50;pago
+4227;2026-10-06;espresso;1;7.00;pago
+4228;2026-10-08;livro de bolso;3;39.90;pago
+4229;2026-10-06;pao de queijo;1;6.50;pago
+4230;2026-10-08;pao de queijo;1;6.50;pago
+4231;2026-10-06;cha gelado;2;9.00;pago
+4232;2026-10-03;pao de queijo;1;6.50;pago
+4233;2026-10-02;espresso;2;7.00;pago
+4234;2026-10-04;torta de limao;1;13.50;pago
+4235;2026-10-04;croissant;2;11.00;pago
+4236;2026-10-03;cha gelado;1;9.00;pago
+4237;2026-10-02;pao de queijo;2;6.50;pago
+4238;2026-10-06;pao de queijo;1;6.50;pago
+4239;2026-10-02;bolo de cenoura;3;12.00;cancelado
+4240;2026-10-05;cappuccino;1;14.50;pago
+4241;2026-10-06;livro de bolso;2;39.90;pago
+4242;2026-10-02;pao de queijo;2;6.50;pago
+4243;2026-10-06;espresso;1;7.00;pago
+4244;2026-10-05;livro de bolso;4;39.90;pago
+4245;2026-10-01;cha gelado;1;9.00;pago
+4246;2026-10-03;espresso;1;7.00;pago
+4247;2026-10-04;cha gelado;1;9.00;pago
+4248;2026-10-05;croissant;1;11.00;pago
+4249;2026-10-08;espresso;1;7.00;pago
+4250;2026-10-01;livro de bolso;2;39.90;pago
+4251;2026-10-01;croissant;2;11.00;pago
+4252;2026-10-03;bolo de cenoura;4;12.00;pago
+4253;2026-10-02;pao de queijo;2;6.50;pago
+4254;2026-10-02;bolo de cenoura;1;12.00;pago
+4255;2026-10-09;pao de queijo;1;6.50;pago
+4256;2026-10-04;torta de limao;1;13.50;pago
+4257;2026-10-01;croissant;1;11.00;pago
+4258;2026-10-03;livro de bolso;1;39.90;pago
+4259;2026-10-07;cha gelado;5;9.00;pago
+4260;2026-10-06;croissant;2;11.00;pago
+4261;2026-10-02;torta de limao;1;13.50;pago
+4262;2026-10-08;bolo de cenoura;1;12.00;cancelado
+4263;2026-10-08;pao de queijo;2;6.50;pago
+4264;2026-10-07;cha gelado;1;9.00;pago
+4265;2026-10-05;espresso;1;7.00;pago
+4266;2026-10-05;torta de limao;2;13.50;pago
+4267;2026-10-06;croissant;2;11.00;pago
+4268;2026-10-04;bolo de cenoura;1;12.00;pago
+4269;2026-10-06;cha gelado;3;9.00;pago
+4270;2026-10-06;pao de queijo;1;6.50;pago
+4271;2026-10-03;cha gelado;4;9.00;pago
+4272;2026-10-08;pao de queijo;2;6.50;cancelado
+4273;2026-10-07;torta de limao;2;13.50;pago
+4274;2026-10-03;pao de queijo;1;6.50;pago
+4275;2026-10-06;cappuccino;1;14.50;pago
+4276;2026-10-09;torta de limao;1;13.50;pago
+4277;2026-10-04;livro de bolso;1;39.90;pago
+4278;2026-10-04;pao de queijo;2;6.50;pago
+4279;2026-10-04;pao de queijo;1;6.50;pago
+4280;2026-10-07;pao de queijo;1;6.50;pago
+4281;2026-10-04;pao de queijo;1;6.50;pago
+4282;2026-10-07;bolo de cenoura;1;12.00;pago
+4283;2026-10-01;livro de bolso;1;39.90;cancelado
+4284;2026-10-08;cappuccino;2;14.50;pago
+4285;2026-10-03;croissant;1;11.00;pago
+4286;2026-10-09;torta de limao;1;13.50;pago
+4287;2026-10-09;pao de queijo;4;6.50;pago
+4288;2026-10-02;espresso;1;7.00;pago
+4289;2026-10-04;bolo de cenoura;2;12.00;cancelado
+4290;2026-10-09;cappuccino;3;14.50;pago
+4291;2026-10-06;pao de queijo;1;6.50;pago
+4292;2026-10-01;cha gelado;1;9.00;pago
+4293;2026-10-07;pao de queijo;5;6.50;pago
+4294;2026-10-08;espresso;3;7.00;pago
+4295;2026-10-06;pao de queijo;2;6.50;pago
+4296;2026-10-02;torta de limao;2;13.50;pago
+4297;2026-10-01;espresso;4;7.00;pago
+4298;2026-10-05;pao de queijo;2;6.50;pago
+4299;2026-10-05;bolo de cenoura;3;12.00;pago
+4300;2026-10-02;cappuccino;1;14.50;pago
+4301;2026-10-06;croissant;1;11.00;pago
+4302;2026-10-01;croissant;1;11.00;pago
+4303;2026-10-08;cappuccino;4;14.50;pago
+4304;2026-10-01;cappuccino;1;14.50;pago
+4305;2026-10-05;torta de limao;1;13.50;pago
+4306;2026-10-04;croissant;1;11.00;pago
+4307;2026-10-01;bolo de cenoura;2;12.00;pago
+4308;2026-10-03;cappuccino;2;14.50;cancelado
+4309;2026-10-05;espresso;3;7.00;pago
+4310;2026-10-07;torta de limao;1;13.50;pago
+4311;2026-10-03;croissant;3;11.00;pago
+4312;2026-10-06;cha gelado;4;9.00;pago
+4313;2026-10-09;cha gelado;2;9.00;pago
+4314;2026-10-08;pao de queijo;1;6.50;pago
+4315;2026-10-09;cappuccino;1;14.50;pago
+4316;2026-10-09;espresso;3;7.00;cancelado
+4317;2026-10-07;bolo de cenoura;1;12.00;cancelado
+4318;2026-10-08;bolo de cenoura;2;12.00;pago
+4319;2026-10-05;bolo de cenoura;2;12.00;pago
+4320;2026-10-01;cha gelado;2;9.00;pago
+4321;2026-10-03;espresso;1;7.00;pago
+4322;2026-10-05;livro de bolso;3;39.90;pago
+4323;2026-10-09;pao de queijo;2;6.50;cancelado
+4324;2026-10-01;espresso;1;7.00;pago
+4325;2026-10-04;bolo de cenoura;3;12.00;pago
+4326;2026-10-09;pao de queijo;3;6.50;pago
+4327;2026-10-02;livro de bolso;3;39.90;pago
+4328;2026-10-08;bolo de cenoura;1;12.00;pago
+4329;2026-10-03;bolo de cenoura;2;12.00;pago
+4330;2026-10-06;livro de bolso;1;39.90;pago
+4331;2026-10-08;croissant;1;11.00;pago
+4332;2026-10-07;livro de bolso;1;39.90;pago
+4333;2026-10-05;croissant;1;11.00;pago
+4334;2026-10-01;pao de queijo;1;6.50;pago
+4335;2026-10-04;bolo de cenoura;1;12.00;pago
+4336;2026-10-05;torta de limao;1;13.50;pago
+4337;2026-10-05;torta de limao;3;13.50;pago
+4338;2026-10-04;cappuccino;1;14.50;pago
+4339;2026-10-01;pao de queijo;1;6.50;pago
+4340;2026-10-09;espresso;1;7.00;pago
+4341;2026-10-08;cha gelado;4;9.00;pago
+4342;2026-10-08;pao de queijo;1;6.50;pago
+4343;2026-10-05;cappuccino;1;14.50;pago
+4344;2026-10-06;croissant;2;11.00;pago
+4345;2026-10-01;bolo de cenoura;1;12.00;pago
+4346;2026-10-07;espresso;1;7.00;pago
+4347;2026-10-07;pao de queijo;1;6.50;pago
+4348;2026-10-08;espresso;1;7.00;pago
+4349;2026-10-07;bolo de cenoura;1;12.00;pago
+4350;2026-10-02;pao de queijo;2;6.50;pago
+4351;2026-10-01;croissant;1;11.00;pago
+4352;2026-10-04;cappuccino;1;14.50;pago
+4353;2026-10-08;cappuccino;1;14.50;pago
+4354;2026-10-05;croissant;1;11.00;pago
+4355;2026-10-06;cha gelado;4;9.00;pago
+4356;2026-10-02;espresso;4;7.00;pago
+4357;2026-10-01;espresso;1;7.00;pago
+4358;2026-10-09;bolo de cenoura;3;12.00;pago
+4359;2026-10-06;pao de queijo;2;6.50;pago
+4360;2026-10-08;espresso;1;7.00;pago
+4361;2026-10-06;pao de queijo;1;6.50;pago
+4362;2026-10-05;croissant;5;11.00;pago
+4363;2026-10-06;croissant;3;11.00;pago
+4364;2026-10-03;espresso;1;7.00;pago
+4365;2026-10-01;bolo de cenoura;2;12.00;pago
+4366;2026-10-04;torta de limao;2;13.50;cancelado
+4367;2026-10-01;espresso;1;7.00;pago
+4368;2026-10-04;torta de limao;1;13.50;pago
+4369;2026-10-04;espresso;1;7.00;pago
+4370;2026-10-04;espresso;2;7.00;pago
+4371;2026-10-03;cappuccino;2;14.50;pago
+4372;2026-10-06;croissant;1;11.00;pago
+4373;2026-10-02;croissant;5;11.00;pago
+4374;2026-10-01;pao de queijo;1;6.50;pago
+4375;2026-10-05;cappuccino;2;14.50;pago
+4376;2026-10-06;torta de limao;1;13.50;cancelado
+4377;2026-10-03;croissant;3;11.00;pago
+4378;2026-10-08;pao de queijo;1;6.50;pago
+4379;2026-10-07;pao de queijo;1;6.50;pago
+4380;2026-10-08;croissant;1;11.00;pago
+4381;2026-10-07;pao de queijo;1;6.50;pago
+4382;2026-10-02;bolo de cenoura;1;12.00;pago
+4383;2026-10-03;livro de bolso;2;39.90;pago
+4384;2026-10-04;croissant;2;11.00;pago
+4385;2026-10-08;cappuccino;1;14.50;pago
+4386;2026-10-08;bolo de cenoura;3;12.00;pago
+4387;2026-10-08;pao de queijo;2;6.50;cancelado
+4388;2026-10-03;croissant;1;11.00;pago
+4389;2026-10-03;pao de queijo;1;6.50;pago
+4390;2026-10-03;bolo de cenoura;1;12.00;pago
+4391;2026-10-01;croissant;2;11.00;pago
+4392;2026-10-09;espresso;1;7.00;pago
+4393;2026-10-04;bolo de cenoura;3;12.00;pago
+4394;2026-10-02;pao de queijo;2;6.50;pago
+4395;2026-10-05;cha gelado;4;9.00;pago
+4396;2026-10-03;torta de limao;1;13.50;pago
+4397;2026-10-06;bolo de cenoura;2;12.00;cancelado
+4398;2026-10-09;livro de bolso;2;39.90;pago
+4399;2026-10-04;pao de queijo;1;6.50;pago
+4400;2026-10-01;cappuccino;1;14.50;pago
+4401;2026-10-05;cappuccino;1;14.50;pago
+4402;2026-10-08;croissant;1;11.00;pago
+4403;2026-10-04;pao de queijo;1;6.50;pago
+4404;2026-10-03;cha gelado;1;9.00;pago
+4405;2026-10-06;cappuccino;1;14.50;pago
+4406;2026-10-07;cappuccino;1;14.50;cancelado
+4407;2026-10-06;cappuccino;1;14.50;pago
+4408;2026-10-07;cha gelado;1;9.00;pago
+4409;2026-10-03;pao de queijo;1;6.50;pago
+4410;2026-10-01;pao de queijo;1;6.50;pago
+4411;2026-10-04;cappuccino;1;14.50;pago
+4412;2026-10-03;pao de queijo;3;6.50;pago
+4413;2026-10-01;espresso;1;7.00;pago
+4414;2026-10-08;cha gelado;1;9.00;pago
+4415;2026-10-08;cappuccino;2;14.50;pago
+4416;2026-10-05;cappuccino;1;14.50;pago
+4417;2026-10-08;cappuccino;2;14.50;pago
+4418;2026-10-07;livro de bolso;3;39.90;pago
+4419;2026-10-09;pao de queijo;1;6.50;pago
+4420;2026-10-05;pao de queijo;3;6.50;pago
+4421;2026-10-07;cappuccino;1;14.50;pago
+4422;2026-10-03;espresso;3;7.00;pago
+4423;2026-10-09;livro de bolso;2;39.90;pago
+4424;2026-10-09;croissant;4;11.00;pago
+4425;2026-10-04;pao de queijo;4;6.50;pago
+4426;2026-10-04;cappuccino;4;14.50;pago
+4427;2026-10-04;croissant;1;11.00;pago
+4428;2026-10-05;cappuccino;1;14.50;pago
+4429;2026-10-04;livro de bolso;2;39.90;pago
+4430;2026-10-07;croissant;1;11.00;pago
+4431;2026-10-02;cappuccino;1;14.50;pago
+4432;2026-10-05;pao de queijo;2;6.50;pago
+4433;2026-10-04;torta de limao;1;13.50;cancelado
+4434;2026-10-05;cappuccino;1;14.50;pago
+4435;2026-10-02;torta de limao;1;13.50;pago
+4436;2026-10-08;bolo de cenoura;1;12.00;pago
+4437;2026-10-04;pao de queijo;2;6.50;pago
+4438;2026-10-06;pao de queijo;1;6.50;pago
+4439;2026-10-06;espresso;2;7.00;pago
+4440;2026-10-03;torta de limao;4;13.50;pago
+4441;2026-10-04;croissant;1;11.00;pago
+4442;2026-10-02;pao de queijo;4;6.50;pago
+4443;2026-10-09;croissant;1;11.00;pago
+4444;2026-10-03;cappuccino;3;14.50;cancelado
+4445;2026-10-07;croissant;3;11.00;pago
+4446;2026-10-02;cappuccino;2;14.50;pago
+4447;2026-10-08;livro de bolso;1;39.90;pago
+4448;2026-10-03;espresso;2;7.00;pago
+4449;2026-10-02;espresso;2;7.00;pago
+4450;2026-10-01;cappuccino;1;14.50;pago
+4451;2026-10-01;croissant;4;11.00;pago
+4452;2026-10-03;cappuccino;4;14.50;pago
+4453;2026-10-09;cha gelado;2;9.00;pago
+4454;2026-10-08;bolo de cenoura;2;12.00;pago
+4455;2026-10-06;livro de bolso;1;39.90;pago
+4456;2026-10-01;cha gelado;2;9.00;pago
+4457;2026-10-04;bolo de cenoura;1;12.00;pago
+4458;2026-10-08;torta de limao;2;13.50;pago
+4459;2026-10-06;torta de limao;2;13.50;pago
+4460;2026-10-05;bolo de cenoura;1;12.00;pago
+4461;2026-10-08;bolo de cenoura;1;12.00;pago
+4462;2026-10-06;torta de limao;3;13.50;pago
+4463;2026-10-06;pao de queijo;3;6.50;pago
+4464;2026-10-01;pao de queijo;1;6.50;pago
+4465;2026-10-09;espresso;1;7.00;cancelado
+4466;2026-10-07;pao de queijo;1;6.50;pago
+4467;2026-10-06;pao de queijo;1;6.50;pago
+4468;2026-10-04;pao de queijo;1;6.50;pago
+4469;2026-10-05;cha gelado;4;9.00;pago
+4470;2026-10-06;cha gelado;1;9.00;pago
+4471;2026-10-03;pao de queijo;1;6.50;pago
+4472;2026-10-02;espresso;1;7.00;pago
+4473;2026-10-04;livro de bolso;1;39.90;pago
+4474;2026-10-06;cappuccino;3;14.50;pago
+4475;2026-10-02;espresso;1;7.00;pago
+4476;2026-10-04;croissant;1;11.00;pago
+4477;2026-10-02;torta de limao;1;13.50;pago
+4478;2026-10-05;croissant;1;11.00;pago
+4479;2026-10-06;croissant;4;11.00;pago
+4480;2026-10-04;croissant;2;11.00;pago
+4481;2026-10-02;pao de queijo;2;6.50;pago
+4482;2026-10-06;livro de bolso;3;39.90;pago
+4483;2026-10-02;cappuccino;1;14.50;pago
+4484;2026-10-03;pao de queijo;1;6.50;pago
+4485;2026-10-02;croissant;1;11.00;pago
+4486;2026-10-07;cappuccino;1;14.50;pago
+4487;2026-10-03;cappuccino;5;14.50;pago
+4488;2026-10-02;pao de queijo;1;6.50;pago
+4489;2026-10-02;bolo de cenoura;1;12.00;pago
+4490;2026-10-02;cha gelado;1;9.00;pago
+4491;2026-10-09;bolo de cenoura;1;12.00;pago
+4492;2026-10-01;pao de queijo;1;6.50;cancelado
+4493;2026-10-02;pao de queijo;4;6.50;pago
+4494;2026-10-04;bolo de cenoura;2;12.00;pago
+4495;2026-10-05;cappuccino;1;14.50;pago
+4496;2026-10-08;livro de bolso;5;39.90;pago
+4497;2026-10-03;torta de limao;1;13.50;cancelado
+4498;2026-10-06;cha gelado;1;9.00;pago
+4499;2026-10-01;livro de bolso;3;39.90;pago
+4500;2026-10-04;espresso;2;7.00;pago
+4501;2026-10-08;livro de bolso;2;39.90;pago
+4502;2026-10-03;cappuccino;1;14.50;pago
+4503;2026-10-04;cappuccino;5;14.50;pago
+4504;2026-10-03;pao de queijo;2;6.50;pago
+4505;2026-10-05;pao de queijo;2;6.50;pago
+4506;2026-10-01;espresso;1;7.00;pago
+4507;2026-10-02;bolo de cenoura;1;12.00;pago
+4508;2026-10-09;pao de queijo;2;6.50;pago
+4509;2026-10-01;croissant;1;11.00;pago
+4510;2026-10-09;torta de limao;2;13.50;pago
+4511;2026-10-04;pao de queijo;2;6.50;pago
+4512;2026-10-06;espresso;1;7.00;pago
+4513;2026-10-02;cha gelado;3;9.00;pago
+4514;2026-10-09;pao de queijo;2;6.50;pago
+4515;2026-10-08;cha gelado;1;9.00;pago
+4516;2026-10-01;bolo de cenoura;1;12.00;pago
+4517;2026-10-06;bolo de cenoura;2;12.00;pago
+4518;2026-10-02;croissant;3;11.00;pago
+4519;2026-10-06;livro de bolso;4;39.90;cancelado
+4520;2026-10-09;torta de limao;1;13.50;pago
+4521;2026-10-01;espresso;2;7.00;pago
+4522;2026-10-05;pao de queijo;2;6.50;pago
+4523;2026-10-05;cappuccino;2;14.50;pago
+4524;2026-10-07;croissant;1;11.00;pago
+4525;2026-10-04;torta de limao;1;13.50;pago
+4526;2026-10-01;espresso;3;7.00;pago
+4527;2026-10-07;cappuccino;1;14.50;pago
+4528;2026-10-02;croissant;2;11.00;pago
+4529;2026-10-04;bolo de cenoura;1;12.00;cancelado
+4530;2026-10-08;cappuccino;2;14.50;pago
+4531;2026-10-02;cha gelado;2;9.00;pago
+4532;2026-10-03;pao de queijo;1;6.50;pago
+4533;2026-10-01;pao de queijo;5;6.50;pago
+4534;2026-10-01;livro de bolso;1;39.90;pago
+4535;2026-10-02;bolo de cenoura;5;12.00;pago
+4536;2026-10-02;espresso;1;7.00;pago
+4537;2026-10-04;pao de queijo;4;6.50;pago
+4538;2026-10-04;cappuccino;2;14.50;pago
+4539;2026-10-03;torta de limao;5;13.50;pago
+4540;2026-10-06;espresso;1;7.00;pago
+4541;2026-10-01;cappuccino;1;14.50;pago
+4542;2026-10-02;pao de queijo;2;6.50;pago
+4543;2026-10-06;livro de bolso;2;39.90;pago
+4544;2026-10-05;cha gelado;5;9.00;pago
+4545;2026-10-05;torta de limao;3;13.50;pago
+4546;2026-10-05;espresso;1;7.00;pago
+4547;2026-10-01;croissant;1;11.00;pago
+4548;2026-10-03;cappuccino;1;14.50;pago
+4549;2026-10-05;torta de limao;1;13.50;pago
+4550;2026-10-04;espresso;1;7.00;pago
+4551;2026-10-01;bolo de cenoura;3;12.00;pago
+4552;2026-10-05;bolo de cenoura;1;12.00;pago
+4553;2026-10-02;bolo de cenoura;2;12.00;pago
+4554;2026-10-07;cappuccino;2;14.50;pago
+4555;2026-10-01;torta de limao;2;13.50;pago
+4556;2026-10-03;bolo de cenoura;2;12.00;pago
+4557;2026-10-04;torta de limao;1;13.50;pago
+4558;2026-10-02;torta de limao;5;13.50;pago
+4559;2026-10-09;torta de limao;3;13.50;pago
+4560;2026-10-02;livro de bolso;1;39.90;pago
+4561;2026-10-07;croissant;1;11.00;cancelado
+4562;2026-10-05;pao de queijo;1;6.50;pago
+4563;2026-10-06;torta de limao;3;13.50;pago
+4564;2026-10-03;pao de queijo;4;6.50;pago
+4565;2026-10-09;bolo de cenoura;1;12.00;pago
+4566;2026-10-01;livro de bolso;3;39.90;pago
+4567;2026-10-03;pao de queijo;4;6.50;pago
+4568;2026-10-03;croissant;1;11.00;pago
+4569;2026-10-04;bolo de cenoura;1;12.00;pago
+4570;2026-10-01;bolo de cenoura;3;12.00;pago
+4571;2026-10-09;cappuccino;1;14.50;cancelado
+4572;2026-10-07;livro de bolso;3;39.90;pago
+4573;2026-10-08;bolo de cenoura;1;12.00;pago
+4574;2026-10-06;cappuccino;1;14.50;pago
+4575;2026-10-07;livro de bolso;1;39.90;pago
+4576;2026-10-09;croissant;1;11.00;pago
+4577;2026-10-08;cha gelado;2;9.00;pago
+4578;2026-10-01;croissant;3;11.00;pago
+4579;2026-10-01;espresso;1;7.00;pago
+4580;2026-10-04;torta de limao;1;13.50;pago
+4581;2026-10-06;torta de limao;2;13.50;cancelado
+4582;2026-10-08;espresso;2;7.00;pago
+4583;2026-10-07;croissant;1;11.00;pago
+4584;2026-10-09;pao de queijo;1;6.50;pago
+4585;2026-10-04;cappuccino;3;14.50;pago
+4586;2026-10-01;cha gelado;1;9.00;pago
+4587;2026-10-05;croissant;1;11.00;pago
+4588;2026-10-09;espresso;1;7.00;pago
+4589;2026-10-05;pao de queijo;1;6.50;pago
+4590;2026-10-06;torta de limao;1;13.50;pago
+4591;2026-10-06;torta de limao;2;13.50;pago
+4592;2026-10-02;pao de queijo;2;6.50;pago
+4593;2026-10-05;croissant;3;11.00;pago
+4594;2026-10-08;espresso;2;7.00;pago
+4595;2026-10-09;pao de queijo;3;6.50;pago
+4596;2026-10-04;pao de queijo;2;6.50;pago
+4597;2026-10-06;croissant;2;11.00;pago
+4598;2026-10-07;cappuccino;1;14.50;pago
+4599;2026-10-09;cappuccino;1;14.50;pago
+4600;2026-10-06;espresso;1;7.00;pago
+4601;2026-10-03;bolo de cenoura;1;12.00;pago
+4602;2026-10-09;espresso;1;7.00;pago
+4603;2026-10-07;pao de queijo;1;6.50;pago
+4604;2026-10-05;bolo de cenoura;1;12.00;cancelado
+4605;2026-10-06;livro de bolso;2;39.90;pago
+4606;2026-10-08;cappuccino;1;14.50;pago
+4607;2026-10-08;cappuccino;2;14.50;pago
+4608;2026-10-01;espresso;1;7.00;pago
+4609;2026-10-08;espresso;2;7.00;cancelado
+4610;2026-10-09;livro de bolso;2;39.90;pago
+4611;2026-10-06;espresso;1;7.00;pago
+4612;2026-10-07;croissant;2;11.00;pago
+4613;2026-10-01;cappuccino;1;14.50;pago
+4614;2026-10-06;livro de bolso;1;39.90;pago
+4615;2026-10-09;espresso;3;7.00;pago
+4616;2026-10-04;bolo de cenoura;2;12.00;pago
+4617;2026-10-03;croissant;1;11.00;pago
+4618;2026-10-04;pao de queijo;1;6.50;pago
+4619;2026-10-02;bolo de cenoura;2;12.00;pago
+4620;2026-10-05;cha gelado;1;9.00;pago
+4621;2026-10-06;croissant;2;11.00;pago
+4622;2026-10-03;torta de limao;1;13.50;pago
+4623;2026-10-03;pao de queijo;1;6.50;pago
+4624;2026-10-05;bolo de cenoura;2;12.00;pago
+4625;2026-10-02;cha gelado;1;9.00;pago
+4626;2026-10-07;cappuccino;1;14.50;pago
+4627;2026-10-01;bolo de cenoura;1;12.00;pago
+4628;2026-10-02;cappuccino;3;14.50;pago
+4629;2026-10-08;pao de queijo;5;6.50;pago
+4630;2026-10-08;croissant;3;11.00;pago
+4631;2026-10-06;livro de bolso;1;39.90;pago
+4632;2026-10-02;croissant;1;11.00;cancelado
+4633;2026-10-05;pao de queijo;3;6.50;pago
+4634;2026-10-07;pao de queijo;2;6.50;pago
+4635;2026-10-03;cha gelado;2;9.00;pago
+4636;2026-10-01;pao de queijo;4;6.50;pago
+4637;2026-10-08;pao de queijo;1;6.50;pago
+4638;2026-10-03;pao de queijo;2;6.50;pago
+4639;2026-10-06;pao de queijo;2;6.50;pago
+4640;2026-10-03;torta de limao;2;13.50;pago
+4641;2026-10-03;cappuccino;1;14.50;pago
+4642;2026-10-05;livro de bolso;1;39.90;pago
+4643;2026-10-01;torta de limao;1;13.50;pago
+4644;2026-10-02;livro de bolso;1;39.90;pago
+4645;2026-10-01;croissant;1;11.00;pago
+4646;2026-10-04;pao de queijo;1;6.50;pago
+4647;2026-10-01;torta de limao;1;13.50;pago
+4648;2026-10-05;espresso;1;7.00;pago
+4649;2026-10-07;espresso;1;7.00;cancelado
+4650;2026-10-02;cha gelado;1;9.00;pago
+4651;2026-10-06;bolo de cenoura;1;12.00;pago
+4652;2026-10-08;torta de limao;1;13.50;pago
+4653;2026-10-03;cappuccino;2;14.50;pago
+4654;2026-10-02;espresso;2;7.00;pago
+4655;2026-10-09;cappuccino;1;14.50;pago
+4656;2026-10-04;cappuccino;1;14.50;pago
+4657;2026-10-03;bolo de cenoura;1;12.00;pago
+4658;2026-10-05;espresso;2;7.00;pago
+4659;2026-10-02;espresso;1;7.00;pago
+4660;2026-10-08;pao de queijo;1;6.50;pago
+4661;2026-10-01;bolo de cenoura;2;12.00;pago
+4662;2026-10-01;cappuccino;1;14.50;pago
+4663;2026-10-05;cappuccino;1;14.50;pago
+4664;2026-10-02;pao de queijo;5;6.50;pago
+4665;2026-10-04;croissant;1;11.00;cancelado
+4666;2026-10-04;espresso;1;7.00;pago
+4667;2026-10-04;cha gelado;1;9.00;pago
+4668;2026-10-09;bolo de cenoura;4;12.00;pago
+4669;2026-10-02;cappuccino;1;14.50;pago
+4670;2026-10-02;espresso;1;7.00;pago
+4671;2026-10-07;livro de bolso;4;39.90;pago
+4672;2026-10-01;cha gelado;1;9.00;pago
+4673;2026-10-04;croissant;2;11.00;pago
+4674;2026-10-09;cha gelado;1;9.00;pago
+4675;2026-10-08;cappuccino;1;14.50;pago
+4676;2026-10-09;bolo de cenoura;1;12.00;pago
+4677;2026-10-08;cappuccino;2;14.50;pago
+4678;2026-10-07;pao de queijo;1;6.50;pago
+4679;2026-10-01;croissant;1;11.00;pago
+4680;2026-10-08;bolo de cenoura;5;12.00;pago
+4681;2026-10-01;bolo de cenoura;1;12.00;pago
+4682;2026-10-07;cappuccino;1;14.50;pago
+4683;2026-10-09;espresso;1;7.00;cancelado
+4684;2026-10-06;bolo de cenoura;1;12.00;pago
+4685;2026-10-08;livro de bolso;5;39.90;pago
+4686;2026-10-02;espresso;2;7.00;pago
+4687;2026-10-06;pao de queijo;1;6.50;pago
+4688;2026-10-02;cha gelado;3;9.00;pago
+4689;2026-10-08;pao de queijo;1;6.50;pago
+4690;2026-10-02;cha gelado;1;9.00;pago
+4691;2026-10-01;cappuccino;3;14.50;pago
+4692;2026-10-01;bolo de cenoura;1;12.00;pago
+4693;2026-10-03;espresso;1;7.00;pago
+4694;2026-10-05;bolo de cenoura;1;12.00;pago
+4695;2026-10-03;bolo de cenoura;1;12.00;pago
+4696;2026-10-03;pao de queijo;4;6.50;pago
+4697;2026-10-02;pao de queijo;1;6.50;pago
+4698;2026-10-09;pao de queijo;2;6.50;pago
+4699;2026-10-09;torta de limao;1;13.50;pago
+4700;2026-10-05;cappuccino;1;14.50;pago
+4701;2026-10-01;cha gelado;2;9.00;pago
+4702;2026-10-03;cappuccino;3;14.50;pago
+4703;2026-10-09;cappuccino;1;14.50;pago
+4704;2026-10-06;cappuccino;1;14.50;pago
+4705;2026-10-07;cha gelado;1;9.00;pago
+4706;2026-10-05;croissant;3;11.00;pago
+4707;2026-10-06;pao de queijo;2;6.50;pago
+4708;2026-10-09;cha gelado;2;9.00;pago
+4709;2026-10-06;espresso;1;7.00;pago
+4710;2026-10-02;espresso;1;7.00;pago
+4711;2026-10-03;cha gelado;3;9.00;pago
+4712;2026-10-08;cappuccino;1;14.50;cancelado
+4713;2026-10-07;pao de queijo;1;6.50;pago
+4714;2026-10-01;pao de queijo;1;6.50;pago
+4715;2026-10-04;pao de queijo;1;6.50;pago
+4716;2026-10-02;cappuccino;2;14.50;pago
+4717;2026-10-04;bolo de cenoura;2;12.00;pago
+4718;2026-10-07;croissant;5;11.00;pago
+4719;2026-10-06;cappuccino;5;14.50;pago
+4720;2026-10-02;cappuccino;2;14.50;pago
+4721;2026-10-05;pao de queijo;1;6.50;pago
+4722;2026-10-07;bolo de cenoura;4;12.00;pago
+4723;2026-10-02;cha gelado;3;9.00;pago
+4724;2026-10-08;croissant;1;11.00;cancelado
+4725;2026-10-06;torta de limao;2;13.50;pago
+4726;2026-10-02;croissant;1;11.00;pago
+4727;2026-10-06;pao de queijo;4;6.50;pago
+4728;2026-10-06;pao de queijo;2;6.50;pago
+4729;2026-10-03;livro de bolso;1;39.90;pago
+4730;2026-10-07;torta de limao;2;13.50;pago
+4731;2026-10-09;espresso;1;7.00;pago
+4732;2026-10-03;cha gelado;2;9.00;pago
+4733;2026-10-05;livro de bolso;3;39.90;pago
+4734;2026-10-04;livro de bolso;1;39.90;pago
+4735;2026-10-01;espresso;1;7.00;cancelado
+4736;2026-10-02;pao de queijo;1;6.50;pago
+4737;2026-10-06;bolo de cenoura;1;12.00;pago
+4738;2026-10-06;cha gelado;1;9.00;pago
+4739;2026-10-04;cappuccino;1;14.50;pago
+4740;2026-10-06;pao de queijo;2;6.50;pago
+4741;2026-10-01;pao de queijo;1;6.50;pago
+4742;2026-10-07;croissant;1;11.00;pago
+4743;2026-10-02;cappuccino;1;14.50;pago
+4744;2026-10-02;croissant;2;11.00;pago
+4745;2026-10-05;bolo de cenoura;5;12.00;pago
+4746;2026-10-07;croissant;1;11.00;pago
+4747;2026-10-05;cappuccino;3;14.50;pago
+4748;2026-10-01;bolo de cenoura;3;12.00;pago
+4749;2026-10-06;cha gelado;1;9.00;pago
+4750;2026-10-04;espresso;1;7.00;pago
+4751;2026-10-06;pao de queijo;3;6.50;pago
+4752;2026-10-02;cappuccino;4;14.50;pago
+4753;2026-10-06;livro de bolso;1;39.90;pago
+4754;2026-10-05;pao de queijo;2;6.50;pago
+4755;2026-10-08;cappuccino;2;14.50;pago
+4756;2026-10-03;cappuccino;3;14.50;pago
+4757;2026-10-07;torta de limao;1;13.50;pago
+4758;2026-10-08;croissant;2;11.00;cancelado
+4759;2026-10-02;pao de queijo;1;6.50;pago
+4760;2026-10-08;espresso;2;7.00;pago
+4761;2026-10-01;cappuccino;1;14.50;pago
+4762;2026-10-07;pao de queijo;2;6.50;pago
+4763;2026-10-09;cappuccino;2;14.50;pago
+4764;2026-10-09;pao de queijo;1;6.50;pago
+4765;2026-10-01;livro de bolso;1;39.90;pago
+4766;2026-10-01;croissant;2;11.00;pago
+4767;2026-10-02;croissant;1;11.00;pago
+4768;2026-10-05;pao de queijo;3;6.50;pago
+4769;2026-10-09;cappuccino;1;14.50;pago
+4770;2026-10-09;livro de bolso;2;39.90;pago
+4771;2026-10-08;pao de queijo;1;6.50;pago
+4772;2026-10-06;espresso;2;7.00;pago
+4773;2026-10-01;cappuccino;2;14.50;pago
+4774;2026-10-06;pao de queijo;1;6.50;pago
+4775;2026-10-08;espresso;2;7.00;pago
+4776;2026-10-03;cha gelado;1;9.00;pago
+4777;2026-10-04;croissant;2;11.00;pago
+4778;2026-10-07;espresso;1;7.00;pago
+4779;2026-10-02;espresso;1;7.00;cancelado
+4780;2026-10-04;bolo de cenoura;1;12.00;pago
+4781;2026-10-02;cappuccino;1;14.50;pago
+4782;2026-10-05;cha gelado;1;9.00;pago
+4783;2026-10-01;cappuccino;3;14.50;pago
+4784;2026-10-02;pao de queijo;1;6.50;cancelado
+4785;2026-10-06;croissant;3;11.00;pago
+4786;2026-10-04;cha gelado;2;9.00;pago
+4787;2026-10-09;pao de queijo;1;6.50;pago
+4788;2026-10-02;espresso;1;7.00;pago
+4789;2026-10-02;livro de bolso;1;39.90;pago
+4790;2026-10-01;espresso;1;7.00;pago
+4791;2026-10-05;cappuccino;1;14.50;pago
+4792;2026-10-09;pao de queijo;1;6.50;pago
+4793;2026-10-09;bolo de cenoura;2;12.00;pago
+4794;2026-10-07;espresso;1;7.00;cancelado
+4795;2026-10-06;bolo de cenoura;2;12.00;pago
+4796;2026-10-06;cappuccino;1;14.50;pago
+4797;2026-10-05;cappuccino;1;14.50;pago
+4798;2026-10-07;bolo de cenoura;1;12.00;pago
+4799;2026-10-09;cha gelado;1;9.00;pago
+4800;2026-10-07;croissant;1;11.00;pago
+4801;2026-10-07;torta de limao;1;13.50;pago
+4802;2026-10-04;croissant;2;11.00;pago
+4803;2026-10-04;espresso;1;7.00;pago
+4804;2026-10-06;cappuccino;1;14.50;pago
+4805;2026-10-04;pao de queijo;3;6.50;cancelado
+4806;2026-10-04;torta de limao;3;13.50;pago
+4807;2026-10-04;cappuccino;5;14.50;pago
+4808;2026-10-02;torta de limao;1;13.50;pago
+4809;2026-10-08;pao de queijo;3;6.50;pago
+4810;2026-10-08;cappuccino;1;14.50;pago
+4811;2026-10-01;espresso;4;7.00;pago
+4812;2026-10-04;bolo de cenoura;2;12.00;pago
+4813;2026-10-09;pao de queijo;1;6.50;pago
+4814;2026-10-08;espresso;1;7.00;pago
+4815;2026-10-03;cappuccino;3;14.50;pago
+4816;2026-10-02;torta de limao;3;13.50;pago
+4817;2026-10-01;torta de limao;1;13.50;pago
+4818;2026-10-01;cha gelado;1;9.00;pago
+4819;2026-10-08;bolo de cenoura;2;12.00;pago
+4820;2026-10-06;torta de limao;1;13.50;pago
+4821;2026-10-01;cappuccino;1;14.50;pago
+4822;2026-10-03;pao de queijo;2;6.50;pago
+4823;2026-10-02;croissant;1;11.00;pago
+4824;2026-10-06;torta de limao;3;13.50;pago
+4825;2026-10-07;cappuccino;2;14.50;pago
+4826;2026-10-04;croissant;2;11.00;pago
+4827;2026-10-05;bolo de cenoura;1;12.00;pago
+4828;2026-10-08;cappuccino;1;14.50;pago
+4829;2026-10-09;cappuccino;2;14.50;pago
+4830;2026-10-02;torta de limao;2;13.50;pago
+4831;2026-10-02;cappuccino;1;14.50;pago
+4832;2026-10-08;pao de queijo;1;6.50;pago
+4833;2026-10-06;pao de queijo;2;6.50;pago
+4834;2026-10-07;pao de queijo;2;6.50;pago
+4835;2026-10-01;croissant;1;11.00;pago
+4836;2026-10-07;croissant;2;11.00;pago
+4837;2026-10-05;espresso;2;7.00;pago
+4838;2026-10-01;croissant;1;11.00;pago
+4839;2026-10-05;cappuccino;2;14.50;pago
+4840;2026-10-06;croissant;1;11.00;pago
+4841;2026-10-08;livro de bolso;1;39.90;pago
+4842;2026-10-04;espresso;1;7.00;pago
+4843;2026-10-09;pao de queijo;3;6.50;pago
+4844;2026-10-09;bolo de cenoura;4;12.00;pago
+4845;2026-10-03;pao de queijo;3;6.50;pago
+4846;2026-10-04;bolo de cenoura;1;12.00;pago
+4847;2026-10-04;pao de queijo;1;6.50;pago
+4848;2026-10-09;torta de limao;1;13.50;pago
+4849;2026-10-02;cappuccino;1;14.50;pago
+4850;2026-10-06;cappuccino;1;14.50;pago
+4851;2026-10-01;croissant;1;11.00;pago
+4852;2026-10-02;cappuccino;1;14.50;cancelado
+4853;2026-10-02;torta de limao;2;13.50;pago
+4854;2026-10-07;espresso;1;7.00;cancelado
+4855;2026-10-07;pao de queijo;3;6.50;cancelado
+4856;2026-10-02;cappuccino;3;14.50;pago
+4857;2026-10-01;livro de bolso;2;39.90;pago
+4858;2026-10-09;cappuccino;1;14.50;pago
+4859;2026-10-06;cappuccino;1;14.50;cancelado
+4860;2026-10-09;pao de queijo;2;6.50;pago
+4861;2026-10-09;livro de bolso;2;39.90;pago
+4862;2026-10-06;croissant;2;11.00;pago
+4863;2026-10-04;cappuccino;5;14.50;pago
+4864;2026-10-08;cappuccino;1;14.50;pago
+4865;2026-10-09;espresso;1;7.00;pago
+4866;2026-10-09;bolo de cenoura;1;12.00;pago
+4867;2026-10-05;cappuccino;1;14.50;pago
+4868;2026-10-04;croissant;2;11.00;pago
+4869;2026-10-01;bolo de cenoura;2;12.00;pago
+4870;2026-10-03;espresso;1;7.00;pago
+4871;2026-10-02;espresso;1;7.00;pago
+4872;2026-10-07;cappuccino;2;14.50;pago
+4873;2026-10-07;pao de queijo;1;6.50;pago
+4874;2026-10-02;cappuccino;1;14.50;pago
+4875;2026-10-09;cappuccino;2;14.50;pago
+4876;2026-10-05;cappuccino;2;14.50;pago
+4877;2026-10-01;pao de queijo;1;6.50;pago
+4878;2026-10-09;pao de queijo;1;6.50;pago
+4879;2026-10-04;pao de queijo;1;6.50;pago
+4880;2026-10-01;pao de queijo;1;6.50;pago
+4881;2026-10-06;espresso;1;7.00;cancelado
+4882;2026-10-01;torta de limao;3;13.50;pago
+4883;2026-10-05;espresso;1;7.00;pago
+4884;2026-10-01;torta de limao;1;13.50;pago
+4885;2026-10-03;pao de queijo;2;6.50;pago
+4886;2026-10-06;pao de queijo;2;6.50;pago
+4887;2026-10-03;bolo de cenoura;2;12.00;pago
+4888;2026-10-08;croissant;1;11.00;pago
+4889;2026-10-09;torta de limao;3;13.50;pago
+4890;2026-10-05;espresso;1;7.00;pago
+4891;2026-10-08;livro de bolso;2;39.90;pago
+4892;2026-10-01;pao de queijo;1;6.50;pago
+4893;2026-10-05;espresso;3;7.00;pago
+4894;2026-10-06;cappuccino;1;14.50;pago
+4895;2026-10-04;cappuccino;1;14.50;pago
+4896;2026-10-06;croissant;2;11.00;pago
+4897;2026-10-06;croissant;2;11.00;pago
+4898;2026-10-02;torta de limao;1;13.50;pago
+4899;2026-10-08;cappuccino;1;14.50;pago
+4900;2026-10-06;espresso;3;7.00;pago
